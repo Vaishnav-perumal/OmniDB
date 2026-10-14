@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ game.title }} | Live Multi-Platform Price Tracker</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- HTMX Core -->
+    <script src="https://unpkg.com/htmx.org@1.9.12"></script>
+    <!-- HTMX Server-Sent Events Extension -->
+    <script src="https://unpkg.com/htmx.org@1.9.12/dist/ext/sse.js"></script>
+
+    <style>
+        @keyframes priceFlash {
+            0% { transform: scale(1.02); box-shadow: 0 0 25px rgba(16, 185, 129, 0.4); }
+            50% { transform: scale(1.01); }
+            100% { transform: scale(1); box-shadow: none; }
+        }
+        .price-updated-flash {
+            animation: priceFlash 0.8s ease-out;
+        }
+        .htmx-swapping {
+            opacity: 0.5;
+            transition: opacity 200ms ease-in-out;
+        }
+    </style>
+</head>
+<body class="bg-slate-950 text-slate-100 min-h-screen p-4 md:p-10 font-sans antialiased selection:bg-emerald-500 selection:text-white">
+
+    <div class="max-w-4xl mx-auto space-y-6">
+
+        <!-- Navigation / Header -->
+        <header class="flex items-center justify-between pb-4 border-b border-slate-800">
+            <div class="flex items-center gap-3">
+                <div class="h-10 w-10 rounded-xl bg-gradient-to-tr from-emerald-500 to-cyan-500 flex items-center justify-center font-black text-slate-950 text-xl shadow-lg shadow-emerald-500/20">
+                    Ω
+                </div>
+                <div>
+                    <h1 class="text-xl font-bold tracking-tight text-white">OmniDB Tracker</h1>
+                    <p class="text-xs text-slate-400">Curated 325 Games &bull; Ultra-Live Real-Time Streaming</p>
+                </div>
+            </div>
+
+            <!-- Global Live Pulse Indicator -->
+            <div class="flex items-center gap-2.5 px-3 py-1.5 rounded-full bg-slate-900 border border-slate-800 text-xs font-semibold text-emerald-400">
+                <span class="relative flex h-2.5 w-2.5">
+                    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                    <span class="relative inline-flex rounded-full h-2.5 w-2.5 bg-emerald-500"></span>
+                </span>
+                <span>Worker Live &bull; Polling 325 Titles</span>
+            </div>
+        </header>
+
+        <!-- GAME CARD MAIN CONTAINER WITH SSE EXTENSION -->
+        <div class="bg-slate-900/80 backdrop-blur border border-slate-800/90 rounded-2xl overflow-hidden shadow-2xl"
+             hx-ext="sse"
+             sse-connect="/api/stream/games/{{ game.id }}">
+
+            <!-- Trigger Ultra-Live Background Fetch On Page Load -->
+            <div hx-get="/api/games/{{ game.id }}" hx-trigger="load" hx-swap="none"></div>
+
+            <!-- Hero Banner -->
+            <div class="relative h-64 md:h-80 w-full overflow-hidden bg-slate-950">
+                {% if game.header_image %}
+                <img src="{{ game.header_image }}" alt="{{ game.title }}" class="w-full h-full object-cover object-center filter brightness-75 hover:scale-105 transition-all duration-700">
+                {% else %}
+                <div class="w-full h-full bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 flex items-center justify-center">
+                    <span class="text-3xl font-black text-slate-700 uppercase tracking-widest">{{ game.slug }}</span>
+                </div>
+                {% endif %}
+                <div class="absolute inset-0 bg-gradient-to-t from-slate-900 via-slate-900/40 to-transparent"></div>
+
+                <div class="absolute bottom-6 left-6 right-6 flex flex-col md:flex-row md:items-end justify-between gap-4">
+                    <div>
+                        <div class="flex items-center gap-2 mb-2">
+                            <span class="px-2.5 py-0.5 rounded bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 text-xs font-bold uppercase tracking-wider">{{ game.ugdb_id }}</span>
+                            {% for genre in game.genres %}
+                            <span class="px-2 py-0.5 rounded bg-slate-800 text-slate-300 text-xs">{{ genre }}</span>
+                            {% endfor %}
+                        </div>
+                        <h2 class="text-3xl md:text-4xl font-extrabold text-white tracking-tight">{{ game.title }}</h2>
+                    </div>
+
+                    <!-- Best Price Badge -->
+                    <div class="bg-slate-950/80 border border-slate-700 rounded-xl px-4 py-3 backdrop-blur shadow-xl text-right">
+                        <div class="text-xs uppercase tracking-wider text-slate-400 font-bold">Best Tracked Price</div>
+                        <div class="text-3xl font-black text-emerald-400">
+                            ${{ "%.2f"|format(game.lowest_price) }}
+                            {% if game.max_discount > 0 %}
+                            <span class="text-sm font-bold text-emerald-300 bg-emerald-950/80 border border-emerald-800 px-2 py-0.5 rounded ml-1">-{{ game.max_discount }}%</span>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Platform Listings Matrix -->
+            <div class="p-6 md:p-8 space-y-4">
+                <div class="flex items-center justify-between">
+                    <h3 class="text-lg font-bold text-white flex items-center gap-2">
+                        <span>Multi-Platform Deal Matrix</span>
+                        <span class="text-xs px-2 py-0.5 rounded-full bg-slate-800 text-slate-400 font-medium">5 Stores</span>
+                    </h3>
+                    <span class="text-xs text-slate-400 flex items-center gap-1.5">
+                        <span class="h-2 w-2 rounded-full bg-emerald-400"></span>
+                        Listening for live SSE price updates...
+                    </span>
+                </div>
+
+                <!-- Stores Grid / Cards -->
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
+                    
+                    {% for platform_name in ['steam', 'gog', 'playstation', 'xbox', 'nintendo'] %}
+                    {% set price = game.prices.get(platform_name) %}
+                    
+                    <!-- Dynamic SSE Target Container for {{ platform_name }} -->
+                    <div id="price-card-{{ platform_name }}"
+                         sse-swap="price-update"
+                         hx-swap="outerHTML swap:0.3s"
+                         class="p-4 rounded-xl border {% if price %}bg-slate-800/40 border-slate-800 hover:border-slate-700{% else %}bg-slate-900/30 border-slate-900 opacity-60{% endif %} transition duration-200">
+                        
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="text-sm font-bold uppercase tracking-wider text-slate-200">{{ platform_name }}</span>
+                            {% if price and price.is_historical_low %}
+                            <span class="bg-amber-500/20 text-amber-300 border border-amber-500/30 text-[10px] font-black uppercase px-1.5 py-0.5 rounded">All-Time Low!</span>
+                            {% endif %}
+                        </div>
+
+                        {% if price %}
+                        <div class="flex items-baseline justify-between mt-3">
+                            <div class="space-x-1.5">
+                                <span class="text-2xl font-black text-white">${{ "%.2f"|format(price.current_price) }}</span>
+                                {% if price.original_price > price.current_price %}
+                                <span class="text-xs line-through text-slate-500">${{ "%.2f"|format(price.original_price) }}</span>
+                                {% endif %}
+                            </div>
+
+                            {% if price.discount_percent > 0 %}
+                            <span class="text-xs font-bold px-2 py-1 rounded bg-emerald-500/20 text-emerald-400 border border-emerald-500/30">
+                                -{{ price.discount_percent }}%
+                            </span>
+                            {% else %}
+                            <span class="text-xs text-slate-500 font-semibold">Standard</span>
+                            {% endif %}
+                        </div>
+
+                        <div class="mt-3 pt-2 border-t border-slate-800/60 flex items-center justify-between text-[11px] text-slate-400">
+                            <span>{{ price.drm_type or 'Digital Store' }}</span>
+                            {% if price.store_url %}
+                            <a href="{{ price.store_url }}" target="_blank" class="text-emerald-400 hover:underline">Visit Store &rarr;</a>
+                            {% endif %}
+                        </div>
+
+                        {% else %}
+                        <div class="text-xs text-slate-500 italic mt-4">Not tracked on this platform</div>
+                        {% endif %}
+                    </div>
+                    {% endfor %}
+
+                </div>
+            </div>
+
+            <!-- Footer Details -->
+            <div class="px-6 py-4 bg-slate-950/60 border-t border-slate-800/80 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-2">
+                <span>Game ID: {{ game.id }} &bull; Canonical Slug: {{ game.slug }}</span>
+                <span>Last live poll: {{ game.last_live_check or 'Initial Cached Seed' }}</span>
+            </div>
+
+        </div>
+
+        <!-- Next / Prev Quick Selector -->
+        <div class="flex items-center justify-between pt-2">
+            {% if game.id > 1 %}
+            <a href="/game/{{ game.id - 1 }}" class="px-4 py-2 rounded-lg bg-slate-900 border border-slate-800 text-xs font-semibold hover:border-slate-700 transition">
+                &larr; Previous Game (#{{ game.id - 1 }})
+            </a>
+            {% else %}
+            <div></div>
+            {% endif %}
+
+            <a href="/game/{{ game.id + 1 if game.id < 325 else 1 }}" class="px-4 py-2 rounded-lg bg-slate-900 border border-slate-800 text-xs font-semibold hover:border-slate-700 transition">
+                Next Game (#{{ game.id + 1 if game.id < 325 else 1 }}) &rarr;
+            </a>
+        </div>
+
+    </div>
+
+</body>
+</html>

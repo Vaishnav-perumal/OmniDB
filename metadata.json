@@ -1,0 +1,6 @@
+{
+  "name": "OmniDB - Universal Game Database",
+  "description": "SteamDB-inspired universal video game database aggregating games, prices, history, DLC, and editions across Steam, Epic Games, GOG, PlayStation, Xbox, and Nintendo powered by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
