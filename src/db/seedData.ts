@@ -980,8 +980,8 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     store_url: 'https://store.steampowered.com/app/1245620/ELDEN_RING/',
     currency: 'USD',
     original_price: 59.99,
-    current_price: 39.99,
-    discount_percent: 33,
+    current_price: 59.99,
+    discount_percent: 0,
     historical_low_price: 35.99,
     historical_low_date: '2024-12-22',
     drm_type: 'Steamworks',
@@ -991,7 +991,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 953426,
     rating_positive_percent: 93.4,
     review_count: 642100,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-10-14T23:37:00Z'
   },
   {
     id: 'listing_er_playstation',
@@ -1066,10 +1066,10 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     store_url: 'https://store.steampowered.com/app/1091500/Cyberpunk_2077/',
     currency: 'USD',
     original_price: 59.99,
-    current_price: 29.99,
-    discount_percent: 50,
-    historical_low_price: 29.99,
-    historical_low_date: '2025-06-25',
+    current_price: 17.99,
+    discount_percent: 70,
+    historical_low_price: 17.99,
+    historical_low_date: '2026-10-14',
     drm_type: 'Steamworks',
     is_available: true,
     current_players: 48500,
@@ -1077,7 +1077,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 1054388,
     rating_positive_percent: 89.6,
     review_count: 730000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-10-14T23:37:00Z'
   },
   {
     id: 'listing_cp_gog',
@@ -1672,10 +1672,10 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     store_url: 'https://store.steampowered.com/app/1172470/Red_Dead_Redemption_2/',
     currency: 'USD',
     original_price: 59.99,
-    current_price: 19.79,
-    discount_percent: 67,
-    historical_low_price: 19.79,
-    historical_low_date: '2024-11-27',
+    current_price: 14.99,
+    discount_percent: 75,
+    historical_low_price: 14.99,
+    historical_low_date: '2026-10-14',
     drm_type: 'Steamworks + Rockstar Games Launcher',
     is_available: true,
     current_players: 64200,
@@ -1683,7 +1683,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 187498,
     rating_positive_percent: 91.2,
     review_count: 580000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-10-14T23:37:00Z'
   },
   {
     id: 'listing_rdr2_epic',
