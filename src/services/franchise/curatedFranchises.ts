@@ -34,7 +34,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '38400', igdbId: 1001, rawgId: 1001 },
         summary: 'The original 1997 classic post-nuclear CRPG that started the legendary Fallout universe.',
         status: 'released',
-        lowest_current_price: 2.49
+        lowest_current_price: 199
       },
       {
         id: 'fallout-2',
@@ -49,7 +49,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '38410', igdbId: 1002, rawgId: 1002 },
         summary: 'Set 80 years after the original, your village faces extinction and you must seek out the Garden of Eden Creation Kit (GECK).',
         status: 'released',
-        lowest_current_price: 2.49
+        lowest_current_price: 199
       },
       {
         id: 'fallout-tactics',
@@ -64,7 +64,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '38420', igdbId: 1003, rawgId: 1003 },
         summary: 'Tactical Squad-Based Combat in the Wasteland with the Brotherhood of Steel.',
         status: 'released',
-        lowest_current_price: 2.49
+        lowest_current_price: 199
       },
       {
         id: 'fallout-brotherhood-of-steel',
@@ -79,7 +79,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { igdbId: 1004, rawgId: 1004 },
         summary: 'A top-down action RPG for console platforms focusing on intense Brotherhood missions.',
         status: 'released',
-        lowest_current_price: 14.99
+        lowest_current_price: 1199
       },
       {
         id: 'fallout-3',
@@ -94,7 +94,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '22370', igdbId: 1005, rawgId: 1005 },
         summary: 'Enter the Capital Wasteland as the Lone Wanderer emerging from Vault 101 to find your missing father.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       },
       {
         id: 'fallout-new-vegas',
@@ -109,7 +109,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '22380', igdbId: 1006, rawgId: 1006 },
         summary: 'Obsidian Entertainment masterpiece where the Courier survives a shallow grave to navigate the Mojave Wasteland.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       },
       {
         id: 'fallout-shelter',
@@ -124,7 +124,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '588430', igdbId: 1007, rawgId: 1007 },
         summary: 'Oversee your own subterranean Vault-Tec Vault, manage Dwellers, and protect them from the Wasteland hazards.',
         status: 'released',
-        lowest_current_price: 0.00
+        lowest_current_price: 0
       },
       {
         id: 'fallout-4',
@@ -139,7 +139,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '377160', igdbId: 1008, rawgId: 1008 },
         summary: 'As the sole survivor of Vault 111, you enter a world destroyed by nuclear war in the Commonwealth of Massachusetts.',
         status: 'released',
-        lowest_current_price: 9.99,
+        lowest_current_price: 799,
         is_existing: true
       },
       {
@@ -155,7 +155,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '611660', igdbId: 1009, rawgId: 1009 },
         summary: 'Full standalone virtual reality game recreating the Commonwealth with groundbreaking VR combat and crafting.',
         status: 'released',
-        lowest_current_price: 14.99
+        lowest_current_price: 1199
       },
       {
         id: 'fallout-76',
@@ -170,7 +170,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1151340', igdbId: 1010, rawgId: 1010 },
         summary: 'Reclamation Day, 2102. 25 years after the bombs fell, you and your fellow Vault Dwellers emerge into post-nuclear West Virginia.',
         status: 'released',
-        lowest_current_price: 9.99
+        lowest_current_price: 799
       },
       {
         id: 'fallout-4-far-harbor',
@@ -185,7 +185,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '435881', igdbId: 1011 },
         summary: 'A new case from Valentine’s Detective Agency leads you on a search for a young woman and a secret colony of synths.',
         status: 'released',
-        lowest_current_price: 5.99
+        lowest_current_price: 479
       },
       {
         id: 'fallout-4-nuka-world',
@@ -200,7 +200,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '404090', igdbId: 1012 },
         summary: 'Take a trip to Nuka-World, a vast amusement park now a lawless city of Raiders.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       }
     ]
   },
@@ -232,7 +232,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '20900', igdbId: 2001, rawgId: 2001 },
         summary: 'Become Geralt of Rivia, a professional monster slayer caught in a web of intrigue.',
         status: 'released',
-        lowest_current_price: 1.49
+        lowest_current_price: 119
       },
       {
         id: 'the-witcher-2',
@@ -247,7 +247,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '20920', igdbId: 2002, rawgId: 2002 },
         summary: 'Geralt is accused of assassinating the King of Temeria and must clear his name amidst political chaos.',
         status: 'released',
-        lowest_current_price: 2.99
+        lowest_current_price: 239
       },
       {
         id: 'the-witcher-3-wild-hunt',
@@ -262,7 +262,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '292030', igdbId: 2003, rawgId: 2003 },
         summary: 'Multi-award-winning open world RPG searching for the Child of Prophecy.',
         status: 'released',
-        lowest_current_price: 9.99,
+        lowest_current_price: 799,
         is_existing: true
       },
       {
@@ -278,7 +278,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1284410', igdbId: 2004, rawgId: 2004 },
         summary: 'Competitive card battle game originating as a mini-game inside The Witcher 3.',
         status: 'released',
-        lowest_current_price: 0.00
+        lowest_current_price: 0
       },
       {
         id: 'thronebreaker-the-witcher-tales',
@@ -293,7 +293,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '973760', igdbId: 2005, rawgId: 2005 },
         summary: 'Single player role-playing game set in the world of The Witcher combining narrative exploration with unique card battle mechanics.',
         status: 'released',
-        lowest_current_price: 3.99
+        lowest_current_price: 319
       },
       {
         id: 'the-witcher-remake',
@@ -308,7 +308,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { igdbId: 2006 },
         summary: 'Modern ground-up reimagining of the original 2007 classic built from scratch in Unreal Engine 5.',
         status: 'announced',
-        lowest_current_price: 69.99
+        lowest_current_price: 5599
       }
     ]
   },
@@ -340,7 +340,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1546970', igdbId: 3001 },
         summary: 'The 3D open-world landmark that revolutionized interactive entertainment in Liberty City.',
         status: 'released',
-        lowest_current_price: 19.99
+        lowest_current_price: 1599
       },
       {
         id: 'gta-vice-city-definitive',
@@ -355,7 +355,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1546990', igdbId: 3002 },
         summary: 'Welcome to the 1980s. From the decade of big hair and pastel suits comes the story of Tommy Vercetti.',
         status: 'released',
-        lowest_current_price: 19.99
+        lowest_current_price: 1599
       },
       {
         id: 'gta-san-andreas-definitive',
@@ -370,7 +370,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1547000', igdbId: 3003 },
         summary: 'CJ returns home to Los Santos in the early 90s to save his family and take control of the streets.',
         status: 'released',
-        lowest_current_price: 19.99
+        lowest_current_price: 1599
       },
       {
         id: 'gta-iv-complete',
@@ -385,7 +385,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '12210', igdbId: 3004 },
         summary: 'Niko Bellic arrives on a boat from Europe looking for the American Dream in Liberty City.',
         status: 'released',
-        lowest_current_price: 5.99
+        lowest_current_price: 479
       },
       {
         id: 'grand-theft-auto-v',
@@ -400,7 +400,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '271590', igdbId: 3005 },
         summary: 'Los Santos: a sprawling sun-soaked metropolis full of self-help gurus, starlets, and fading celebrities.',
         status: 'released',
-        lowest_current_price: 14.99,
+        lowest_current_price: 1199,
         is_existing: true
       },
       {
@@ -416,7 +416,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { igdbId: 3006 },
         summary: 'Grand Theft Auto VI heads to the state of Leonida, home to the neon-soaked streets of Vice City.',
         status: 'announced',
-        lowest_current_price: 69.99
+        lowest_current_price: 5599
       }
     ]
   },
@@ -448,7 +448,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { igdbId: 4001 },
         summary: 'The progenitor of the Souls genre challenging players in the cursed kingdom of Boletaria.',
         status: 'released',
-        lowest_current_price: 29.99
+        lowest_current_price: 2399
       },
       {
         id: 'dark-souls-remastered',
@@ -463,7 +463,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '570940', igdbId: 4002 },
         summary: 'Then, there was Fire. Re-experience the critically acclaimed, genre-defining game that started it all in Lordran.',
         status: 'released',
-        lowest_current_price: 19.99
+        lowest_current_price: 1599
       },
       {
         id: 'dark-souls-ii-scholar',
@@ -478,7 +478,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '335300', igdbId: 4003 },
         summary: 'Journey across Drangleic searching for a cure to the curse of the Undead.',
         status: 'released',
-        lowest_current_price: 19.99
+        lowest_current_price: 1599
       },
       {
         id: 'bloodborne',
@@ -493,7 +493,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { igdbId: 4004 },
         summary: 'Hunt your nightmares in the ancient, plague-ridden city of Yharnam.',
         status: 'released',
-        lowest_current_price: 9.99
+        lowest_current_price: 799
       },
       {
         id: 'dark-souls-iii',
@@ -508,7 +508,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '374320', igdbId: 4005 },
         summary: 'As fires fade and the world falls into ruin, journey into a universe filled with more colossal enemies and environments.',
         status: 'released',
-        lowest_current_price: 29.99,
+        lowest_current_price: 2399,
         is_existing: true
       },
       {
@@ -524,7 +524,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '1245620', igdbId: 4006 },
         summary: 'The Lands Between await. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring.',
         status: 'released',
-        lowest_current_price: 35.99,
+        lowest_current_price: 2879,
         is_existing: true
       }
     ]
@@ -557,7 +557,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '35140', igdbId: 5001 },
         summary: 'Trap inside the psychiatric hospital on Arkham Island with the Joker and Gotham’s most dangerous villains.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       },
       {
         id: 'batman-arkham-city',
@@ -572,7 +572,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '208650', igdbId: 5002 },
         summary: 'Enter Arkham City, the heavily fortified super-prison in the heart of Gotham City.',
         status: 'released',
-        lowest_current_price: 4.99,
+        lowest_current_price: 399,
         is_existing: true
       },
       {
@@ -588,7 +588,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '209000', igdbId: 5003 },
         summary: 'Prequel taking place on Christmas Eve as eight of the world’s deadliest assassins arrive in Gotham to eliminate Batman.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       },
       {
         id: 'batman-arkham-knight',
@@ -603,7 +603,7 @@ const BASE_CURATED_FRANCHISES: Record<string, CuratedFranchiseData> = {
         external_ids: { steamAppId: '208650', igdbId: 5004 },
         summary: 'The explosive finale to the Arkham trilogy introducing Rocksteady’s uniquely designed Batmobile.',
         status: 'released',
-        lowest_current_price: 4.99
+        lowest_current_price: 399
       }
     ]
   }

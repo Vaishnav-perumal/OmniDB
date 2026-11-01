@@ -216,8 +216,8 @@ export class FranchiseEngine {
 
       // 5. Automatic Price Sync Pipeline Insertion
       // Generate storefront listings & historical pricing
-      const basePrice = fg.lowest_current_price !== undefined ? fg.lowest_current_price * 1.5 || 19.99 : 19.99;
-      const currentPrice = fg.lowest_current_price !== undefined ? fg.lowest_current_price : 9.99;
+      const basePrice = fg.lowest_current_price !== undefined ? fg.lowest_current_price * 1.5 || 1499 : 1499;
+      const currentPrice = fg.lowest_current_price !== undefined ? fg.lowest_current_price : 999;
       const discount = basePrice > currentPrice ? Math.round(((basePrice - currentPrice) / basePrice) * 100) : 0;
 
       const generatedListings: PlatformListing[] = fg.platforms.map((p, pIdx) => ({
@@ -229,11 +229,11 @@ export class FranchiseEngine {
           p === 'steam' && fg.external_ids?.steamAppId
             ? `https://store.steampowered.com/app/${fg.external_ids.steamAppId}`
             : `https://www.google.com/search?q=${encodeURIComponent(fg.title + ' ' + p)}`,
-        currency: 'USD',
-        original_price: parseFloat(basePrice.toFixed(2)),
-        current_price: parseFloat(currentPrice.toFixed(2)),
+        currency: 'INR',
+        original_price: Math.round(basePrice),
+        current_price: Math.round(currentPrice),
         discount_percent: discount,
-        historical_low_price: parseFloat(Math.min(currentPrice, basePrice * 0.4).toFixed(2)),
+        historical_low_price: Math.round(Math.min(currentPrice, basePrice * 0.4)),
         historical_low_date: '2026-06-25',
         drm_type: p === 'gog' ? 'DRM-Free' : `${p.toUpperCase()} Account Required`,
         in_stock: true,
@@ -243,7 +243,7 @@ export class FranchiseEngine {
         all_time_peak_players: Math.floor(2000 + Math.random() * 50000),
         rating_positive_percent: 88,
         review_count: 5400,
-        updated_at: new Date().toISOString()
+        updated_at: '2026-11-02T00:00:00Z'
       }));
 
       // Generate initial price history points
@@ -251,8 +251,8 @@ export class FranchiseEngine {
         {
           id: Date.now() + addedCount * 10 + 1,
           listing_id: generatedListings[0].id,
-          price: parseFloat(basePrice.toFixed(2)),
-          currency: 'USD',
+          price: Math.round(basePrice),
+          currency: 'INR',
           recorded_date: '2025-11-20',
           discount_percent: 0,
           event_name: 'Retail MSRP'
@@ -260,8 +260,8 @@ export class FranchiseEngine {
         {
           id: Date.now() + addedCount * 10 + 2,
           listing_id: generatedListings[0].id,
-          price: parseFloat(currentPrice.toFixed(2)),
-          currency: 'USD',
+          price: Math.round(currentPrice),
+          currency: 'INR',
           recorded_date: '2026-06-25',
           discount_percent: discount,
           event_name: 'Franchise Summer Sale'
@@ -269,9 +269,9 @@ export class FranchiseEngine {
         {
           id: Date.now() + addedCount * 10 + 3,
           listing_id: generatedListings[0].id,
-          price: parseFloat(currentPrice.toFixed(2)),
-          currency: 'USD',
-          recorded_date: '2026-09-28',
+          price: Math.round(currentPrice),
+          currency: 'INR',
+          recorded_date: '2026-11-02',
           discount_percent: discount,
           event_name: 'Current Unified Store Deal'
         }

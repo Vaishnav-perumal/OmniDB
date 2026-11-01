@@ -74,7 +74,7 @@ class PostgresService {
         id: 1,
         user_id: 'user_demo',
         game_id: 'cyberpunk-2077',
-        target_price: 29.99,
+        target_price: 2499,
         notify_platforms: ['steam', 'gog', 'epic'],
         created_at: '2026-09-20 14:00:00'
       },
@@ -82,7 +82,7 @@ class PostgresService {
         id: 2,
         user_id: 'user_demo',
         game_id: 'elden-ring',
-        target_price: 39.99,
+        target_price: 3199,
         notify_platforms: ['steam', 'playstation'],
         created_at: '2026-09-21 09:30:00'
       },
@@ -90,7 +90,7 @@ class PostgresService {
         id: 3,
         user_id: 'user_demo',
         game_id: 'black-myth-wukong',
-        target_price: 45.0,
+        target_price: 3599,
         notify_platforms: ['steam', 'playstation'],
         created_at: '2026-09-25 11:15:00'
       }
@@ -171,7 +171,7 @@ class PostgresService {
             platform_id VARCHAR(32) NOT NULL,
             store_app_id VARCHAR(100) NOT NULL,
             store_url TEXT NOT NULL,
-            currency VARCHAR(10) DEFAULT 'USD',
+            currency VARCHAR(10) DEFAULT 'INR',
             original_price NUMERIC(10, 2) NOT NULL DEFAULT 0.00,
             current_price NUMERIC(10, 2) NOT NULL DEFAULT 0.00,
             discount_percent INT NOT NULL DEFAULT 0,
@@ -198,7 +198,7 @@ class PostgresService {
             id BIGINT PRIMARY KEY,
             listing_id VARCHAR(100) NOT NULL,
             price NUMERIC(10, 2) NOT NULL,
-            currency VARCHAR(10) DEFAULT 'USD',
+            currency VARCHAR(10) DEFAULT 'INR',
             recorded_date VARCHAR(20) NOT NULL,
             discount_percent INT DEFAULT 0,
             event_name VARCHAR(255)
@@ -320,7 +320,7 @@ class PostgresService {
     if (filter?.filterType === 'historical_low') {
       list = list.filter(pl => pl.current_price <= pl.historical_low_price);
     } else if (filter?.filterType === 'under_10') {
-      list = list.filter(pl => pl.current_price <= 10.00);
+      list = list.filter(pl => pl.current_price <= 800.00);
     } else if (filter?.filterType === 'deep_70') {
       list = list.filter(pl => pl.discount_percent >= 60);
     }
@@ -607,7 +607,7 @@ class PostgresService {
                 `INSERT INTO price_history (id, listing_id, price, currency, recorded_date, discount_percent, event_name)
                  VALUES ($1, $2, $3, $4, $5, $6, $7)
                  ON CONFLICT (id) DO NOTHING;`,
-                [pt.id, pt.listing_id, pt.price, pt.currency || 'USD', pt.recorded_date, pt.discount_percent || 0, pt.event_name || 'Store Price']
+                [pt.id, pt.listing_id, pt.price, pt.currency || 'INR', pt.recorded_date, pt.discount_percent || 0, pt.event_name || 'Store Price']
               );
             } catch {
               // Non-blocking

@@ -112,7 +112,7 @@ export const SalesView: React.FC<SalesViewProps> = ({ onSelectGame, initialFilte
                 : 'bg-[#090d13] text-zinc-400 border border-[#1b2838] hover:text-white'
             }`}
           >
-            Under $10 Bargains
+            Under ₹800 Bargains
           </button>
 
           <button

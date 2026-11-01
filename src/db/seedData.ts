@@ -978,20 +978,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1245620',
     store_url: 'https://store.steampowered.com/app/1245620/ELDEN_RING/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 59.99,
+    currency: 'INR',
+    original_price: 3599,
+    current_price: 3599,
     discount_percent: 0,
-    historical_low_price: 35.99,
+    historical_low_price: 2519,
     historical_low_date: '2024-12-22',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 78420,
-    peak_players_24h: 96800,
+    current_players: 29529,
+    peak_players_24h: 38400,
     all_time_peak_players: 953426,
     rating_positive_percent: 93.4,
     review_count: 642100,
-    updated_at: '2026-10-14T23:37:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_er_playstation',
@@ -999,11 +999,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA04609_00',
     store_url: 'https://store.playstation.com/concept/10001099',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 39.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3199,
     discount_percent: 33,
-    historical_low_price: 35.99,
+    historical_low_price: 2879,
     historical_low_date: '2024-11-26',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1012,7 +1012,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 94.0,
     review_count: 142000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_er_xbox',
@@ -1020,11 +1020,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BX19FD9WND2W',
     store_url: 'https://www.xbox.com/games/store/elden-ring/bx19fd9wnd2w',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 39.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3199,
     discount_percent: 33,
-    historical_low_price: 35.99,
+    historical_low_price: 2879,
     historical_low_date: '2024-11-26',
     drm_type: 'Xbox Live / Smart Delivery',
     is_available: true,
@@ -1033,7 +1033,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 92.5,
     review_count: 98400,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_er_epic',
@@ -1041,11 +1041,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'elden-ring',
     store_url: 'https://store.epicgames.com/p/elden-ring',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 59.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 4799,
     discount_percent: 0,
-    historical_low_price: 39.99,
+    historical_low_price: 3199,
     historical_low_date: '2024-06-21',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -1054,7 +1054,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 92.0,
     review_count: 12500,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Cyberpunk 2077
@@ -1064,20 +1064,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1091500',
     store_url: 'https://store.steampowered.com/app/1091500/Cyberpunk_2077/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 17.99,
-    discount_percent: 70,
-    historical_low_price: 17.99,
+    currency: 'INR',
+    original_price: 2999,
+    current_price: 1499,
+    discount_percent: 50,
+    historical_low_price: 1499,
     historical_low_date: '2026-10-14',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 48500,
-    peak_players_24h: 62400,
+    current_players: 22265,
+    peak_players_24h: 31500,
     all_time_peak_players: 1054388,
     rating_positive_percent: 89.6,
     review_count: 730000,
-    updated_at: '2026-10-14T23:37:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_cp_gog',
@@ -1085,11 +1085,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'cyberpunk_2077',
     store_url: 'https://www.gog.com/game/cyberpunk_2077',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 26.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2159,
     discount_percent: 55,
-    historical_low_price: 26.99,
+    historical_low_price: 2159,
     historical_low_date: '2026-09-20',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -1098,7 +1098,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 92.0,
     review_count: 85000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_cp_epic',
@@ -1106,11 +1106,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'cyberpunk-2077',
     store_url: 'https://store.epicgames.com/p/cyberpunk-2077',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2399,
     discount_percent: 50,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-12-19',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -1119,7 +1119,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 88.0,
     review_count: 34000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_cp_playstation',
@@ -1127,11 +1127,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA16596_00',
     store_url: 'https://store.playstation.com/concept/233075',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2399,
     discount_percent: 50,
-    historical_low_price: 24.99,
+    historical_low_price: 1999,
     historical_low_date: '2024-11-20',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1140,7 +1140,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 88.2,
     review_count: 110000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_cp_xbox',
@@ -1148,11 +1148,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BX3M8Z83BRQD',
     store_url: 'https://www.xbox.com/games/store/cyberpunk-2077/bx3m8z83brqd',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2399,
     discount_percent: 50,
-    historical_low_price: 24.99,
+    historical_low_price: 1999,
     historical_low_date: '2024-11-20',
     drm_type: 'Xbox Live / Smart Delivery',
     is_available: true,
@@ -1161,7 +1161,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 87.0,
     review_count: 67000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Baldur's Gate 3
@@ -1171,20 +1171,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1086940',
     store_url: 'https://store.steampowered.com/app/1086940/Baldurs_Gate_3/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
+    currency: 'INR',
+    original_price: 4499,
+    current_price: 3599,
     discount_percent: 20,
-    historical_low_price: 47.99,
+    historical_low_price: 3599,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 94200,
-    peak_players_24h: 121000,
+    current_players: 54771,
+    peak_players_24h: 68200,
     all_time_peak_players: 875343,
     rating_positive_percent: 96.2,
     review_count: 615000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_bg3_gog',
@@ -1192,11 +1192,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'baldurs_gate_3',
     store_url: 'https://www.gog.com/game/baldurs_gate_3',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3839,
     discount_percent: 20,
-    historical_low_price: 47.99,
+    historical_low_price: 3839,
     historical_low_date: '2024-06-27',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -1205,7 +1205,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 42000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_bg3_playstation',
@@ -1213,11 +1213,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA14001_00',
     store_url: 'https://store.playstation.com/concept/10007559',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 55.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 4479,
     discount_percent: 20,
-    historical_low_price: 55.99,
+    historical_low_price: 4479,
     historical_low_date: '2024-07-15',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1226,7 +1226,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.5,
     review_count: 89000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_bg3_xbox',
@@ -1234,11 +1234,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9ND58LQT50TX',
     store_url: 'https://www.xbox.com/games/store/baldurs-gate-3/9nd58lqt50tx',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 55.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 4479,
     discount_percent: 20,
-    historical_low_price: 55.99,
+    historical_low_price: 4479,
     historical_low_date: '2024-07-15',
     drm_type: 'Xbox Live / Series X|S Optimized',
     is_available: true,
@@ -1247,7 +1247,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.8,
     review_count: 62000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // The Witcher 3
@@ -1257,20 +1257,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '292030',
     store_url: 'https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 899,
+    current_price: 224,
     discount_percent: 75,
-    historical_low_price: 7.99,
+    historical_low_price: 179,
     historical_low_date: '2024-05-18',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 23100,
-    peak_players_24h: 31000,
+    current_players: 15893,
+    peak_players_24h: 22400,
     all_time_peak_players: 103329,
     rating_positive_percent: 97.1,
     review_count: 760000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_w3_gog',
@@ -1278,11 +1278,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'the_witcher_3_wild_hunt_complete_edition',
     store_url: 'https://www.gog.com/game/the_witcher_3_wild_hunt_complete_edition',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 7.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 639,
     discount_percent: 80,
-    historical_low_price: 7.99,
+    historical_low_price: 639,
     historical_low_date: '2026-09-18',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -1291,7 +1291,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 98.2,
     review_count: 145000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_w3_nintendo',
@@ -1299,11 +1299,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000030588',
     store_url: 'https://www.nintendo.com/store/products/the-witcher-3-wild-hunt-complete-edition-switch/',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 15.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 1279,
     discount_percent: 60,
-    historical_low_price: 15.99,
+    historical_low_price: 1279,
     historical_low_date: '2024-11-20',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -1312,7 +1312,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 91.0,
     review_count: 24000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_w3_playstation',
@@ -1320,11 +1320,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA00527_00',
     store_url: 'https://store.playstation.com/concept/200543',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 11.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 959,
     discount_percent: 70,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-08-10',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1333,7 +1333,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 180000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_w3_xbox',
@@ -1341,11 +1341,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BRG67029L257',
     store_url: 'https://www.xbox.com/games/store/the-witcher-3-wild-hunt/brg67029l257',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 799,
     discount_percent: 75,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-09-12',
     drm_type: 'Xbox Live',
     is_available: true,
@@ -1354,7 +1354,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 112000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Hades 2
@@ -1364,20 +1364,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1145350',
     store_url: 'https://store.steampowered.com/app/1145350/Hades_II/',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 1200,
+    current_price: 1200,
     discount_percent: 0,
-    historical_low_price: 29.99,
+    historical_low_price: 1200,
     historical_low_date: '2024-05-06',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 41200,
-    peak_players_24h: 53100,
+    current_players: 14200,
+    peak_players_24h: 18500,
     all_time_peak_players: 103498,
     rating_positive_percent: 95.8,
     review_count: 98000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hades2_epic',
@@ -1385,11 +1385,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'hades-ii',
     store_url: 'https://store.epicgames.com/p/hades-ii',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 2399,
+    current_price: 2399,
     discount_percent: 0,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-05-06',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -1398,7 +1398,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 94.0,
     review_count: 8500,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Hollow Knight
@@ -1408,20 +1408,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '367520',
     store_url: 'https://store.steampowered.com/app/367520/Hollow_Knight/',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 7.49,
+    currency: 'INR',
+    original_price: 499,
+    current_price: 249,
     discount_percent: 50,
-    historical_low_price: 5.99,
+    historical_low_price: 249,
     historical_low_date: '2024-01-05',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 14200,
-    peak_players_24h: 18500,
+    current_players: 8900,
+    peak_players_24h: 11200,
     all_time_peak_players: 20324,
     rating_positive_percent: 97.4,
     review_count: 360000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hk_gog',
@@ -1429,11 +1429,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'hollow_knight',
     store_url: 'https://www.gog.com/game/hollow_knight',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 7.49,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 599,
     discount_percent: 50,
-    historical_low_price: 5.99,
+    historical_low_price: 479,
     historical_low_date: '2024-01-05',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -1442,7 +1442,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 98.0,
     review_count: 28000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hk_nintendo',
@@ -1450,11 +1450,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000003208',
     store_url: 'https://www.nintendo.com/store/products/hollow-knight-switch/',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 7.49,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 599,
     discount_percent: 50,
-    historical_low_price: 7.49,
+    historical_low_price: 599,
     historical_low_date: '2024-08-15',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -1463,7 +1463,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 52000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hk_playstation',
@@ -1471,11 +1471,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA13632_00',
     store_url: 'https://store.playstation.com/concept/233774',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 7.49,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 599,
     discount_percent: 50,
-    historical_low_price: 7.49,
+    historical_low_price: 599,
     historical_low_date: '2024-09-01',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1484,7 +1484,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.8,
     review_count: 48000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Helldivers 2
@@ -1494,20 +1494,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '553850',
     store_url: 'https://store.steampowered.com/app/553850/HELLDIVERS_2/',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 39.99,
-    discount_percent: 0,
-    historical_low_price: 31.99,
+    currency: 'INR',
+    original_price: 3999,
+    current_price: 3199,
+    discount_percent: 20,
+    historical_low_price: 3199,
     historical_low_date: '2024-08-01',
     drm_type: 'Steamworks + nProtect GameGuard',
     is_available: true,
-    current_players: 86400,
-    peak_players_24h: 112000,
+    current_players: 53399,
+    peak_players_24h: 64100,
     all_time_peak_players: 458709,
     rating_positive_percent: 84.1,
     review_count: 420000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hd2_playstation',
@@ -1515,11 +1515,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA05682_00',
     store_url: 'https://store.playstation.com/concept/10004526',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 39.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 3199,
     discount_percent: 0,
-    historical_low_price: 31.99,
+    historical_low_price: 2559,
     historical_low_date: '2024-08-01',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1528,7 +1528,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 86.0,
     review_count: 140000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // God of War Ragnarök
@@ -1538,11 +1538,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA08329_00',
     store_url: 'https://store.playstation.com/concept/10002694',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 39.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 3199,
     discount_percent: 43,
-    historical_low_price: 34.99,
+    historical_low_price: 2799,
     historical_low_date: '2024-11-29',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1551,7 +1551,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 210000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_gow_steam',
@@ -1559,11 +1559,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '2322010',
     store_url: 'https://store.steampowered.com/app/2322010/God_of_War_Ragnark/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 49.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3999,
     discount_percent: 17,
-    historical_low_price: 49.99,
+    historical_low_price: 3999,
     historical_low_date: '2025-01-10',
     drm_type: 'Steamworks + PlayStation PC Account',
     is_available: true,
@@ -1572,7 +1572,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 73405,
     rating_positive_percent: 82.5,
     review_count: 38000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Zelda TOTK
@@ -1582,11 +1582,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000063714',
     store_url: 'https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 59.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 4799,
     discount_percent: 14,
-    historical_low_price: 54.99,
+    historical_low_price: 4399,
     historical_low_date: '2024-11-28',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -1595,7 +1595,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 320000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Alan Wake 2
@@ -1605,11 +1605,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'alan-wake-2',
     store_url: 'https://store.epicgames.com/p/alan-wake-2',
-    currency: 'USD',
-    original_price: 49.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 3999,
+    current_price: 2399,
     discount_percent: 40,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-10-31',
     drm_type: 'Epic Games Exclusive PC',
     is_available: true,
@@ -1618,7 +1618,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 91.0,
     review_count: 45000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_aw2_playstation',
@@ -1626,11 +1626,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA02571_00',
     store_url: 'https://store.playstation.com/concept/10001712',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 35.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2879,
     discount_percent: 40,
-    historical_low_price: 35.99,
+    historical_low_price: 2879,
     historical_low_date: '2024-10-31',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1639,7 +1639,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 90.0,
     review_count: 38000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_aw2_xbox',
@@ -1647,11 +1647,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'C1X4Q05F9T2Q',
     store_url: 'https://www.xbox.com/games/store/alan-wake-2/c1x4q05f9t2q',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 35.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2879,
     discount_percent: 40,
-    historical_low_price: 35.99,
+    historical_low_price: 2879,
     historical_low_date: '2024-10-31',
     drm_type: 'Xbox Live / Series X|S Only',
     is_available: true,
@@ -1660,7 +1660,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 89.0,
     review_count: 22000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Red Dead Redemption 2
@@ -1670,20 +1670,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1172470',
     store_url: 'https://store.steampowered.com/app/1172470/Red_Dead_Redemption_2/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 14.99,
-    discount_percent: 75,
-    historical_low_price: 14.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 1055,
+    discount_percent: 67,
+    historical_low_price: 1055,
     historical_low_date: '2026-10-14',
     drm_type: 'Steamworks + Rockstar Games Launcher',
     is_available: true,
-    current_players: 64200,
-    peak_players_24h: 78100,
+    current_players: 29885,
+    peak_players_24h: 37500,
     all_time_peak_players: 187498,
     rating_positive_percent: 91.2,
     review_count: 580000,
-    updated_at: '2026-10-14T23:37:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_rdr2_epic',
@@ -1691,11 +1691,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'red-dead-redemption-2',
     store_url: 'https://store.epicgames.com/p/red-dead-redemption-2',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 19.79,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1583,
     discount_percent: 67,
-    historical_low_price: 19.79,
+    historical_low_price: 1583,
     historical_low_date: '2024-11-27',
     drm_type: 'Epic DRM + Rockstar Games Launcher',
     is_available: true,
@@ -1704,7 +1704,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 90.0,
     review_count: 72000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_rdr2_playstation',
@@ -1712,11 +1712,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA03041_00',
     store_url: 'https://store.playstation.com/concept/200084',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 19.79,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1583,
     discount_percent: 67,
-    historical_low_price: 19.79,
+    historical_low_price: 1583,
     historical_low_date: '2024-11-20',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1725,7 +1725,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 320000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_rdr2_xbox',
@@ -1733,11 +1733,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BPSNDLGFH0X0',
     store_url: 'https://www.xbox.com/games/store/red-dead-redemption-2/bpsndlgfh0x0',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 19.79,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1583,
     discount_percent: 67,
-    historical_low_price: 19.79,
+    historical_low_price: 1583,
     historical_low_date: '2024-11-20',
     drm_type: 'Xbox Live',
     is_available: true,
@@ -1746,7 +1746,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.5,
     review_count: 240000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Stardew Valley
@@ -1756,20 +1756,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '413150',
     store_url: 'https://store.steampowered.com/app/413150/Stardew_Valley/',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 8.99,
-    discount_percent: 40,
-    historical_low_price: 7.49,
+    currency: 'INR',
+    original_price: 479,
+    current_price: 479,
+    discount_percent: 0,
+    historical_low_price: 287,
     historical_low_date: '2024-03-19',
     drm_type: 'DRM-Free / Steamworks',
     is_available: true,
-    current_players: 91500,
-    peak_players_24h: 118000,
+    current_players: 50662,
+    peak_players_24h: 58900,
     all_time_peak_players: 236614,
     rating_positive_percent: 98.4,
     review_count: 620000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_stardew_gog',
@@ -1777,11 +1777,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'stardew_valley',
     store_url: 'https://www.gog.com/game/stardew_valley',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 8.99,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 719,
     discount_percent: 40,
-    historical_low_price: 7.49,
+    historical_low_price: 599,
     historical_low_date: '2024-03-19',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -1790,7 +1790,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 99.0,
     review_count: 51000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_stardew_nintendo',
@@ -1798,11 +1798,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000001008',
     store_url: 'https://www.nintendo.com/store/products/stardew-valley-switch/',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 799,
     discount_percent: 33,
-    historical_low_price: 8.99,
+    historical_low_price: 719,
     historical_low_date: '2024-06-15',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -1811,7 +1811,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 98.0,
     review_count: 85000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_stardew_playstation',
@@ -1819,11 +1819,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA06764_00',
     store_url: 'https://store.playstation.com/concept/200676',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 799,
     discount_percent: 33,
-    historical_low_price: 8.99,
+    historical_low_price: 719,
     historical_low_date: '2024-07-20',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1832,7 +1832,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.5,
     review_count: 42000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_stardew_xbox',
@@ -1840,11 +1840,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'C3DT8N88S8Q6',
     store_url: 'https://www.xbox.com/games/store/stardew-valley/c3dt8n88s8q6',
-    currency: 'USD',
-    original_price: 14.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1199,
+    current_price: 799,
     discount_percent: 33,
-    historical_low_price: 8.99,
+    historical_low_price: 719,
     historical_low_date: '2024-07-20',
     drm_type: 'Xbox Live / Game Pass',
     is_available: true,
@@ -1853,7 +1853,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 36000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Black Myth: Wukong
@@ -1863,20 +1863,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '2358720',
     store_url: 'https://store.steampowered.com/app/2358720/Black_Myth_Wukong/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
-    discount_percent: 20,
-    historical_low_price: 47.99,
+    currency: 'INR',
+    original_price: 3599,
+    current_price: 3599,
+    discount_percent: 0,
+    historical_low_price: 2879,
     historical_low_date: '2026-09-10',
     drm_type: 'Steamworks + Denuvo',
     is_available: true,
-    current_players: 185000,
-    peak_players_24h: 242000,
+    current_players: 15004,
+    peak_players_24h: 21800,
     all_time_peak_players: 2415714,
     rating_positive_percent: 95.8,
     review_count: 720000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_bmw_epic',
@@ -1884,11 +1884,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'black-myth-wukong',
     store_url: 'https://store.epicgames.com/p/black-myth-wukong-87a72b',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 59.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 4799,
     discount_percent: 0,
-    historical_low_price: 50.99,
+    historical_low_price: 4079,
     historical_low_date: '2024-12-19',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -1897,7 +1897,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 94.0,
     review_count: 38000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_bmw_playstation',
@@ -1905,11 +1905,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA15822_00',
     store_url: 'https://store.playstation.com/concept/10008544',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3839,
     discount_percent: 20,
-    historical_low_price: 47.99,
+    historical_low_price: 3839,
     historical_low_date: '2026-09-10',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1918,7 +1918,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 98000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Monster Hunter: World
@@ -1928,20 +1928,20 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '582010',
     store_url: 'https://store.steampowered.com/app/582010/Monster_Hunter_World/',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 9.89,
+    currency: 'INR',
+    original_price: 2999,
+    current_price: 989,
     discount_percent: 67,
-    historical_low_price: 9.89,
+    historical_low_price: 989,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
-    current_players: 52300,
-    peak_players_24h: 68500,
+    current_players: 11923,
+    peak_players_24h: 16700,
     all_time_peak_players: 334684,
     rating_positive_percent: 88.5,
     review_count: 285000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_mhw_playstation',
@@ -1949,11 +1949,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA07713_00',
     store_url: 'https://store.playstation.com/concept/229043',
-    currency: 'USD',
-    original_price: 19.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1599,
+    current_price: 799,
     discount_percent: 50,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-05-15',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -1962,7 +1962,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 91.0,
     review_count: 140000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_mhw_xbox',
@@ -1970,11 +1970,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BNN92FQU6WBG',
     store_url: 'https://www.xbox.com/games/store/monster-hunter-world/bnn92fqu6wbg',
-    currency: 'USD',
-    original_price: 19.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1599,
+    current_price: 799,
     discount_percent: 50,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-05-15',
     drm_type: 'Xbox Live',
     is_available: true,
@@ -1983,7 +1983,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 89.0,
     review_count: 94000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Resident Evil 4 (Remake)
@@ -1993,11 +1993,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '2050650',
     store_url: 'https://store.steampowered.com/app/2050650/Resident_Evil_4/',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 2399,
     discount_percent: 25,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks + Denuvo',
     is_available: true,
@@ -2006,7 +2006,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 168191,
     rating_positive_percent: 97.2,
     review_count: 145000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_re4_playstation',
@@ -2014,11 +2014,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA07411_00',
     store_url: 'https://store.playstation.com/concept/10004473',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 2399,
     discount_percent: 25,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-08-01',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2027,7 +2027,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 82000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_re4_xbox',
@@ -2035,11 +2035,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'C1BPFJGBHJG1',
     store_url: 'https://www.xbox.com/games/store/resident-evil-4/c1bpfjgbhjg1',
-    currency: 'USD',
-    original_price: 39.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 3199,
+    current_price: 2399,
     discount_percent: 25,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-08-01',
     drm_type: 'Xbox Live / Smart Delivery',
     is_available: true,
@@ -2048,7 +2048,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 61000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Ghost of Tsushima Director's Cut
@@ -2058,11 +2058,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '2215430',
     store_url: 'https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3839,
     discount_percent: 20,
-    historical_low_price: 47.99,
+    historical_low_price: 3839,
     historical_low_date: '2024-09-15',
     drm_type: 'Steamworks + PlayStation PC SDK',
     is_available: true,
@@ -2071,7 +2071,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 77154,
     rating_positive_percent: 94.1,
     review_count: 78000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_got_epic',
@@ -2079,11 +2079,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'ghost-of-tsushima-directors-cut',
     store_url: 'https://store.epicgames.com/p/ghost-of-tsushima-directors-cut',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 47.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3839,
     discount_percent: 20,
-    historical_low_price: 47.99,
+    historical_low_price: 3839,
     historical_low_date: '2024-09-15',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -2092,7 +2092,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 93.0,
     review_count: 14000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_got_playstation',
@@ -2100,11 +2100,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA02225_00',
     store_url: 'https://store.playstation.com/concept/230759',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 39.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 3199,
     discount_percent: 43,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-11-20',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2113,7 +2113,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.5,
     review_count: 210000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Starfield
@@ -2123,11 +2123,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1716740',
     store_url: 'https://store.steampowered.com/app/1716740/Starfield/',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 46.89,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 3751,
     discount_percent: 33,
-    historical_low_price: 46.89,
+    historical_low_price: 3751,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
@@ -2136,7 +2136,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 330723,
     rating_positive_percent: 72.3,
     review_count: 115000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_sf_xbox',
@@ -2144,11 +2144,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9NCBJN50VD70',
     store_url: 'https://www.xbox.com/games/store/starfield/9ncbjn50vd70',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 46.89,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 3751,
     discount_percent: 33,
-    historical_low_price: 46.89,
+    historical_low_price: 3751,
     historical_low_date: '2024-06-27',
     drm_type: 'Xbox Play Anywhere / Game Pass',
     is_available: true,
@@ -2157,7 +2157,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 81.0,
     review_count: 85000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Forza Horizon 5
@@ -2167,11 +2167,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1551360',
     store_url: 'https://store.steampowered.com/app/1551360/Forza_Horizon_5/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2399,
     discount_percent: 50,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks + Xbox Live',
     is_available: true,
@@ -2180,7 +2180,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 81096,
     rating_positive_percent: 88.0,
     review_count: 160000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_fh5_xbox',
@@ -2188,11 +2188,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9NKX70BBC2TN',
     store_url: 'https://www.xbox.com/games/store/forza-horizon-5-standard-edition/9nkx70bbc2tn',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 2399,
     discount_percent: 50,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-06-27',
     drm_type: 'Xbox Play Anywhere / Game Pass',
     is_available: true,
@@ -2201,7 +2201,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 92.0,
     review_count: 145000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Persona 5 Royal
@@ -2211,11 +2211,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1687950',
     store_url: 'https://store.steampowered.com/app/1687950/Persona_5_Royal/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 23.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1919,
     discount_percent: 60,
-    historical_low_price: 23.99,
+    historical_low_price: 1919,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks + Denuvo',
     is_available: true,
@@ -2224,7 +2224,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 35474,
     rating_positive_percent: 97.1,
     review_count: 53000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_p5r_playstation',
@@ -2232,11 +2232,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA05423_00',
     store_url: 'https://store.playstation.com/concept/233062',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 23.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1919,
     discount_percent: 60,
-    historical_low_price: 23.99,
+    historical_low_price: 1919,
     historical_low_date: '2024-08-10',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2245,7 +2245,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.5,
     review_count: 110000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_p5r_xbox',
@@ -2253,11 +2253,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9NKX839Q712N',
     store_url: 'https://www.xbox.com/games/store/persona-5-royal/9nkx839q712n',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 23.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1919,
     discount_percent: 60,
-    historical_low_price: 23.99,
+    historical_low_price: 1919,
     historical_low_date: '2024-08-10',
     drm_type: 'Xbox Live / Smart Delivery',
     is_available: true,
@@ -2266,7 +2266,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 48000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_p5r_nintendo',
@@ -2274,11 +2274,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000053744',
     store_url: 'https://www.nintendo.com/store/products/persona-5-royal-switch/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 23.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 1919,
     discount_percent: 60,
-    historical_low_price: 23.99,
+    historical_low_price: 1919,
     historical_low_date: '2024-08-10',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -2287,7 +2287,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 98.0,
     review_count: 65000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Palworld
@@ -2297,11 +2297,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1623730',
     store_url: 'https://store.steampowered.com/app/1623730/Palworld/',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 22.49,
+    currency: 'INR',
+    original_price: 2399,
+    current_price: 1799,
     discount_percent: 25,
-    historical_low_price: 22.49,
+    historical_low_price: 1799,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
@@ -2310,7 +2310,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 2101867,
     rating_positive_percent: 93.2,
     review_count: 320000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_pw_xbox',
@@ -2318,11 +2318,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9NKBZ544K6PM',
     store_url: 'https://www.xbox.com/games/store/palworld-game-preview/9nkbz544k6pm',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 22.49,
+    currency: 'INR',
+    original_price: 2399,
+    current_price: 1799,
     discount_percent: 25,
-    historical_low_price: 22.49,
+    historical_low_price: 1799,
     historical_low_date: '2024-06-27',
     drm_type: 'Xbox Game Preview / Game Pass',
     is_available: true,
@@ -2331,7 +2331,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 88.0,
     review_count: 95000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_pw_playstation',
@@ -2339,11 +2339,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA21443_00',
     store_url: 'https://store.playstation.com/concept/10009855',
-    currency: 'USD',
-    original_price: 29.99,
-    current_price: 29.99,
+    currency: 'INR',
+    original_price: 2399,
+    current_price: 2399,
     discount_percent: 0,
-    historical_low_price: 29.99,
+    historical_low_price: 2399,
     historical_low_date: '2024-09-24',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2352,7 +2352,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 91.0,
     review_count: 42000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Dead Cells
@@ -2362,11 +2362,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '588650',
     store_url: 'https://store.steampowered.com/app/588650/Dead_Cells/',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-03-01',
     drm_type: 'Steamworks',
     is_available: true,
@@ -2375,7 +2375,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 25684,
     rating_positive_percent: 97.4,
     review_count: 154000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_dc_gog',
@@ -2383,11 +2383,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'dead_cells',
     store_url: 'https://www.gog.com/game/dead_cells',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-03-01',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -2396,7 +2396,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 18000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_dc_epic',
@@ -2404,11 +2404,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'dead-cells',
     store_url: 'https://store.epicgames.com/p/dead-cells',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 12.49,
+    historical_low_price: 999,
     historical_low_date: '2024-04-10',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -2417,7 +2417,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 9200,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_dc_playstation',
@@ -2425,11 +2425,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA13350_00',
     store_url: 'https://store.playstation.com/concept/233077',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 12.49,
+    historical_low_price: 999,
     historical_low_date: '2024-05-15',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2438,7 +2438,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 31000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_dc_xbox',
@@ -2446,11 +2446,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: 'BQ50F02T87TT',
     store_url: 'https://www.xbox.com/games/store/dead-cells/bq50f02t87tt',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 12.49,
+    historical_low_price: 999,
     historical_low_date: '2024-05-15',
     drm_type: 'Xbox Live / Game Pass',
     is_available: true,
@@ -2459,7 +2459,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 24000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_dc_nintendo',
@@ -2467,11 +2467,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000007202',
     store_url: 'https://www.nintendo.com/store/products/dead-cells-switch/',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 12.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 999,
     discount_percent: 50,
-    historical_low_price: 12.49,
+    historical_low_price: 999,
     historical_low_date: '2024-05-15',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -2480,7 +2480,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 48000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Super Mario Bros. Wonder
@@ -2490,11 +2490,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000068688',
     store_url: 'https://www.nintendo.com/store/products/super-mario-bros-wonder-switch/',
-    currency: 'USD',
-    original_price: 59.99,
-    current_price: 49.99,
+    currency: 'INR',
+    original_price: 4799,
+    current_price: 3999,
     discount_percent: 17,
-    historical_low_price: 49.99,
+    historical_low_price: 3999,
     historical_low_date: '2024-07-10',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -2503,7 +2503,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 96.0,
     review_count: 92000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Slay the Spire
@@ -2513,11 +2513,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '646570',
     store_url: 'https://store.steampowered.com/app/646570/Slay_the_Spire/',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 8.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 679,
     discount_percent: 66,
-    historical_low_price: 8.49,
+    historical_low_price: 679,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
@@ -2526,7 +2526,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 53955,
     rating_positive_percent: 97.6,
     review_count: 142000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_sts_gog',
@@ -2534,11 +2534,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'gog',
     store_app_id: 'slay_the_spire',
     store_url: 'https://www.gog.com/game/slay_the_spire',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 8.49,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 679,
     discount_percent: 66,
-    historical_low_price: 8.49,
+    historical_low_price: 679,
     historical_low_date: '2024-06-27',
     drm_type: 'DRM-Free (100% Offline)',
     is_available: true,
@@ -2547,7 +2547,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 16000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_sts_playstation',
@@ -2555,11 +2555,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'CUSA16208_00',
     store_url: 'https://store.playstation.com/concept/233078',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 799,
     discount_percent: 60,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-05-15',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2568,7 +2568,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 22000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_sts_xbox',
@@ -2576,11 +2576,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9PBDVKGGK7NX',
     store_url: 'https://www.xbox.com/games/store/slay-the-spire/9pbdvkggk7nx',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 799,
     discount_percent: 60,
-    historical_low_price: 9.99,
+    historical_low_price: 799,
     historical_low_date: '2024-05-15',
     drm_type: 'Xbox Live / Game Pass',
     is_available: true,
@@ -2589,7 +2589,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 95.0,
     review_count: 19000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_sts_nintendo',
@@ -2597,11 +2597,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000018596',
     store_url: 'https://www.nintendo.com/store/products/slay-the-spire-switch/',
-    currency: 'USD',
-    original_price: 24.99,
-    current_price: 9.99,
+    currency: 'INR',
+    original_price: 1999,
+    current_price: 799,
     discount_percent: 60,
-    historical_low_price: 8.49,
+    historical_low_price: 679,
     historical_low_date: '2024-04-12',
     drm_type: 'Nintendo eShop',
     is_available: true,
@@ -2610,7 +2610,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 97.0,
     review_count: 38000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // Star Wars Jedi: Survivor
@@ -2620,11 +2620,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1774580',
     store_url: 'https://store.steampowered.com/app/1774580/STAR_WARS_Jedi_Survivor/',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 31.49,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2519,
     discount_percent: 55,
-    historical_low_price: 31.49,
+    historical_low_price: 2519,
     historical_low_date: '2024-06-27',
     drm_type: 'EA app + Denuvo',
     is_available: true,
@@ -2633,7 +2633,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 67855,
     rating_positive_percent: 84.2,
     review_count: 58000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_js_epic',
@@ -2641,11 +2641,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'star-wars-jedi-survivor',
     store_url: 'https://store.epicgames.com/p/star-wars-jedi-survivor',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 31.49,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2519,
     discount_percent: 55,
-    historical_low_price: 31.49,
+    historical_low_price: 2519,
     historical_low_date: '2024-06-27',
     drm_type: 'EA app',
     is_available: true,
@@ -2654,7 +2654,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 82.0,
     review_count: 11000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_js_playstation',
@@ -2662,11 +2662,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA07790_00',
     store_url: 'https://store.playstation.com/concept/10003789',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 31.49,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2519,
     discount_percent: 55,
-    historical_low_price: 31.49,
+    historical_low_price: 2519,
     historical_low_date: '2024-07-15',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2675,7 +2675,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 88.0,
     review_count: 54000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_js_xbox',
@@ -2683,11 +2683,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9PGCS108BKVS',
     store_url: 'https://www.xbox.com/games/store/star-wars-jedi-survivor/9pgcs108bkvs',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 31.49,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2519,
     discount_percent: 55,
-    historical_low_price: 31.49,
+    historical_low_price: 2519,
     historical_low_date: '2024-07-15',
     drm_type: 'Xbox Live / EA Play',
     is_available: true,
@@ -2696,7 +2696,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 86.0,
     review_count: 39000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
 
   // HITMAN World of Assassination
@@ -2706,11 +2706,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'steam',
     store_app_id: '1659040',
     store_url: 'https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 27.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2239,
     discount_percent: 60,
-    historical_low_price: 27.99,
+    historical_low_price: 2239,
     historical_low_date: '2024-06-27',
     drm_type: 'Steamworks',
     is_available: true,
@@ -2719,7 +2719,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 23410,
     rating_positive_percent: 92.4,
     review_count: 48000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hwoa_epic',
@@ -2727,11 +2727,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'epic',
     store_app_id: 'hitman-world-of-assassination',
     store_url: 'https://store.epicgames.com/p/hitman-3',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 27.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2239,
     discount_percent: 60,
-    historical_low_price: 27.99,
+    historical_low_price: 2239,
     historical_low_date: '2024-06-27',
     drm_type: 'Epic DRM',
     is_available: true,
@@ -2740,7 +2740,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 91.0,
     review_count: 15000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hwoa_playstation',
@@ -2748,11 +2748,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'playstation',
     store_app_id: 'PPSA01740_00',
     store_url: 'https://store.playstation.com/concept/10000858',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 27.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2239,
     discount_percent: 60,
-    historical_low_price: 27.99,
+    historical_low_price: 2239,
     historical_low_date: '2024-07-20',
     drm_type: 'PlayStation Network',
     is_available: true,
@@ -2761,7 +2761,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 93.0,
     review_count: 45000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hwoa_xbox',
@@ -2769,11 +2769,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'xbox',
     store_app_id: '9NK833BDG4LN',
     store_url: 'https://www.xbox.com/games/store/hitman-world-of-assassination/9nk833bdg4ln',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 27.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2239,
     discount_percent: 60,
-    historical_low_price: 27.99,
+    historical_low_price: 2239,
     historical_low_date: '2024-07-20',
     drm_type: 'Xbox Live / Game Pass',
     is_available: true,
@@ -2782,7 +2782,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 92.0,
     review_count: 32000,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   },
   {
     id: 'listing_hwoa_nintendo',
@@ -2790,11 +2790,11 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     platform_id: 'nintendo',
     store_app_id: '70010000035091',
     store_url: 'https://www.nintendo.com/store/products/hitman-3-cloud-version-switch/',
-    currency: 'USD',
-    original_price: 69.99,
-    current_price: 27.99,
+    currency: 'INR',
+    original_price: 5599,
+    current_price: 2239,
     discount_percent: 60,
-    historical_low_price: 27.99,
+    historical_low_price: 2239,
     historical_low_date: '2024-07-20',
     drm_type: 'Nintendo Cloud Version',
     is_available: true,
@@ -2803,7 +2803,7 @@ const BASE_PLATFORM_LISTINGS_DATA: PlatformListing[] = [
     all_time_peak_players: 0,
     rating_positive_percent: 85.0,
     review_count: 8900,
-    updated_at: '2026-09-23T08:00:00Z'
+    updated_at: '2026-11-02T12:00:00Z'
   }
 ];
 
@@ -2811,112 +2811,112 @@ export const PLATFORM_LISTINGS_DATA: PlatformListing[] = [...BASE_PLATFORM_LISTI
 
 const BASE_PRICE_HISTORY_DATA: PriceHistoryPoint[] = [
   // Elden Ring Steam
-  { id: 101, listing_id: 'listing_er_steam', recorded_date: '2023-11-21', price: 59.99, discount_percent: 0, event_name: 'Regular Store Price' },
-  { id: 102, listing_id: 'listing_er_steam', recorded_date: '2023-12-21', price: 39.99, discount_percent: 33, event_name: 'Steam Winter Sale 2023' },
-  { id: 103, listing_id: 'listing_er_steam', recorded_date: '2024-01-05', price: 59.99, discount_percent: 0, event_name: 'Sale Ended' },
-  { id: 104, listing_id: 'listing_er_steam', recorded_date: '2024-03-14', price: 39.99, discount_percent: 33, event_name: 'Steam Spring Sale 2024' },
-  { id: 105, listing_id: 'listing_er_steam', recorded_date: '2024-06-20', price: 41.99, discount_percent: 30, event_name: 'Erdtree Expansion Launch Sale' },
-  { id: 106, listing_id: 'listing_er_steam', recorded_date: '2024-11-27', price: 39.99, discount_percent: 33, event_name: 'Autumn / Black Friday 2024' },
-  { id: 107, listing_id: 'listing_er_steam', recorded_date: '2024-12-22', price: 35.99, discount_percent: 40, event_name: 'All-Time Record Low (Winter 2024)' },
-  { id: 108, listing_id: 'listing_er_steam', recorded_date: '2025-01-06', price: 59.99, discount_percent: 0, event_name: 'Regular Price' },
-  { id: 109, listing_id: 'listing_er_steam', recorded_date: '2025-06-26', price: 39.99, discount_percent: 33, event_name: 'Steam Summer Sale 2025' },
-  { id: 110, listing_id: 'listing_er_steam', recorded_date: '2026-09-01', price: 39.99, discount_percent: 33, event_name: 'Bandai Namco Publisher Weekend' },
+  { id: 101, listing_id: 'listing_er_steam', recorded_date: '2023-11-21', price: 4799, discount_percent: 0, event_name: 'Regular Store Price' },
+  { id: 102, listing_id: 'listing_er_steam', recorded_date: '2023-12-21', price: 3199, discount_percent: 33, event_name: 'Steam Winter Sale 2023' },
+  { id: 103, listing_id: 'listing_er_steam', recorded_date: '2024-01-05', price: 4799, discount_percent: 0, event_name: 'Sale Ended' },
+  { id: 104, listing_id: 'listing_er_steam', recorded_date: '2024-03-14', price: 3199, discount_percent: 33, event_name: 'Steam Spring Sale 2024' },
+  { id: 105, listing_id: 'listing_er_steam', recorded_date: '2024-06-20', price: 3359, discount_percent: 30, event_name: 'Erdtree Expansion Launch Sale' },
+  { id: 106, listing_id: 'listing_er_steam', recorded_date: '2024-11-27', price: 3199, discount_percent: 33, event_name: 'Autumn / Black Friday 2024' },
+  { id: 107, listing_id: 'listing_er_steam', recorded_date: '2024-12-22', price: 2879, discount_percent: 40, event_name: 'All-Time Record Low (Winter 2024)' },
+  { id: 108, listing_id: 'listing_er_steam', recorded_date: '2025-01-06', price: 4799, discount_percent: 0, event_name: 'Regular Price' },
+  { id: 109, listing_id: 'listing_er_steam', recorded_date: '2025-06-26', price: 3199, discount_percent: 33, event_name: 'Steam Summer Sale 2025' },
+  { id: 110, listing_id: 'listing_er_steam', recorded_date: '2026-11-02', price: 3199, discount_percent: 33, event_name: 'Bandai Namco Publisher Weekend' },
 
   // Elden Ring PlayStation
-  { id: 120, listing_id: 'listing_er_playstation', recorded_date: '2024-01-10', price: 59.99, discount_percent: 0, event_name: 'Regular Store Price' },
-  { id: 121, listing_id: 'listing_er_playstation', recorded_date: '2024-05-22', price: 44.99, discount_percent: 25, event_name: 'Days of Play 2024' },
-  { id: 122, listing_id: 'listing_er_playstation', recorded_date: '2024-11-26', price: 35.99, discount_percent: 40, event_name: 'PS Store Black Friday' },
-  { id: 123, listing_id: 'listing_er_playstation', recorded_date: '2025-04-10', price: 59.99, discount_percent: 0, event_name: 'Regular Price' },
-  { id: 124, listing_id: 'listing_er_playstation', recorded_date: '2026-09-10', price: 39.99, discount_percent: 33, event_name: 'Planet of the Discounts' },
+  { id: 120, listing_id: 'listing_er_playstation', recorded_date: '2024-01-10', price: 4799, discount_percent: 0, event_name: 'Regular Store Price' },
+  { id: 121, listing_id: 'listing_er_playstation', recorded_date: '2024-05-22', price: 3599, discount_percent: 25, event_name: 'Days of Play 2024' },
+  { id: 122, listing_id: 'listing_er_playstation', recorded_date: '2024-11-26', price: 2879, discount_percent: 40, event_name: 'PS Store Black Friday' },
+  { id: 123, listing_id: 'listing_er_playstation', recorded_date: '2025-04-10', price: 4799, discount_percent: 0, event_name: 'Regular Price' },
+  { id: 124, listing_id: 'listing_er_playstation', recorded_date: '2026-11-02', price: 3199, discount_percent: 33, event_name: 'Planet of the Discounts' },
 
   // Cyberpunk 2077 Steam
-  { id: 201, listing_id: 'listing_cp_steam', recorded_date: '2024-01-15', price: 59.99, discount_percent: 0, event_name: 'Standard Price' },
-  { id: 202, listing_id: 'listing_cp_steam', recorded_date: '2024-03-14', price: 29.99, discount_percent: 50, event_name: 'Steam Spring Sale' },
-  { id: 203, listing_id: 'listing_cp_steam', recorded_date: '2024-06-27', price: 29.99, discount_percent: 50, event_name: 'Summer Sale 2024' },
-  { id: 204, listing_id: 'listing_cp_steam', recorded_date: '2024-12-19', price: 29.99, discount_percent: 50, event_name: 'Winter Sale 2024' },
-  { id: 205, listing_id: 'listing_cp_steam', recorded_date: '2025-06-25', price: 29.99, discount_percent: 50, event_name: 'Steam Summer Sale 2025' },
-  { id: 206, listing_id: 'listing_cp_steam', recorded_date: '2026-09-15', price: 29.99, discount_percent: 50, event_name: 'CD PROJEKT Studio Sale' },
+  { id: 201, listing_id: 'listing_cp_steam', recorded_date: '2024-01-15', price: 4799, discount_percent: 0, event_name: 'Standard Price' },
+  { id: 202, listing_id: 'listing_cp_steam', recorded_date: '2024-03-14', price: 2399, discount_percent: 50, event_name: 'Steam Spring Sale' },
+  { id: 203, listing_id: 'listing_cp_steam', recorded_date: '2024-06-27', price: 2399, discount_percent: 50, event_name: 'Summer Sale 2024' },
+  { id: 204, listing_id: 'listing_cp_steam', recorded_date: '2024-12-19', price: 2399, discount_percent: 50, event_name: 'Winter Sale 2024' },
+  { id: 205, listing_id: 'listing_cp_steam', recorded_date: '2025-06-25', price: 2399, discount_percent: 50, event_name: 'Steam Summer Sale 2025' },
+  { id: 206, listing_id: 'listing_cp_steam', recorded_date: '2026-11-02', price: 2399, discount_percent: 50, event_name: 'CD PROJEKT Studio Sale' },
 
   // Cyberpunk GOG
-  { id: 220, listing_id: 'listing_cp_gog', recorded_date: '2024-03-01', price: 59.99, discount_percent: 0, event_name: 'Standard Price' },
-  { id: 221, listing_id: 'listing_cp_gog', recorded_date: '2024-08-10', price: 29.99, discount_percent: 50, event_name: 'GOG Summer Finale' },
-  { id: 222, listing_id: 'listing_cp_gog', recorded_date: '2024-12-20', price: 29.99, discount_percent: 50, event_name: 'GOG Winter Feast' },
-  { id: 223, listing_id: 'listing_cp_gog', recorded_date: '2026-09-20', price: 26.99, discount_percent: 55, event_name: 'GOG DRM-Free Anniversary Promo (Lowest Ever)' },
+  { id: 220, listing_id: 'listing_cp_gog', recorded_date: '2024-03-01', price: 4799, discount_percent: 0, event_name: 'Standard Price' },
+  { id: 221, listing_id: 'listing_cp_gog', recorded_date: '2024-08-10', price: 2399, discount_percent: 50, event_name: 'GOG Summer Finale' },
+  { id: 222, listing_id: 'listing_cp_gog', recorded_date: '2024-12-20', price: 2399, discount_percent: 50, event_name: 'GOG Winter Feast' },
+  { id: 223, listing_id: 'listing_cp_gog', recorded_date: '2026-11-02', price: 2159, discount_percent: 55, event_name: 'GOG DRM-Free Anniversary Promo (Lowest Ever)' },
 
   // Baldur's Gate 3 Steam
-  { id: 301, listing_id: 'listing_bg3_steam', recorded_date: '2023-08-03', price: 59.99, discount_percent: 0, event_name: 'Launch Release' },
-  { id: 302, listing_id: 'listing_bg3_steam', recorded_date: '2023-12-21', price: 53.99, discount_percent: 10, event_name: 'GOTY Celebration Discount' },
-  { id: 303, listing_id: 'listing_bg3_steam', recorded_date: '2024-03-14', price: 59.99, discount_percent: 0, event_name: 'Regular Store Price' },
-  { id: 304, listing_id: 'listing_bg3_steam', recorded_date: '2024-06-27', price: 47.99, discount_percent: 20, event_name: 'Steam Summer Sale 2024' },
-  { id: 305, listing_id: 'listing_bg3_steam', recorded_date: '2024-12-19', price: 47.99, discount_percent: 20, event_name: 'Steam Winter Sale 2024' },
-  { id: 306, listing_id: 'listing_bg3_steam', recorded_date: '2026-09-01', price: 47.99, discount_percent: 20, event_name: 'Patch 7 Community Celebration' },
+  { id: 301, listing_id: 'listing_bg3_steam', recorded_date: '2023-08-03', price: 4799, discount_percent: 0, event_name: 'Launch Release' },
+  { id: 302, listing_id: 'listing_bg3_steam', recorded_date: '2023-12-21', price: 4319, discount_percent: 10, event_name: 'GOTY Celebration Discount' },
+  { id: 303, listing_id: 'listing_bg3_steam', recorded_date: '2024-03-14', price: 4799, discount_percent: 0, event_name: 'Regular Store Price' },
+  { id: 304, listing_id: 'listing_bg3_steam', recorded_date: '2024-06-27', price: 3839, discount_percent: 20, event_name: 'Steam Summer Sale 2024' },
+  { id: 305, listing_id: 'listing_bg3_steam', recorded_date: '2024-12-19', price: 3839, discount_percent: 20, event_name: 'Steam Winter Sale 2024' },
+  { id: 306, listing_id: 'listing_bg3_steam', recorded_date: '2026-11-02', price: 3839, discount_percent: 20, event_name: 'Patch 7 Community Celebration' },
 
   // Witcher 3 Steam & GOG
-  { id: 401, listing_id: 'listing_w3_steam', recorded_date: '2023-10-01', price: 39.99, discount_percent: 0, event_name: 'Regular Price' },
-  { id: 402, listing_id: 'listing_w3_steam', recorded_date: '2023-12-21', price: 9.99, discount_percent: 75, event_name: 'Steam Winter Sale' },
-  { id: 403, listing_id: 'listing_w3_steam', recorded_date: '2024-05-18', price: 7.99, discount_percent: 80, event_name: '9th Anniversary Celebration' },
-  { id: 404, listing_id: 'listing_w3_steam', recorded_date: '2026-09-10', price: 9.99, discount_percent: 75, event_name: 'Autumn Special Deal' },
-  { id: 420, listing_id: 'listing_w3_gog', recorded_date: '2024-05-18', price: 7.99, discount_percent: 80, event_name: 'GOG Birthday Special' },
-  { id: 421, listing_id: 'listing_w3_gog', recorded_date: '2026-09-18', price: 7.99, discount_percent: 80, event_name: 'All-Time Historical Low Deal' },
+  { id: 401, listing_id: 'listing_w3_steam', recorded_date: '2023-10-01', price: 3199, discount_percent: 0, event_name: 'Regular Price' },
+  { id: 402, listing_id: 'listing_w3_steam', recorded_date: '2023-12-21', price: 799, discount_percent: 75, event_name: 'Steam Winter Sale' },
+  { id: 403, listing_id: 'listing_w3_steam', recorded_date: '2024-05-18', price: 639, discount_percent: 80, event_name: '9th Anniversary Celebration' },
+  { id: 404, listing_id: 'listing_w3_steam', recorded_date: '2026-11-02', price: 799, discount_percent: 75, event_name: 'Autumn Special Deal' },
+  { id: 420, listing_id: 'listing_w3_gog', recorded_date: '2024-05-18', price: 639, discount_percent: 80, event_name: 'GOG Birthday Special' },
+  { id: 421, listing_id: 'listing_w3_gog', recorded_date: '2026-11-02', price: 639, discount_percent: 80, event_name: 'All-Time Historical Low Deal' },
 
   // Hollow Knight Steam
-  { id: 501, listing_id: 'listing_hk_steam', recorded_date: '2023-11-01', price: 14.99, discount_percent: 0, event_name: 'Base Price' },
-  { id: 502, listing_id: 'listing_hk_steam', recorded_date: '2023-12-21', price: 7.49, discount_percent: 50, event_name: 'Winter Sale' },
-  { id: 503, listing_id: 'listing_hk_steam', recorded_date: '2024-01-05', price: 5.99, discount_percent: 60, event_name: 'Flash Record Low' },
-  { id: 504, listing_id: 'listing_hk_steam', recorded_date: '2026-09-01', price: 7.49, discount_percent: 50, event_name: 'Indie Spotlight' },
+  { id: 501, listing_id: 'listing_hk_steam', recorded_date: '2023-11-01', price: 1199, discount_percent: 0, event_name: 'Base Price' },
+  { id: 502, listing_id: 'listing_hk_steam', recorded_date: '2023-12-21', price: 599, discount_percent: 50, event_name: 'Winter Sale' },
+  { id: 503, listing_id: 'listing_hk_steam', recorded_date: '2024-01-05', price: 479, discount_percent: 60, event_name: 'Flash Record Low' },
+  { id: 504, listing_id: 'listing_hk_steam', recorded_date: '2026-11-02', price: 599, discount_percent: 50, event_name: 'Indie Spotlight' },
 
   // RDR 2 Steam
-  { id: 601, listing_id: 'listing_rdr2_steam', recorded_date: '2023-11-20', price: 19.79, discount_percent: 67, event_name: 'Black Friday Record Deal' },
-  { id: 602, listing_id: 'listing_rdr2_steam', recorded_date: '2024-06-27', price: 19.79, discount_percent: 67, event_name: 'Steam Summer Sale 2024' },
-  { id: 603, listing_id: 'listing_rdr2_steam', recorded_date: '2024-11-27', price: 19.79, discount_percent: 67, event_name: 'Black Friday 2024' },
-  { id: 604, listing_id: 'listing_rdr2_steam', recorded_date: '2026-09-18', price: 19.79, discount_percent: 67, event_name: 'Rockstar Publisher Special' },
+  { id: 601, listing_id: 'listing_rdr2_steam', recorded_date: '2023-11-20', price: 1583, discount_percent: 67, event_name: 'Black Friday Record Deal' },
+  { id: 602, listing_id: 'listing_rdr2_steam', recorded_date: '2024-06-27', price: 1583, discount_percent: 67, event_name: 'Steam Summer Sale 2024' },
+  { id: 603, listing_id: 'listing_rdr2_steam', recorded_date: '2024-11-27', price: 1583, discount_percent: 67, event_name: 'Black Friday 2024' },
+  { id: 604, listing_id: 'listing_rdr2_steam', recorded_date: '2026-11-02', price: 1583, discount_percent: 67, event_name: 'Rockstar Publisher Special' },
 
   // Black Myth: Wukong Steam
-  { id: 701, listing_id: 'listing_bmw_steam', recorded_date: '2024-08-20', price: 59.99, discount_percent: 0, event_name: 'Global Launch Release' },
-  { id: 702, listing_id: 'listing_bmw_steam', recorded_date: '2024-12-19', price: 53.99, discount_percent: 10, event_name: 'Steam Winter Sale 2024' },
-  { id: 703, listing_id: 'listing_bmw_steam', recorded_date: '2025-06-25', price: 47.99, discount_percent: 20, event_name: 'Steam Summer Sale 2025' },
-  { id: 704, listing_id: 'listing_bmw_steam', recorded_date: '2026-09-10', price: 47.99, discount_percent: 20, event_name: '1 Year Anniversary Celebration' },
+  { id: 701, listing_id: 'listing_bmw_steam', recorded_date: '2024-08-20', price: 4799, discount_percent: 0, event_name: 'Global Launch Release' },
+  { id: 702, listing_id: 'listing_bmw_steam', recorded_date: '2024-12-19', price: 4319, discount_percent: 10, event_name: 'Steam Winter Sale 2024' },
+  { id: 703, listing_id: 'listing_bmw_steam', recorded_date: '2025-06-25', price: 3839, discount_percent: 20, event_name: 'Steam Summer Sale 2025' },
+  { id: 704, listing_id: 'listing_bmw_steam', recorded_date: '2026-11-02', price: 3839, discount_percent: 20, event_name: '1 Year Anniversary Celebration' },
 
   // Monster Hunter: World Steam
-  { id: 710, listing_id: 'listing_mhw_steam', recorded_date: '2023-12-21', price: 9.89, discount_percent: 67, event_name: 'Winter Sale All-Time Low' },
-  { id: 711, listing_id: 'listing_mhw_steam', recorded_date: '2024-03-14', price: 14.99, discount_percent: 50, event_name: 'Spring Sale 2024' },
-  { id: 712, listing_id: 'listing_mhw_steam', recorded_date: '2024-06-27', price: 9.89, discount_percent: 67, event_name: 'Capcom Summer Showcase' },
-  { id: 713, listing_id: 'listing_mhw_steam', recorded_date: '2026-09-15', price: 9.89, discount_percent: 67, event_name: 'Wilds Hype Celebration' },
+  { id: 710, listing_id: 'listing_mhw_steam', recorded_date: '2023-12-21', price: 791, discount_percent: 67, event_name: 'Winter Sale All-Time Low' },
+  { id: 711, listing_id: 'listing_mhw_steam', recorded_date: '2024-03-14', price: 1199, discount_percent: 50, event_name: 'Spring Sale 2024' },
+  { id: 712, listing_id: 'listing_mhw_steam', recorded_date: '2024-06-27', price: 791, discount_percent: 67, event_name: 'Capcom Summer Showcase' },
+  { id: 713, listing_id: 'listing_mhw_steam', recorded_date: '2026-11-02', price: 791, discount_percent: 67, event_name: 'Wilds Hype Celebration' },
 
   // Resident Evil 4 Steam
-  { id: 720, listing_id: 'listing_re4_steam', recorded_date: '2023-11-21', price: 39.99, discount_percent: 33, event_name: 'Black Friday 2023' },
-  { id: 721, listing_id: 'listing_re4_steam', recorded_date: '2024-03-24', price: 29.99, discount_percent: 25, event_name: '1-Year Anniversary Discount' },
-  { id: 722, listing_id: 'listing_re4_steam', recorded_date: '2024-06-27', price: 29.99, discount_percent: 25, event_name: 'Steam Summer Sale 2024' },
-  { id: 723, listing_id: 'listing_re4_steam', recorded_date: '2026-09-01', price: 29.99, discount_percent: 25, event_name: 'Capcom Resident Evil Franchise Sale' },
+  { id: 720, listing_id: 'listing_re4_steam', recorded_date: '2023-11-21', price: 3199, discount_percent: 33, event_name: 'Black Friday 2023' },
+  { id: 721, listing_id: 'listing_re4_steam', recorded_date: '2024-03-24', price: 2399, discount_percent: 25, event_name: '1-Year Anniversary Discount' },
+  { id: 722, listing_id: 'listing_re4_steam', recorded_date: '2024-06-27', price: 2399, discount_percent: 25, event_name: 'Steam Summer Sale 2024' },
+  { id: 723, listing_id: 'listing_re4_steam', recorded_date: '2026-11-02', price: 2399, discount_percent: 25, event_name: 'Capcom Resident Evil Franchise Sale' },
 
   // Ghost of Tsushima Steam
-  { id: 730, listing_id: 'listing_got_steam', recorded_date: '2024-05-16', price: 59.99, discount_percent: 0, event_name: 'PC Launch' },
-  { id: 731, listing_id: 'listing_got_steam', recorded_date: '2024-09-15', price: 47.99, discount_percent: 20, event_name: 'PlayStation PC Fall Sale' },
-  { id: 732, listing_id: 'listing_got_steam', recorded_date: '2024-12-19', price: 47.99, discount_percent: 20, event_name: 'Steam Winter Sale 2024' },
-  { id: 733, listing_id: 'listing_got_steam', recorded_date: '2026-09-15', price: 47.99, discount_percent: 20, event_name: 'Autumn Special Deal' },
+  { id: 730, listing_id: 'listing_got_steam', recorded_date: '2024-05-16', price: 4799, discount_percent: 0, event_name: 'PC Launch' },
+  { id: 731, listing_id: 'listing_got_steam', recorded_date: '2024-09-15', price: 3839, discount_percent: 20, event_name: 'PlayStation PC Fall Sale' },
+  { id: 732, listing_id: 'listing_got_steam', recorded_date: '2024-12-19', price: 3839, discount_percent: 20, event_name: 'Steam Winter Sale 2024' },
+  { id: 733, listing_id: 'listing_got_steam', recorded_date: '2026-11-02', price: 3839, discount_percent: 20, event_name: 'Autumn Special Deal' },
 
   // Persona 5 Royal Steam
-  { id: 740, listing_id: 'listing_p5r_steam', recorded_date: '2023-12-21', price: 29.99, discount_percent: 50, event_name: 'Winter Sale 2023' },
-  { id: 741, listing_id: 'listing_p5r_steam', recorded_date: '2024-06-27', price: 23.99, discount_percent: 60, event_name: 'Summer Sale All-Time Low' },
-  { id: 742, listing_id: 'listing_p5r_steam', recorded_date: '2024-11-27', price: 23.99, discount_percent: 60, event_name: 'Black Friday 2024' },
-  { id: 743, listing_id: 'listing_p5r_steam', recorded_date: '2026-09-18', price: 23.99, discount_percent: 60, event_name: 'SEGA Publisher Sale' },
+  { id: 740, listing_id: 'listing_p5r_steam', recorded_date: '2023-12-21', price: 2399, discount_percent: 50, event_name: 'Winter Sale 2023' },
+  { id: 741, listing_id: 'listing_p5r_steam', recorded_date: '2024-06-27', price: 1919, discount_percent: 60, event_name: 'Summer Sale All-Time Low' },
+  { id: 742, listing_id: 'listing_p5r_steam', recorded_date: '2024-11-27', price: 1919, discount_percent: 60, event_name: 'Black Friday 2024' },
+  { id: 743, listing_id: 'listing_p5r_steam', recorded_date: '2026-11-02', price: 1919, discount_percent: 60, event_name: 'SEGA Publisher Sale' },
 
   // Dead Cells Steam
-  { id: 750, listing_id: 'listing_dc_steam', recorded_date: '2023-11-20', price: 12.49, discount_percent: 50, event_name: 'Autumn Sale' },
-  { id: 751, listing_id: 'listing_dc_steam', recorded_date: '2024-03-01', price: 9.99, discount_percent: 60, event_name: 'Historical Low Weekend' },
-  { id: 752, listing_id: 'listing_dc_steam', recorded_date: '2024-06-27', price: 12.49, discount_percent: 50, event_name: 'Summer Sale 2024' },
-  { id: 753, listing_id: 'listing_dc_steam', recorded_date: '2026-09-12', price: 12.49, discount_percent: 50, event_name: 'Indie Roguelike Festival' },
+  { id: 750, listing_id: 'listing_dc_steam', recorded_date: '2023-11-20', price: 999, discount_percent: 50, event_name: 'Autumn Sale' },
+  { id: 751, listing_id: 'listing_dc_steam', recorded_date: '2024-03-01', price: 799, discount_percent: 60, event_name: 'Historical Low Weekend' },
+  { id: 752, listing_id: 'listing_dc_steam', recorded_date: '2024-06-27', price: 999, discount_percent: 50, event_name: 'Summer Sale 2024' },
+  { id: 753, listing_id: 'listing_dc_steam', recorded_date: '2026-11-02', price: 999, discount_percent: 50, event_name: 'Indie Roguelike Festival' },
 
   // Slay the Spire Steam
-  { id: 760, listing_id: 'listing_sts_steam', recorded_date: '2023-12-21', price: 8.49, discount_percent: 66, event_name: 'Steam Winter Sale' },
-  { id: 761, listing_id: 'listing_sts_steam', recorded_date: '2024-04-10', price: 8.49, discount_percent: 66, event_name: 'Deckbuilder Fest 2024' },
-  { id: 762, listing_id: 'listing_sts_steam', recorded_date: '2024-06-27', price: 8.49, discount_percent: 66, event_name: 'Steam Summer Sale 2024' },
-  { id: 763, listing_id: 'listing_sts_steam', recorded_date: '2026-09-15', price: 8.49, discount_percent: 66, event_name: 'Spire 2 Hype Sale' },
+  { id: 760, listing_id: 'listing_sts_steam', recorded_date: '2023-12-21', price: 679, discount_percent: 66, event_name: 'Steam Winter Sale' },
+  { id: 761, listing_id: 'listing_sts_steam', recorded_date: '2024-04-10', price: 679, discount_percent: 66, event_name: 'Deckbuilder Fest 2024' },
+  { id: 762, listing_id: 'listing_sts_steam', recorded_date: '2024-06-27', price: 679, discount_percent: 66, event_name: 'Steam Summer Sale 2024' },
+  { id: 763, listing_id: 'listing_sts_steam', recorded_date: '2026-11-02', price: 679, discount_percent: 66, event_name: 'Spire 2 Hype Sale' },
 
   // Forza Horizon 5 Steam
-  { id: 770, listing_id: 'listing_fh5_steam', recorded_date: '2023-11-20', price: 29.99, discount_percent: 50, event_name: 'Black Friday 2023' },
-  { id: 771, listing_id: 'listing_fh5_steam', recorded_date: '2024-06-27', price: 29.99, discount_percent: 50, event_name: 'Steam Summer Sale 2024' },
-  { id: 772, listing_id: 'listing_fh5_steam', recorded_date: '2026-09-10', price: 29.99, discount_percent: 50, event_name: 'Xbox Game Studios Publisher Sale' }
+  { id: 770, listing_id: 'listing_fh5_steam', recorded_date: '2023-11-20', price: 2399, discount_percent: 50, event_name: 'Black Friday 2023' },
+  { id: 771, listing_id: 'listing_fh5_steam', recorded_date: '2024-06-27', price: 2399, discount_percent: 50, event_name: 'Steam Summer Sale 2024' },
+  { id: 772, listing_id: 'listing_fh5_steam', recorded_date: '2026-11-02', price: 2399, discount_percent: 50, event_name: 'Xbox Game Studios Publisher Sale' }
 ];
 
 const EXPANDED_FLAT_HISTORIES: PriceHistoryPoint[] = EXPANDED_PRICE_HISTORIES.flatMap(x => x.history);
@@ -2941,7 +2941,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Base Game',
     description: 'The award-winning base game ELDEN RING.',
     bonus_content: ['Full ELDEN RING Base Game'],
-    base_price: 59.99
+    base_price: 4799
   },
   {
     id: 'ed_er_deluxe',
@@ -2950,7 +2950,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Digital Bonus',
     description: 'Includes the full game alongside digital artbook and original soundtrack.',
     bonus_content: ['Full ELDEN RING Game', 'Digital Artbook & Original Soundtrack', 'Gesture: The Ring'],
-    base_price: 79.99
+    base_price: 6399
   },
   {
     id: 'ed_er_erdtree',
@@ -2959,7 +2959,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Most Popular',
     description: 'The complete bundle containing both the acclaimed base game and the colossal Shadow of the Erdtree expansion.',
     bonus_content: ['ELDEN RING Base Game', 'Shadow of the Erdtree Expansion', 'Bonus In-Game Gesture'],
-    base_price: 79.99
+    base_price: 6399
   },
 
   // Cyberpunk 2077
@@ -2970,7 +2970,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Base Game',
     description: 'The redefined base game featuring complete police revamp, vehicle combat, and redesigned skill trees.',
     bonus_content: ['Cyberpunk 2077 Base Game (Update 2.13)', 'Original Score & Art Booklet'],
-    base_price: 59.99
+    base_price: 4799
   },
   {
     id: 'ed_cp_ultimate',
@@ -2979,7 +2979,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Definitive',
     description: 'The definitive Night City experience containing the base game and the critically acclaimed spy-thriller expansion Phantom Liberty.',
     bonus_content: ['Cyberpunk 2077 Base Game', 'Phantom Liberty Expansion', 'Quadra Sport R-7 "Vigilante" Vehicle', 'Exclusive Digital Wallpapers & Avatars'],
-    base_price: 79.99
+    base_price: 6399
   },
 
   // Baldur's Gate 3
@@ -2990,7 +2990,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Standard',
     description: 'Complete 100+ hour CRPG experience.',
     bonus_content: ['Full Baldur\'s Gate 3 Game', 'Access to Official Modding Toolkit (Patch 7)'],
-    base_price: 59.99
+    base_price: 4799
   },
   {
     id: 'ed_bg3_deluxe',
@@ -2999,7 +2999,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Collector\'s',
     description: 'Includes Divinity: Original Sin 2 easter eggs, digital OST, character sheets, and dice skin.',
     bonus_content: ['Bard Song Pack (Songs from Divinity)', 'Exclusive In-Game Dice Skin', 'Paintings from Rivellon', 'Adventurer\'s Pouch of Camp Supplies', 'Digital OST & Artbook', 'Digital D&D Character Sheets'],
-    base_price: 69.99
+    base_price: 5599
   },
 
   // Black Myth: Wukong
@@ -3010,7 +3010,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Base Game',
     description: 'The full base game of Black Myth: Wukong.',
     bonus_content: ['Full Game Black Myth: Wukong', 'Pre-order Bonus Trailblazer\'s Scarlet Gourd (Unlockable via progression)'],
-    base_price: 59.99
+    base_price: 4799
   },
   {
     id: 'ed_bmw_deluxe',
@@ -3019,7 +3019,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Deluxe',
     description: 'Includes unique staff weapon, bronze folk armor set, curio, and digital soundtrack selections.',
     bonus_content: ['Bronzecloud Staff Weapon', 'Folk Opera Armor Set', 'Wind Chimes Curio', 'Digital Selected Soundtrack'],
-    base_price: 69.99
+    base_price: 5599
   },
 
   // Monster Hunter: World
@@ -3030,7 +3030,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Base Game',
     description: 'The base game Monster Hunter: World.',
     bonus_content: ['Full Monster Hunter: World Base Game', 'Origin Armor Set'],
-    base_price: 29.99
+    base_price: 2399
   },
   {
     id: 'ed_mhw_master',
@@ -3039,7 +3039,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Definitive',
     description: 'Bundles both the base game and massive Iceborne expansion with bonus gesture, sticker sets, and hair styles.',
     bonus_content: ['Monster Hunter: World Base Game', 'Monster Hunter World: Iceborne Expansion', 'Silver Knight Layered Armor Set', 'Yukumo Layered Armor Set'],
-    base_price: 39.99
+    base_price: 3199
   },
 
   // Resident Evil 4 Remake
@@ -3050,7 +3050,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Complete Bundle',
     description: 'Contains the complete Resident Evil 4 experience including the Separate Ways DLC and the Extra DLC Pack.',
     bonus_content: ['Resident Evil 4 Base Game', 'Separate Ways Story DLC', 'Leon & Ashley Costumes: "Casual" and "Romantic"', 'Weapons: "Sentinel Nine" & "Skull Shaker"', 'Original Version Soundtrack Swap'],
-    base_price: 49.99
+    base_price: 3999
   },
 
   // Ghost of Tsushima
@@ -3061,7 +3061,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Director\'s Cut',
     description: 'The definitive edition including the complete story and the sprawling Iki Island story expansion.',
     bonus_content: ['Full Ghost of Tsushima Game', 'Iki Island Expansion', 'Legends Online Co-op Mode', 'Hero of Tsushima Skin Set', 'Digital Mini Art Book'],
-    base_price: 59.99
+    base_price: 4799
   },
 
   // Starfield
@@ -3072,7 +3072,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Story Expansion Included',
     description: 'Includes the base game, Shattered Space story expansion, Constellation skin pack, and digital soundtrack.',
     bonus_content: ['Starfield Base Game', 'Shattered Space Story Expansion', 'Constellation Skin Pack', 'Digital Artbook & Original Soundtrack'],
-    base_price: 99.99
+    base_price: 7999
   },
 
   // Forza Horizon 5
@@ -3083,7 +3083,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'All DLCs Included',
     description: 'The premier Horizon experience with Hot Wheels, Rally Adventure, Car Pass, VIP Membership, and Welcome Pack.',
     bonus_content: ['Forza Horizon 5 Base Game', 'Hot Wheels Expansion', 'Rally Adventure Expansion', 'Car Pass (42 Cars)', 'VIP Membership'],
-    base_price: 99.99
+    base_price: 7999
   },
 
   // Persona 5 Royal
@@ -3094,7 +3094,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Over 40 DLCs',
     description: 'Includes the base game and over 40 individual downloadable content items bundled directly at no extra charge.',
     bonus_content: ['Base Game Persona 5 Royal', 'Persona DLC Packs (Izanagi-no-Okami, Raoul, Athena)', 'Costume Sets & Battle Music Packs', 'Challenge Battle Extra Packs'],
-    base_price: 59.99
+    base_price: 4799
   },
 
   // Dead Cells
@@ -3105,7 +3105,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'All-In-One',
     description: 'Bundles Dead Cells with all four original DLCs plus Return to Castlevania.',
     bonus_content: ['Dead Cells Base Game', 'Return to Castlevania DLC', 'Rise of the Giant', 'The Bad Seed', 'Fatal Falls', 'The Queen and the Sea'],
-    base_price: 39.99
+    base_price: 3199
   },
 
   // Hitman World of Assassination
@@ -3116,7 +3116,7 @@ export const GAME_EDITIONS_DATA: GameEdition[] = [
     badge: 'Ultimate Hitman',
     description: 'Includes Hitman 1, 2, 3 locations plus the Hitman 2 Expansion Access Pass and Seven Deadly Sins collection.',
     bonus_content: ['All 20+ Campaign Destinations', 'Hitman 2 Expansion Pack (New York & Haven Island)', 'Seven Deadly Sins Campaign Pack', 'Deluxe Escalations & Suits'],
-    base_price: 99.99
+    base_price: 7999
   }
 ];
 
@@ -3128,7 +3128,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Shadow of the Erdtree',
     description: 'Guided by Empyrean Miquella, players are summoned to the Land of Shadow, a place obscured by the Erdtree where the goddess Marika first set foot.',
     release_date: '2024-06-21',
-    price: 39.99,
+    price: 3199,
     discount_percent: 0,
     header_image: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'playstation', 'xbox']
@@ -3141,7 +3141,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Phantom Liberty',
     description: 'A spy-thriller expansion for Cyberpunk 2077. Return as cyber-enhanced mercenary V and embark on a high-stakes mission of espionage and survival in Dogtown.',
     release_date: '2023-09-26',
-    price: 29.99,
+    price: 2399,
     discount_percent: 20,
     header_image: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'gog', 'epic', 'playstation', 'xbox']
@@ -3154,7 +3154,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Blood and Wine Expansion Pack',
     description: 'Become professional monster slayer Geralt of Rivia and explore Toussaint, a remote land untainted by war, where you will unravel the horrifying secret behind a beast terrorizing the kingdom.',
     release_date: '2016-05-31',
-    price: 19.99,
+    price: 1599,
     discount_percent: 50,
     header_image: 'https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'gog', 'epic', 'playstation', 'xbox', 'nintendo']
@@ -3165,7 +3165,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Hearts of Stone Expansion Pack',
     description: 'Step into the shoes of Geralt of Rivia as he is hired to defeat a ruthless bandit captain, Olgierd von Everec — a man who possesses the power of immortality.',
     release_date: '2015-10-13',
-    price: 9.99,
+    price: 799,
     discount_percent: 50,
     header_image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'gog', 'epic', 'playstation', 'xbox', 'nintendo']
@@ -3178,7 +3178,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Night Springs Expansion',
     description: 'Play as three beloved Remedy characters across what-if episodes of the fictional in-universe TV show Night Springs.',
     release_date: '2024-06-08',
-    price: 19.99,
+    price: 1599,
     discount_percent: 0,
     header_image: 'https://images.unsplash.com/photo-1508739773434-c26b3d09e071?auto=format&fit=crop&w=600&q=80',
     platforms: ['epic', 'playstation', 'xbox']
@@ -3191,7 +3191,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Monster Hunter World: Iceborne',
     description: 'A massive expansion introducing a colossal new arctic region, master rank difficulty, legendary elder dragons, and the Clutch Claw grappling mechanic.',
     release_date: '2019-09-06',
-    price: 29.99,
+    price: 2399,
     discount_percent: 60,
     header_image: 'https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'playstation', 'xbox']
@@ -3204,7 +3204,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Separate Ways (Ada Wong Story Expansion)',
     description: 'Play as Ada Wong in this additional story chapter, experiencing the events of Resident Evil 4 from her perspective alongside Wesker.',
     release_date: '2023-09-21',
-    price: 9.99,
+    price: 799,
     discount_percent: 0,
     header_image: 'https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'playstation', 'xbox']
@@ -3217,7 +3217,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Iki Island Expansion',
     description: 'Jin travels to the untamed, pirate-infested Iki Island to investigate a sinister Mongol shaman tribe known as the Eagle.',
     release_date: '2021-08-20',
-    price: 19.99,
+    price: 1599,
     discount_percent: 25,
     header_image: 'https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'epic', 'playstation']
@@ -3230,7 +3230,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Shattered Space Story Expansion',
     description: 'A mysterious power stirs in the city of Dazra on House Va\'ruun\'s hidden homeworld. Investigate a cosmic threat and explore a completely handcrafted world.',
     release_date: '2024-09-30',
-    price: 29.99,
+    price: 2399,
     discount_percent: 0,
     header_image: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'xbox']
@@ -3243,7 +3243,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Forza Horizon 5: Hot Wheels',
     description: 'Blast off to the visually stunning, exhilarating Horizon Hot Wheels Park high in the clouds above Mexico with 10 amazing new cars.',
     release_date: '2022-07-19',
-    price: 19.99,
+    price: 1599,
     discount_percent: 50,
     header_image: 'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'xbox']
@@ -3256,7 +3256,7 @@ export const GAME_DLCS_DATA: GameDlc[] = [
     title: 'Return to Castlevania',
     description: 'The inspiration behind it all returns to its 2D action roots! Richter Belmont and Alucard join you to battle through Dracula\'s iconic Castle.',
     release_date: '2023-03-06',
-    price: 9.99,
+    price: 799,
     discount_percent: 30,
     header_image: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80',
     platforms: ['steam', 'gog', 'epic', 'playstation', 'xbox', 'nintendo']

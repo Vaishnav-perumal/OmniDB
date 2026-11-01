@@ -29,7 +29,7 @@ export const WatchlistModal: React.FC<WatchlistModalProps> = ({
 
   const [targetPrice, setTargetPrice] = useState<number>(() => {
     if (currentTargetPrice !== undefined) return currentTargetPrice;
-    return lowestPrice > 0 ? parseFloat((lowestPrice * 0.8).toFixed(2)) : 19.99;
+    return lowestPrice > 0 ? Math.round(lowestPrice * 0.8) : 1499;
   });
 
   const [selectedPlatforms, setSelectedPlatforms] = useState<PlatformId[]>(() => {
@@ -122,17 +122,17 @@ export const WatchlistModal: React.FC<WatchlistModalProps> = ({
           <div>
             <label className="block text-xs font-mono uppercase text-zinc-300 mb-2 font-semibold flex items-center justify-between">
               <span>Notify Me When Price Drops To Or Below:</span>
-              <span className="text-[#66c0f4] font-bold text-sm">${targetPrice.toFixed(2)}</span>
+              <span className="text-[#66c0f4] font-bold text-sm">{formatPrice(targetPrice)}</span>
             </label>
             <div className="relative">
               <span className="absolute left-3.5 top-1/2 -translate-y-1/2 font-mono text-zinc-400 font-bold">
-                $
+                ₹
               </span>
               <input
                 type="number"
-                step="0.50"
+                step="10"
                 min="0"
-                max="100"
+                max="100000"
                 value={targetPrice}
                 onChange={e => setTargetPrice(parseFloat(e.target.value) || 0)}
                 className="w-full pl-8 pr-4 py-2.5 rounded-lg bg-[#090d13] border border-[#1b2838] focus:border-[#66c0f4] text-white font-mono text-base outline-none transition-colors"
@@ -147,18 +147,18 @@ export const WatchlistModal: React.FC<WatchlistModalProps> = ({
                 onClick={() => setTargetPrice(recordLow)}
                 className="px-2 py-1 rounded bg-[#16212e] hover:bg-[#1f2f42] text-xs font-mono text-amber-300 border border-amber-500/30 transition-colors"
               >
-                Match Record Low (${recordLow})
+                Match Record Low ({formatPrice(recordLow)})
               </button>
               <button
                 type="button"
-                onClick={() => setTargetPrice(parseFloat((lowestPrice * 0.75).toFixed(2)))}
+                onClick={() => setTargetPrice(Math.round(lowestPrice * 0.75))}
                 className="px-2 py-1 rounded bg-[#16212e] hover:bg-[#1f2f42] text-xs font-mono text-[#a4d007] border border-[#a4d007]/30 transition-colors"
               >
                 -25% from now
               </button>
               <button
                 type="button"
-                onClick={() => setTargetPrice(parseFloat((lowestPrice * 0.5).toFixed(2)))}
+                onClick={() => setTargetPrice(Math.round(lowestPrice * 0.5))}
                 className="px-2 py-1 rounded bg-[#16212e] hover:bg-[#1f2f42] text-xs font-mono text-[#66c0f4] border border-[#66c0f4]/30 transition-colors"
               >
                 -50%

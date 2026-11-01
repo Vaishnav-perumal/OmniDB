@@ -1,12 +1,16 @@
-export function formatPrice(price: number | undefined | null, currency = 'USD'): string {
-  if (price === undefined || price === null) return '$0.00';
+export function formatPrice(price: number | undefined | null, currency = 'INR'): string {
+  if (price === undefined || price === null) return '₹0';
   if (price === 0) return 'FREE';
   const symbols: Record<string, string> = {
+    INR: '₹',
     USD: '$',
     EUR: '€',
     GBP: '£'
   };
-  const sym = symbols[currency] || '$';
+  const sym = symbols[currency] || '₹';
+  if (currency === 'INR') {
+    return `${sym}${Math.round(price).toLocaleString('en-IN')}`;
+  }
   return `${sym}${price.toFixed(2)}`;
 }
 

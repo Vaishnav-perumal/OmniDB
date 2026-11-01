@@ -427,7 +427,7 @@ export const PriceHistoryChart: React.FC<PriceHistoryChartProps> = ({ listings, 
                 fontFamily="monospace"
                 textAnchor="end"
               >
-                ${t.val.toFixed(0)}
+                ₹{Math.round(t.val).toLocaleString('en-IN')}
               </text>
             </g>
           ))}
@@ -454,7 +454,7 @@ export const PriceHistoryChart: React.FC<PriceHistoryChartProps> = ({ listings, 
                 fontWeight="bold"
                 textAnchor="end"
               >
-                RECORD LOW ${overallHistoricalLow.price.toFixed(2)}
+                RECORD LOW {formatPrice(overallHistoricalLow.price)}
               </text>
             </g>
           )}

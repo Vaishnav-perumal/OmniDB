@@ -28,7 +28,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'The world-famous platforming and adventure series created by Shigeru Miyamoto and Nintendo.',
       gameCount: 22,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('mario') || g.id.includes('mario') || g.id.includes('luigi')
@@ -44,7 +44,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   zelda: {
@@ -56,7 +56,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'The critically acclaimed fantasy adventure saga following Link, Princess Zelda, and the Triforce across the kingdom of Hyrule.',
       gameCount: 11,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('zelda') || g.id.includes('zelda')
@@ -72,7 +72,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   pokemon: {
@@ -84,7 +84,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'The highest-grossing media franchise in history. Catch, train, and battle fantastical creatures in sprawling fantasy regions.',
       gameCount: 10,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('pokémon') || g.id.includes('pokemon')
@@ -100,7 +100,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   'donkey-kong': {
@@ -112,7 +112,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'The thrilling jungle platforming series starring Donkey Kong, Diddy Kong, and the Kong family.',
       gameCount: 2,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('donkey kong')
@@ -128,7 +128,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   kirby: {
@@ -140,7 +140,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'The delightful adventures of the pink puffball hero who inhales enemies to copy their abilities in Planet Popstar.',
       gameCount: 3,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('kirby')
@@ -156,7 +156,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   metroid: {
@@ -168,7 +168,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'Atmospheric sci-fi action adventures following intergalactic bounty hunter Samus Aran against Space Pirates and Metroids.',
       gameCount: 2,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('metroid')
@@ -184,7 +184,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   },
   pikmin: {
@@ -196,7 +196,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       description: 'Shigeru Miyamoto’s inventive real-time strategy series exploring lush micro-ecosystems with plantlike creatures.',
       gameCount: 2,
       created_at: '2026-09-01T00:00:00Z',
-      last_checked_at: '2026-09-28T00:00:00Z'
+      last_checked_at: '2026-11-02T00:00:00Z'
     },
     games: ALL_NINTENDO_50_GAMES.filter(g =>
       g.title.toLowerCase().includes('pikmin')
@@ -212,7 +212,7 @@ export const NINTENDO_FRANCHISES_RECORD: Record<string, CuratedFranchiseData> = 
       seriesOrder: idx + 1,
       summary: g.summary,
       status: 'released',
-      lowest_current_price: 39.99
+      lowest_current_price: 3499
     }))
   }
 };

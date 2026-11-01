@@ -23,9 +23,9 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
 
   const [targetPriceInput, setTargetPriceInput] = useState<string>(() => {
     if (watchlistItem?.target_price !== undefined) {
-      return watchlistItem.target_price.toFixed(2);
+      return Math.round(watchlistItem.target_price).toString();
     }
-    return lowestPrice > 0 ? (lowestPrice * 0.8).toFixed(2) : '19.99';
+    return lowestPrice > 0 ? Math.round(lowestPrice * 0.8).toString() : '1499';
   });
 
   const [selectedPlatforms, setSelectedPlatforms] = useState<PlatformId[]>(() => {
@@ -40,7 +40,7 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
 
   useEffect(() => {
     if (watchlistItem) {
-      setTargetPriceInput(watchlistItem.target_price.toFixed(2));
+      setTargetPriceInput(Math.round(watchlistItem.target_price).toString());
       if (watchlistItem.notify_platforms && watchlistItem.notify_platforms.length > 0) {
         setSelectedPlatforms(watchlistItem.notify_platforms);
       }
@@ -61,7 +61,7 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
   };
 
   const handleApplyPreset = (price: number) => {
-    setTargetPriceInput(price.toFixed(2));
+    setTargetPriceInput(Math.round(price).toString());
   };
 
   const handleSaveAlert = async (e: React.FormEvent) => {
@@ -172,7 +172,7 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
                       className="px-2 py-0.5 rounded text-[11px] font-mono font-bold bg-[#14263a] hover:bg-[#1b3450] text-[#38bdf8] border border-[#2b4c73] transition-colors inline-flex items-center gap-1"
                     >
                       <span>{st.platform_name || st.platform_id}</span>
-                      <span className="text-emerald-400 font-bold">${st.current_price.toFixed(2)}</span>
+                      <span className="text-emerald-400 font-bold">{formatPrice(st.current_price)}</span>
                     </a>
                   ))}
                 </div>
@@ -205,21 +205,21 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
       <form onSubmit={handleSaveAlert} className="space-y-4">
         <div>
           <label className="block text-xs font-mono text-zinc-400 uppercase tracking-wider mb-2">
-            Target Price (USD)
+            Target Price (INR)
           </label>
           <div className="flex flex-wrap sm:flex-nowrap items-center gap-3">
             <div className="relative flex-1 min-w-[140px]">
               <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-zinc-400 font-mono text-sm font-bold">
-                $
+                ₹
               </span>
               <input
                 type="number"
-                step="0.01"
+                step="10"
                 min="0"
-                max="999.99"
+                max="99999"
                 value={targetPriceInput}
                 onChange={e => setTargetPriceInput(e.target.value)}
-                placeholder="19.99"
+                placeholder="1499"
                 className="w-full pl-8 pr-3 py-2 rounded-lg bg-[#0e1622] border border-[#233547] text-white font-mono text-sm focus:outline-none focus:border-[#38bdf8] focus:ring-1 focus:ring-[#38bdf8] transition-all"
                 required
               />
@@ -305,7 +305,7 @@ export const SetPriceAlertCard: React.FC<SetPriceAlertCardProps> = ({
                     <span>{conf.name}</span>
                     {listing && (
                       <span className="text-[10px] text-zinc-400 font-mono">
-                        (${listing.current_price.toFixed(2)})
+                        ({formatPrice(listing.current_price)})
                       </span>
                     )}
                   </button>

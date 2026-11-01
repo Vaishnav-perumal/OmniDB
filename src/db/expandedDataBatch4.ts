@@ -4883,11 +4883,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "the-last-of-us-part-ii-remastered_playstation",
     "store_url": "https://store.playstation.com/concept/the-last-of-us-part-ii-remastered",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 39.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 3199,
     "discount_percent": 20,
-    "historical_low_price": 34.99,
+    "historical_low_price": 2799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -4896,7 +4896,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 49704,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_god_of_war_2018_steam",
@@ -4904,11 +4904,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1593500",
     "store_url": "https://store.steampowered.com/app/1593500/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -4917,7 +4917,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 83569,
     "rating_positive_percent": 97,
     "review_count": 16014,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_god_of_war_2018_epic",
@@ -4925,11 +4925,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "god-of-war-2018_epic",
     "store_url": "https://store.epicgames.com/p/god-of-war-2018",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -4938,7 +4938,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 61564,
     "rating_positive_percent": 97,
     "review_count": 36245,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_god_of_war_2018_gog",
@@ -4946,11 +4946,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "god-of-war-2018_gog",
     "store_url": "https://www.gog.com/game/god-of-war-2018",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 17.5,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1400,
     "discount_percent": 65,
-    "historical_low_price": 17.5,
+    "historical_low_price": 1400,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -4959,7 +4959,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 57035,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_god_of_war_2018_playstation",
@@ -4967,11 +4967,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "god-of-war-2018_playstation",
     "store_url": "https://store.playstation.com/concept/god-of-war-2018",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -4980,7 +4980,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 6813,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_marvels_spider_man_2_playstation",
@@ -4988,11 +4988,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "marvels-spider-man-2_playstation",
     "store_url": "https://store.playstation.com/concept/marvels-spider-man-2",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 49.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 3999,
     "discount_percent": 29,
-    "historical_low_price": 49.99,
+    "historical_low_price": 3999,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5001,7 +5001,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 48552,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_horizon_forbidden_west_steam",
@@ -5009,11 +5009,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2420110",
     "store_url": "https://store.steampowered.com/app/2420110/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 39.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3199,
     "discount_percent": 33,
-    "historical_low_price": 39.99,
+    "historical_low_price": 3199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5022,7 +5022,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 11336,
     "rating_positive_percent": 92,
     "review_count": 47198,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_horizon_forbidden_west_epic",
@@ -5030,11 +5030,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "horizon-forbidden-west_epic",
     "store_url": "https://store.epicgames.com/p/horizon-forbidden-west",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 39.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3199,
     "discount_percent": 33,
-    "historical_low_price": 39.99,
+    "historical_low_price": 3199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5043,7 +5043,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 77060,
     "rating_positive_percent": 92,
     "review_count": 23169,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_horizon_forbidden_west_playstation",
@@ -5051,11 +5051,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "horizon-forbidden-west_playstation",
     "store_url": "https://store.playstation.com/concept/horizon-forbidden-west",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 39.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3199,
     "discount_percent": 33,
-    "historical_low_price": 39.99,
+    "historical_low_price": 3199,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5064,7 +5064,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 50070,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deathloop_steam",
@@ -5072,11 +5072,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1252330",
     "store_url": "https://store.steampowered.com/app/1252330/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5085,7 +5085,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 54073,
     "rating_positive_percent": 88,
     "review_count": 18875,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deathloop_epic",
@@ -5093,11 +5093,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "deathloop_epic",
     "store_url": "https://store.epicgames.com/p/deathloop",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5106,7 +5106,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 36001,
     "rating_positive_percent": 88,
     "review_count": 61592,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deathloop_playstation",
@@ -5114,11 +5114,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "deathloop_playstation",
     "store_url": "https://store.playstation.com/concept/deathloop",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5127,7 +5127,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 49331,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deathloop_xbox",
@@ -5135,11 +5135,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "deathloop_xbox",
     "store_url": "https://www.xbox.com/games/store/deathloop",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5148,7 +5148,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 37025,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_prey_2017_steam",
@@ -5156,11 +5156,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "480490",
     "store_url": "https://store.steampowered.com/app/480490/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5169,7 +5169,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 13589,
     "rating_positive_percent": 91,
     "review_count": 41276,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_prey_2017_epic",
@@ -5177,11 +5177,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "prey-2017_epic",
     "store_url": "https://store.epicgames.com/p/prey-2017",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5190,7 +5190,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 52485,
     "rating_positive_percent": 91,
     "review_count": 62618,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_prey_2017_gog",
@@ -5198,11 +5198,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "prey-2017_gog",
     "store_url": "https://www.gog.com/game/prey-2017",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.5,
+    "historical_low_price": 360,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5211,7 +5211,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 17477,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_prey_2017_playstation",
@@ -5219,11 +5219,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "prey-2017_playstation",
     "store_url": "https://store.playstation.com/concept/prey-2017",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5232,7 +5232,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 50411,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_prey_2017_xbox",
@@ -5240,11 +5240,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "prey-2017_xbox",
     "store_url": "https://www.xbox.com/games/store/prey-2017",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5253,7 +5253,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 47461,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dishonored_2_steam",
@@ -5261,11 +5261,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "403640",
     "store_url": "https://store.steampowered.com/app/403640/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5274,7 +5274,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 52057,
     "rating_positive_percent": 90,
     "review_count": 8617,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dishonored_2_gog",
@@ -5282,11 +5282,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "dishonored-2_gog",
     "store_url": "https://www.gog.com/game/dishonored-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.5,
+    "historical_low_price": 360,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5295,7 +5295,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 25563,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dishonored_2_epic",
@@ -5303,11 +5303,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "dishonored-2_epic",
     "store_url": "https://store.epicgames.com/p/dishonored-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5316,7 +5316,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 84862,
     "rating_positive_percent": 90,
     "review_count": 64540,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dishonored_2_playstation",
@@ -5324,11 +5324,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dishonored-2_playstation",
     "store_url": "https://store.playstation.com/concept/dishonored-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5337,7 +5337,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 54184,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dishonored_2_xbox",
@@ -5345,11 +5345,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dishonored-2_xbox",
     "store_url": "https://www.xbox.com/games/store/dishonored-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5358,7 +5358,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 23201,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_exodus_steam",
@@ -5366,11 +5366,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "412020",
     "store_url": "https://store.steampowered.com/app/412020/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5379,7 +5379,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33302,
     "rating_positive_percent": 90,
     "review_count": 34691,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_exodus_gog",
@@ -5387,11 +5387,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "metro-exodus_gog",
     "store_url": "https://www.gog.com/game/metro-exodus",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.5,
+    "historical_low_price": 360,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5400,7 +5400,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 50798,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_exodus_epic",
@@ -5408,11 +5408,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "metro-exodus_epic",
     "store_url": "https://store.epicgames.com/p/metro-exodus",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5421,7 +5421,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 60532,
     "rating_positive_percent": 90,
     "review_count": 7088,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_exodus_playstation",
@@ -5429,11 +5429,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "metro-exodus_playstation",
     "store_url": "https://store.playstation.com/concept/metro-exodus",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5442,7 +5442,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 58760,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_exodus_xbox",
@@ -5450,11 +5450,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "metro-exodus_xbox",
     "store_url": "https://www.xbox.com/games/store/metro-exodus",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5463,7 +5463,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 63877,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_steam",
@@ -5471,11 +5471,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "287390",
     "store_url": "https://store.steampowered.com/app/287390/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5484,7 +5484,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 75120,
     "rating_positive_percent": 89,
     "review_count": 18069,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_gog",
@@ -5492,11 +5492,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "metro-last-light-redux_gog",
     "store_url": "https://www.gog.com/game/metro-last-light-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 240,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5505,7 +5505,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 48859,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_epic",
@@ -5513,11 +5513,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "metro-last-light-redux_epic",
     "store_url": "https://store.epicgames.com/p/metro-last-light-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5526,7 +5526,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 51196,
     "rating_positive_percent": 89,
     "review_count": 10638,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_playstation",
@@ -5534,11 +5534,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "metro-last-light-redux_playstation",
     "store_url": "https://store.playstation.com/concept/metro-last-light-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5547,7 +5547,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 26301,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_xbox",
@@ -5555,11 +5555,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "metro-last-light-redux_xbox",
     "store_url": "https://www.xbox.com/games/store/metro-last-light-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5568,7 +5568,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 60779,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_last_light_redux_nintendo",
@@ -5576,11 +5576,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "metro-last-light-redux_nintendo",
     "store_url": "https://www.nintendo.com/store/products/metro-last-light-redux/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -5589,7 +5589,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 44999,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_steam",
@@ -5597,11 +5597,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "286690",
     "store_url": "https://store.steampowered.com/app/286690/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5610,7 +5610,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 22647,
     "rating_positive_percent": 90,
     "review_count": 26338,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_gog",
@@ -5618,11 +5618,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "metro-2033-redux_gog",
     "store_url": "https://www.gog.com/game/metro-2033-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 160,
     "discount_percent": 90,
-    "historical_low_price": 2,
+    "historical_low_price": 160,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5631,7 +5631,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 28752,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_epic",
@@ -5639,11 +5639,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "metro-2033-redux_epic",
     "store_url": "https://store.epicgames.com/p/metro-2033-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5652,7 +5652,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 45870,
     "rating_positive_percent": 90,
     "review_count": 39738,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_playstation",
@@ -5660,11 +5660,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "metro-2033-redux_playstation",
     "store_url": "https://store.playstation.com/concept/metro-2033-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5673,7 +5673,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 45182,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_xbox",
@@ -5681,11 +5681,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "metro-2033-redux_xbox",
     "store_url": "https://www.xbox.com/games/store/metro-2033-redux",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5694,7 +5694,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 59015,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metro_2033_redux_nintendo",
@@ -5702,11 +5702,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "metro-2033-redux_nintendo",
     "store_url": "https://www.nintendo.com/store/products/metro-2033-redux/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -5715,7 +5715,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 46567,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_steam",
@@ -5723,11 +5723,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "239140",
     "store_url": "https://store.steampowered.com/app/239140/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5736,7 +5736,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 62354,
     "rating_positive_percent": 95,
     "review_count": 7126,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_gog",
@@ -5744,11 +5744,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "dying-light_gog",
     "store_url": "https://www.gog.com/game/dying-light",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.5,
+    "historical_low_price": 360,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -5757,7 +5757,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 47392,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_epic",
@@ -5765,11 +5765,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "dying-light_epic",
     "store_url": "https://store.epicgames.com/p/dying-light",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5778,7 +5778,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 12906,
     "rating_positive_percent": 95,
     "review_count": 59251,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_playstation",
@@ -5786,11 +5786,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dying-light_playstation",
     "store_url": "https://store.playstation.com/concept/dying-light",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5799,7 +5799,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 31807,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_xbox",
@@ -5807,11 +5807,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dying-light_xbox",
     "store_url": "https://www.xbox.com/games/store/dying-light",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5820,7 +5820,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 5847,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_nintendo",
@@ -5828,11 +5828,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "dying-light_nintendo",
     "store_url": "https://www.nintendo.com/store/products/dying-light/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -5841,7 +5841,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 57469,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_2_stay_human_steam",
@@ -5849,11 +5849,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "534380",
     "store_url": "https://store.steampowered.com/app/534380/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5862,7 +5862,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 40350,
     "rating_positive_percent": 82,
     "review_count": 50277,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_2_stay_human_epic",
@@ -5870,11 +5870,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "dying-light-2-stay-human_epic",
     "store_url": "https://store.epicgames.com/p/dying-light-2-stay-human",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5883,7 +5883,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 74045,
     "rating_positive_percent": 82,
     "review_count": 35505,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_2_stay_human_playstation",
@@ -5891,11 +5891,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dying-light-2-stay-human_playstation",
     "store_url": "https://store.playstation.com/concept/dying-light-2-stay-human",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5904,7 +5904,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 62349,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dying_light_2_stay_human_xbox",
@@ -5912,11 +5912,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dying-light-2-stay-human_xbox",
     "store_url": "https://www.xbox.com/games/store/dying-light-2-stay-human",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -5925,7 +5925,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 63543,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dead_island_2_steam",
@@ -5933,11 +5933,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "934700",
     "store_url": "https://store.steampowered.com/app/934700/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -5946,7 +5946,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33561,
     "rating_positive_percent": 84,
     "review_count": 13678,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dead_island_2_epic",
@@ -5954,11 +5954,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "dead-island-2_epic",
     "store_url": "https://store.epicgames.com/p/dead-island-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -5967,7 +5967,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 17316,
     "rating_positive_percent": 84,
     "review_count": 14642,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dead_island_2_playstation",
@@ -5975,11 +5975,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dead-island-2_playstation",
     "store_url": "https://store.playstation.com/concept/dead-island-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -5988,7 +5988,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 84,
     "review_count": 16148,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dead_island_2_xbox",
@@ -5996,11 +5996,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dead-island-2_xbox",
     "store_url": "https://www.xbox.com/games/store/dead-island-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6009,7 +6009,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 84,
     "review_count": 52495,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_killing_floor_2_steam",
@@ -6017,11 +6017,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "232090",
     "store_url": "https://store.steampowered.com/app/232090/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 239,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6030,7 +6030,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 38790,
     "rating_positive_percent": 88,
     "review_count": 44676,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_killing_floor_2_epic",
@@ -6038,11 +6038,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "killing-floor-2_epic",
     "store_url": "https://store.epicgames.com/p/killing-floor-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 239,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6051,7 +6051,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 11547,
     "rating_positive_percent": 88,
     "review_count": 30437,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_killing_floor_2_playstation",
@@ -6059,11 +6059,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "killing-floor-2_playstation",
     "store_url": "https://store.playstation.com/concept/killing-floor-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 239,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6072,7 +6072,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 41437,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_killing_floor_2_xbox",
@@ -6080,11 +6080,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "killing-floor-2_xbox",
     "store_url": "https://www.xbox.com/games/store/killing-floor-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 239,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6093,7 +6093,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 36323,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_doom_2016_steam",
@@ -6101,11 +6101,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "379720",
     "store_url": "https://store.steampowered.com/app/379720/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6114,7 +6114,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 75662,
     "rating_positive_percent": 95,
     "review_count": 36320,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_doom_2016_gog",
@@ -6122,11 +6122,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "doom-2016_gog",
     "store_url": "https://www.gog.com/game/doom-2016",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 240,
     "discount_percent": 85,
-    "historical_low_price": 3,
+    "historical_low_price": 240,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6135,7 +6135,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 62599,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_doom_2016_playstation",
@@ -6143,11 +6143,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "doom-2016_playstation",
     "store_url": "https://store.playstation.com/concept/doom-2016",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6156,7 +6156,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 6863,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_doom_2016_xbox",
@@ -6164,11 +6164,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "doom-2016_xbox",
     "store_url": "https://www.xbox.com/games/store/doom-2016",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6177,7 +6177,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 26832,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_doom_2016_nintendo",
@@ -6185,11 +6185,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "doom-2016_nintendo",
     "store_url": "https://www.nintendo.com/store/products/doom-2016/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -6198,7 +6198,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 54664,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_new_order_steam",
@@ -6206,11 +6206,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "201810",
     "store_url": "https://store.steampowered.com/app/201810/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6219,7 +6219,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 15985,
     "rating_positive_percent": 91,
     "review_count": 36281,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_new_order_gog",
@@ -6227,11 +6227,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "wolfenstein-the-new-order_gog",
     "store_url": "https://www.gog.com/game/wolfenstein-the-new-order",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 240,
     "discount_percent": 85,
-    "historical_low_price": 3,
+    "historical_low_price": 240,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6240,7 +6240,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 63656,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_new_order_epic",
@@ -6248,11 +6248,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "wolfenstein-the-new-order_epic",
     "store_url": "https://store.epicgames.com/p/wolfenstein-the-new-order",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6261,7 +6261,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 66233,
     "rating_positive_percent": 91,
     "review_count": 54573,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_new_order_playstation",
@@ -6269,11 +6269,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "wolfenstein-the-new-order_playstation",
     "store_url": "https://store.playstation.com/concept/wolfenstein-the-new-order",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6282,7 +6282,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 27362,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_new_order_xbox",
@@ -6290,11 +6290,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "wolfenstein-the-new-order_xbox",
     "store_url": "https://www.xbox.com/games/store/wolfenstein-the-new-order",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6303,7 +6303,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 46050,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_steam",
@@ -6311,11 +6311,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "612880",
     "store_url": "https://store.steampowered.com/app/612880/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6324,7 +6324,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 44967,
     "rating_positive_percent": 87,
     "review_count": 8934,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_gog",
@@ -6332,11 +6332,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "wolfenstein-ii-the-new-colossus_gog",
     "store_url": "https://www.gog.com/game/wolfenstein-ii-the-new-colossus",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 320,
     "discount_percent": 90,
-    "historical_low_price": 4,
+    "historical_low_price": 320,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6345,7 +6345,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 39646,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_epic",
@@ -6353,11 +6353,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "wolfenstein-ii-the-new-colossus_epic",
     "store_url": "https://store.epicgames.com/p/wolfenstein-ii-the-new-colossus",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6366,7 +6366,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 54160,
     "rating_positive_percent": 87,
     "review_count": 10160,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_playstation",
@@ -6374,11 +6374,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "wolfenstein-ii-the-new-colossus_playstation",
     "store_url": "https://store.playstation.com/concept/wolfenstein-ii-the-new-colossus",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6387,7 +6387,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 33228,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_xbox",
@@ -6395,11 +6395,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "wolfenstein-ii-the-new-colossus_xbox",
     "store_url": "https://www.xbox.com/games/store/wolfenstein-ii-the-new-colossus",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6408,7 +6408,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 62535,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_ii_the_new_colossus_nintendo",
@@ -6416,11 +6416,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "wolfenstein-ii-the-new-colossus_nintendo",
     "store_url": "https://www.nintendo.com/store/products/wolfenstein-ii-the-new-colossus/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 20,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1600,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -6429,7 +6429,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 20185,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_old_blood_steam",
@@ -6437,11 +6437,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "350080",
     "store_url": "https://store.steampowered.com/app/350080/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6450,7 +6450,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 31525,
     "rating_positive_percent": 89,
     "review_count": 50325,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_old_blood_gog",
@@ -6458,11 +6458,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "wolfenstein-the-old-blood_gog",
     "store_url": "https://www.gog.com/game/wolfenstein-the-old-blood",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 320,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6471,7 +6471,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 59226,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_old_blood_epic",
@@ -6479,11 +6479,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "wolfenstein-the-old-blood_epic",
     "store_url": "https://store.epicgames.com/p/wolfenstein-the-old-blood",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6492,7 +6492,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 53314,
     "rating_positive_percent": 89,
     "review_count": 13639,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_old_blood_playstation",
@@ -6500,11 +6500,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "wolfenstein-the-old-blood_playstation",
     "store_url": "https://store.playstation.com/concept/wolfenstein-the-old-blood",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6513,7 +6513,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 64840,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_wolfenstein_the_old_blood_xbox",
@@ -6521,11 +6521,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "wolfenstein-the-old-blood_xbox",
     "store_url": "https://www.xbox.com/games/store/wolfenstein-the-old-blood",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6534,7 +6534,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 18215,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_steam",
@@ -6542,11 +6542,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2310",
     "store_url": "https://store.steampowered.com/app/2310/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6555,7 +6555,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57458,
     "rating_positive_percent": 96,
     "review_count": 26895,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_gog",
@@ -6563,11 +6563,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "quake_gog",
     "store_url": "https://www.gog.com/game/quake",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.5,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 280,
     "discount_percent": 65,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6576,7 +6576,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 47031,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_epic",
@@ -6584,11 +6584,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "quake_epic",
     "store_url": "https://store.epicgames.com/p/quake",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6597,7 +6597,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 39145,
     "rating_positive_percent": 96,
     "review_count": 9776,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_playstation",
@@ -6605,11 +6605,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "quake_playstation",
     "store_url": "https://store.playstation.com/concept/quake",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6618,7 +6618,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 37725,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_xbox",
@@ -6626,11 +6626,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "quake_xbox",
     "store_url": "https://www.xbox.com/games/store/quake",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6639,7 +6639,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 19636,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_nintendo",
@@ -6647,11 +6647,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "quake_nintendo",
     "store_url": "https://www.nintendo.com/store/products/quake/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -6660,7 +6660,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 29324,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_steam",
@@ -6668,11 +6668,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2320",
     "store_url": "https://store.steampowered.com/app/2320/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6681,7 +6681,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57682,
     "rating_positive_percent": 95,
     "review_count": 32203,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_gog",
@@ -6689,11 +6689,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "quake-ii_gog",
     "store_url": "https://www.gog.com/game/quake-ii",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.5,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 280,
     "discount_percent": 65,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6702,7 +6702,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 32576,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_epic",
@@ -6710,11 +6710,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "quake-ii_epic",
     "store_url": "https://store.epicgames.com/p/quake-ii",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6723,7 +6723,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 78856,
     "rating_positive_percent": 95,
     "review_count": 56270,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_playstation",
@@ -6731,11 +6731,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "quake-ii_playstation",
     "store_url": "https://store.playstation.com/concept/quake-ii",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6744,7 +6744,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 11533,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_xbox",
@@ -6752,11 +6752,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "quake-ii_xbox",
     "store_url": "https://www.xbox.com/games/store/quake-ii",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6765,7 +6765,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 44523,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_quake_ii_nintendo",
@@ -6773,11 +6773,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "quake-ii_nintendo",
     "store_url": "https://www.nintendo.com/store/products/quake-ii/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 319,
     "discount_percent": 60,
-    "historical_low_price": 3.29,
+    "historical_low_price": 263,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -6786,7 +6786,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 10492,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_steam",
@@ -6794,11 +6794,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1715130",
     "store_url": "https://store.steampowered.com/app/1715130/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6807,7 +6807,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 24851,
     "rating_positive_percent": 80,
     "review_count": 58853,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_epic",
@@ -6815,11 +6815,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "crysis-remastered_epic",
     "store_url": "https://store.epicgames.com/p/crysis-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6828,7 +6828,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 89034,
     "rating_positive_percent": 80,
     "review_count": 52051,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_gog",
@@ -6836,11 +6836,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "crysis-remastered_gog",
     "store_url": "https://www.gog.com/game/crysis-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.4,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 672,
     "discount_percent": 72,
-    "historical_low_price": 8.4,
+    "historical_low_price": 672,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6849,7 +6849,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 7733,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_playstation",
@@ -6857,11 +6857,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "crysis-remastered_playstation",
     "store_url": "https://store.playstation.com/concept/crysis-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6870,7 +6870,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 55110,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_xbox",
@@ -6878,11 +6878,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "crysis-remastered_xbox",
     "store_url": "https://www.xbox.com/games/store/crysis-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -6891,7 +6891,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 9534,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_remastered_nintendo",
@@ -6899,11 +6899,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "crysis-remastered_nintendo",
     "store_url": "https://www.nintendo.com/store/products/crysis-remastered/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -6912,7 +6912,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 17374,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_steam",
@@ -6920,11 +6920,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2096600",
     "store_url": "https://store.steampowered.com/app/2096600/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -6933,7 +6933,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 54288,
     "rating_positive_percent": 83,
     "review_count": 30264,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_epic",
@@ -6941,11 +6941,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "crysis-2-remastered_epic",
     "store_url": "https://store.epicgames.com/p/crysis-2-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -6954,7 +6954,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88907,
     "rating_positive_percent": 83,
     "review_count": 62552,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_gog",
@@ -6962,11 +6962,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "crysis-2-remastered_gog",
     "store_url": "https://www.gog.com/game/crysis-2-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 10.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 840,
     "discount_percent": 65,
-    "historical_low_price": 10.5,
+    "historical_low_price": 840,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -6975,7 +6975,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 25125,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_playstation",
@@ -6983,11 +6983,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "crysis-2-remastered_playstation",
     "store_url": "https://store.playstation.com/concept/crysis-2-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -6996,7 +6996,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 42418,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_xbox",
@@ -7004,11 +7004,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "crysis-2-remastered_xbox",
     "store_url": "https://www.xbox.com/games/store/crysis-2-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7017,7 +7017,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 46196,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_2_remastered_nintendo",
@@ -7025,11 +7025,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "crysis-2-remastered_nintendo",
     "store_url": "https://www.nintendo.com/store/products/crysis-2-remastered/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -7038,7 +7038,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 44732,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_steam",
@@ -7046,11 +7046,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2096610",
     "store_url": "https://store.steampowered.com/app/2096610/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7059,7 +7059,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 16570,
     "rating_positive_percent": 82,
     "review_count": 60603,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_epic",
@@ -7067,11 +7067,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "crysis-3-remastered_epic",
     "store_url": "https://store.epicgames.com/p/crysis-3-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7080,7 +7080,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33218,
     "rating_positive_percent": 82,
     "review_count": 14471,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_gog",
@@ -7088,11 +7088,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "crysis-3-remastered_gog",
     "store_url": "https://www.gog.com/game/crysis-3-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 10.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 840,
     "discount_percent": 65,
-    "historical_low_price": 10.5,
+    "historical_low_price": 840,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -7101,7 +7101,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 62409,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_playstation",
@@ -7109,11 +7109,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "crysis-3-remastered_playstation",
     "store_url": "https://store.playstation.com/concept/crysis-3-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7122,7 +7122,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 36940,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_xbox",
@@ -7130,11 +7130,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "crysis-3-remastered_xbox",
     "store_url": "https://www.xbox.com/games/store/crysis-3-remastered",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7143,7 +7143,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 23359,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_crysis_3_remastered_nintendo",
@@ -7151,11 +7151,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "crysis-3-remastered_nintendo",
     "store_url": "https://www.nintendo.com/store/products/crysis-3-remastered/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -7164,7 +7164,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 31864,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_rainbow_six_siege_steam",
@@ -7172,11 +7172,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "359550",
     "store_url": "https://store.steampowered.com/app/359550/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7185,7 +7185,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 35656,
     "rating_positive_percent": 87,
     "review_count": 9811,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_rainbow_six_siege_epic",
@@ -7193,11 +7193,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "tom-clancys-rainbow-six-siege_epic",
     "store_url": "https://store.epicgames.com/p/tom-clancys-rainbow-six-siege",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7206,7 +7206,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 15191,
     "rating_positive_percent": 87,
     "review_count": 36270,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_rainbow_six_siege_playstation",
@@ -7214,11 +7214,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "tom-clancys-rainbow-six-siege_playstation",
     "store_url": "https://store.playstation.com/concept/tom-clancys-rainbow-six-siege",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7227,7 +7227,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 33906,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_rainbow_six_siege_xbox",
@@ -7235,11 +7235,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "tom-clancys-rainbow-six-siege_xbox",
     "store_url": "https://www.xbox.com/games/store/tom-clancys-rainbow-six-siege",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7248,7 +7248,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 17562,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_wildlands_steam",
@@ -7256,11 +7256,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "460930",
     "store_url": "https://store.steampowered.com/app/460930/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 799,
     "discount_percent": 80,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7269,7 +7269,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 34204,
     "rating_positive_percent": 83,
     "review_count": 6610,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_wildlands_epic",
@@ -7277,11 +7277,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "tom-clancys-ghost-recon-wildlands_epic",
     "store_url": "https://store.epicgames.com/p/tom-clancys-ghost-recon-wildlands",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 799,
     "discount_percent": 80,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7290,7 +7290,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88546,
     "rating_positive_percent": 83,
     "review_count": 51042,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_wildlands_playstation",
@@ -7298,11 +7298,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "tom-clancys-ghost-recon-wildlands_playstation",
     "store_url": "https://store.playstation.com/concept/tom-clancys-ghost-recon-wildlands",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 799,
     "discount_percent": 80,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7311,7 +7311,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 37050,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_wildlands_xbox",
@@ -7319,11 +7319,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "tom-clancys-ghost-recon-wildlands_xbox",
     "store_url": "https://www.xbox.com/games/store/tom-clancys-ghost-recon-wildlands",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 799,
     "discount_percent": 80,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7332,7 +7332,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 39974,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_breakpoint_steam",
@@ -7340,11 +7340,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2231380",
     "store_url": "https://store.steampowered.com/app/2231380/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7353,7 +7353,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 32258,
     "rating_positive_percent": 78,
     "review_count": 58141,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_breakpoint_epic",
@@ -7361,11 +7361,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "tom-clancys-ghost-recon-breakpoint_epic",
     "store_url": "https://store.epicgames.com/p/tom-clancys-ghost-recon-breakpoint",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7374,7 +7374,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 79494,
     "rating_positive_percent": 78,
     "review_count": 7408,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_breakpoint_playstation",
@@ -7382,11 +7382,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "tom-clancys-ghost-recon-breakpoint_playstation",
     "store_url": "https://store.playstation.com/concept/tom-clancys-ghost-recon-breakpoint",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7395,7 +7395,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 13507,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tom_clancys_ghost_recon_breakpoint_xbox",
@@ -7403,11 +7403,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "tom-clancys-ghost-recon-breakpoint_xbox",
     "store_url": "https://www.xbox.com/games/store/tom-clancys-ghost-recon-breakpoint",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 959,
     "discount_percent": 80,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7416,7 +7416,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 49213,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_steam",
@@ -7424,11 +7424,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "243470",
     "store_url": "https://store.steampowered.com/app/243470/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7437,7 +7437,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 23500,
     "rating_positive_percent": 79,
     "review_count": 46008,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_epic",
@@ -7445,11 +7445,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "watch-dogs_epic",
     "store_url": "https://store.epicgames.com/p/watch-dogs",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7458,7 +7458,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 69716,
     "rating_positive_percent": 79,
     "review_count": 53758,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_playstation",
@@ -7466,11 +7466,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "watch-dogs_playstation",
     "store_url": "https://store.playstation.com/concept/watch-dogs",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7479,7 +7479,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 79,
     "review_count": 17119,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_xbox",
@@ -7487,11 +7487,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "watch-dogs_xbox",
     "store_url": "https://www.xbox.com/games/store/watch-dogs",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7500,7 +7500,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 79,
     "review_count": 22175,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_2_steam",
@@ -7508,11 +7508,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "447040",
     "store_url": "https://store.steampowered.com/app/447040/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7521,7 +7521,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 87791,
     "rating_positive_percent": 86,
     "review_count": 30589,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_2_epic",
@@ -7529,11 +7529,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "watch-dogs-2_epic",
     "store_url": "https://store.epicgames.com/p/watch-dogs-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7542,7 +7542,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 74075,
     "rating_positive_percent": 86,
     "review_count": 35142,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_2_playstation",
@@ -7550,11 +7550,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "watch-dogs-2_playstation",
     "store_url": "https://store.playstation.com/concept/watch-dogs-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7563,7 +7563,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 86,
     "review_count": 11042,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_2_xbox",
@@ -7571,11 +7571,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "watch-dogs-2_xbox",
     "store_url": "https://www.xbox.com/games/store/watch-dogs-2",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7584,7 +7584,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 86,
     "review_count": 34313,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_legion_steam",
@@ -7592,11 +7592,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2239550",
     "store_url": "https://store.steampowered.com/app/2239550/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 719,
     "discount_percent": 85,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7605,7 +7605,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 79330,
     "rating_positive_percent": 78,
     "review_count": 54638,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_legion_epic",
@@ -7613,11 +7613,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "watch-dogs-legion_epic",
     "store_url": "https://store.epicgames.com/p/watch-dogs-legion",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 719,
     "discount_percent": 85,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7626,7 +7626,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 41085,
     "rating_positive_percent": 78,
     "review_count": 59857,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_legion_playstation",
@@ -7634,11 +7634,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "watch-dogs-legion_playstation",
     "store_url": "https://store.playstation.com/concept/watch-dogs-legion",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 719,
     "discount_percent": 85,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7647,7 +7647,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 54164,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_watch_dogs_legion_xbox",
@@ -7655,11 +7655,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "watch-dogs-legion_xbox",
     "store_url": "https://www.xbox.com/games/store/watch-dogs-legion",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 719,
     "discount_percent": 85,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7668,7 +7668,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 31668,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_sleeping_dogs_definitive_edition_steam",
@@ -7676,11 +7676,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "307690",
     "store_url": "https://store.steampowered.com/app/307690/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7689,7 +7689,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 20615,
     "rating_positive_percent": 91,
     "review_count": 49494,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_sleeping_dogs_definitive_edition_gog",
@@ -7697,11 +7697,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "sleeping-dogs-definitive-edition_gog",
     "store_url": "https://www.gog.com/game/sleeping-dogs-definitive-edition",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 160,
     "discount_percent": 90,
-    "historical_low_price": 2,
+    "historical_low_price": 160,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -7710,7 +7710,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 46234,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_sleeping_dogs_definitive_edition_playstation",
@@ -7718,11 +7718,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "sleeping-dogs-definitive-edition_playstation",
     "store_url": "https://store.playstation.com/concept/sleeping-dogs-definitive-edition",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7731,7 +7731,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 26505,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_sleeping_dogs_definitive_edition_xbox",
@@ -7739,11 +7739,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "sleeping-dogs-definitive-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/sleeping-dogs-definitive-edition",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7752,7 +7752,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 30743,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_definitive_edition_steam",
@@ -7760,11 +7760,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1030840",
     "store_url": "https://store.steampowered.com/app/1030840/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7773,7 +7773,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 78797,
     "rating_positive_percent": 90,
     "review_count": 17139,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_definitive_edition_gog",
@@ -7781,11 +7781,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "mafia-definitive-edition_gog",
     "store_url": "https://www.gog.com/game/mafia-definitive-edition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 8,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 640,
     "discount_percent": 80,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -7794,7 +7794,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 44378,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_definitive_edition_epic",
@@ -7802,11 +7802,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "mafia-definitive-edition_epic",
     "store_url": "https://store.epicgames.com/p/mafia-definitive-edition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7815,7 +7815,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 43267,
     "rating_positive_percent": 90,
     "review_count": 12132,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_definitive_edition_playstation",
@@ -7823,11 +7823,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mafia-definitive-edition_playstation",
     "store_url": "https://store.playstation.com/concept/mafia-definitive-edition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7836,7 +7836,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 55169,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_definitive_edition_xbox",
@@ -7844,11 +7844,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mafia-definitive-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/mafia-definitive-edition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7857,7 +7857,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 24889,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_ii_definitive_edition_steam",
@@ -7865,11 +7865,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1030830",
     "store_url": "https://store.steampowered.com/app/1030830/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7878,7 +7878,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 82462,
     "rating_positive_percent": 83,
     "review_count": 40116,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_ii_definitive_edition_gog",
@@ -7886,11 +7886,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "mafia-ii-definitive-edition_gog",
     "store_url": "https://www.gog.com/game/mafia-ii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.4,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 672,
     "discount_percent": 72,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -7899,7 +7899,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 18804,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_ii_definitive_edition_epic",
@@ -7907,11 +7907,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "mafia-ii-definitive-edition_epic",
     "store_url": "https://store.epicgames.com/p/mafia-ii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -7920,7 +7920,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88688,
     "rating_positive_percent": 83,
     "review_count": 28754,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_ii_definitive_edition_playstation",
@@ -7928,11 +7928,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mafia-ii-definitive-edition_playstation",
     "store_url": "https://store.playstation.com/concept/mafia-ii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -7941,7 +7941,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 30334,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_ii_definitive_edition_xbox",
@@ -7949,11 +7949,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mafia-ii-definitive-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/mafia-ii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -7962,7 +7962,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 8457,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_iii_definitive_edition_steam",
@@ -7970,11 +7970,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "360430",
     "store_url": "https://store.steampowered.com/app/360430/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -7983,7 +7983,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 21204,
     "rating_positive_percent": 78,
     "review_count": 27359,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_iii_definitive_edition_gog",
@@ -7991,11 +7991,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "mafia-iii-definitive-edition_gog",
     "store_url": "https://www.gog.com/game/mafia-iii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.4,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 672,
     "discount_percent": 72,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8004,7 +8004,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 6712,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_iii_definitive_edition_epic",
@@ -8012,11 +8012,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "mafia-iii-definitive-edition_epic",
     "store_url": "https://store.epicgames.com/p/mafia-iii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -8025,7 +8025,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 24253,
     "rating_positive_percent": 78,
     "review_count": 52079,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_iii_definitive_edition_playstation",
@@ -8033,11 +8033,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mafia-iii-definitive-edition_playstation",
     "store_url": "https://store.playstation.com/concept/mafia-iii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8046,7 +8046,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 5696,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mafia_iii_definitive_edition_xbox",
@@ -8054,11 +8054,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mafia-iii-definitive-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/mafia-iii-definitive-edition",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 9.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 791,
     "discount_percent": 67,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8067,7 +8067,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 53887,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_la_noire_steam",
@@ -8075,11 +8075,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "110800",
     "store_url": "https://store.steampowered.com/app/110800/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8088,7 +8088,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 80362,
     "rating_positive_percent": 89,
     "review_count": 60968,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_la_noire_playstation",
@@ -8096,11 +8096,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "la-noire_playstation",
     "store_url": "https://store.playstation.com/concept/la-noire",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8109,7 +8109,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 59843,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_la_noire_xbox",
@@ -8117,11 +8117,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "la-noire_xbox",
     "store_url": "https://www.xbox.com/games/store/la-noire",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8130,7 +8130,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 48628,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_la_noire_nintendo",
@@ -8138,11 +8138,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "la-noire_nintendo",
     "store_url": "https://www.nintendo.com/store/products/la-noire/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -8151,7 +8151,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 42008,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_max_payne_3_steam",
@@ -8159,11 +8159,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "204100",
     "store_url": "https://store.steampowered.com/app/204100/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8172,7 +8172,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 39442,
     "rating_positive_percent": 91,
     "review_count": 38443,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_max_payne_3_playstation",
@@ -8180,11 +8180,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "max-payne-3_playstation",
     "store_url": "https://store.playstation.com/concept/max-payne-3",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8193,7 +8193,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 19016,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_max_payne_3_xbox",
@@ -8201,11 +8201,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "max-payne-3_xbox",
     "store_url": "https://www.xbox.com/games/store/max-payne-3",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 479,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8214,7 +8214,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 52152,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_bully_scholarship_edition_steam",
@@ -8222,11 +8222,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "12200",
     "store_url": "https://store.steampowered.com/app/12200/",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 5.24,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 419,
     "discount_percent": 65,
-    "historical_low_price": 5.24,
+    "historical_low_price": 419,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8235,7 +8235,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 71931,
     "rating_positive_percent": 89,
     "review_count": 60618,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_bully_scholarship_edition_playstation",
@@ -8243,11 +8243,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "bully-scholarship-edition_playstation",
     "store_url": "https://store.playstation.com/concept/bully-scholarship-edition",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 5.24,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 419,
     "discount_percent": 65,
-    "historical_low_price": 5.24,
+    "historical_low_price": 419,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8256,7 +8256,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 45323,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_bully_scholarship_edition_xbox",
@@ -8264,11 +8264,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "bully-scholarship-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/bully-scholarship-edition",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 5.24,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 419,
     "discount_percent": 65,
-    "historical_low_price": 5.24,
+    "historical_low_price": 419,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8277,7 +8277,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 64846,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_spec_ops_the_line_steam",
@@ -8285,11 +8285,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "50300",
     "store_url": "https://store.steampowered.com/app/50300/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8298,7 +8298,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 56078,
     "rating_positive_percent": 93,
     "review_count": 49581,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_spec_ops_the_line_gog",
@@ -8306,11 +8306,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "spec-ops-the-line_gog",
     "store_url": "https://www.gog.com/game/spec-ops-the-line",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8319,7 +8319,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 42734,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_spec_ops_the_line_playstation",
@@ -8327,11 +8327,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "spec-ops-the-line_playstation",
     "store_url": "https://store.playstation.com/concept/spec-ops-the-line",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8340,7 +8340,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 11586,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_spec_ops_the_line_xbox",
@@ -8348,11 +8348,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "spec-ops-the-line_xbox",
     "store_url": "https://www.xbox.com/games/store/spec-ops-the-line",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8361,7 +8361,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 63869,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_3_steam",
@@ -8369,11 +8369,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "225540",
     "store_url": "https://store.steampowered.com/app/225540/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8382,7 +8382,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 14360,
     "rating_positive_percent": 85,
     "review_count": 31778,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_3_playstation",
@@ -8390,11 +8390,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "just-cause-3_playstation",
     "store_url": "https://store.playstation.com/concept/just-cause-3",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8403,7 +8403,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 85,
     "review_count": 17428,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_3_xbox",
@@ -8411,11 +8411,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "just-cause-3_xbox",
     "store_url": "https://www.xbox.com/games/store/just-cause-3",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8424,7 +8424,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 85,
     "review_count": 7735,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_4_steam",
@@ -8432,11 +8432,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "517630",
     "store_url": "https://store.steampowered.com/app/517630/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8445,7 +8445,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 70466,
     "rating_positive_percent": 78,
     "review_count": 43138,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_4_epic",
@@ -8453,11 +8453,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "just-cause-4_epic",
     "store_url": "https://store.epicgames.com/p/just-cause-4",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -8466,7 +8466,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 63948,
     "rating_positive_percent": 78,
     "review_count": 38209,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_4_playstation",
@@ -8474,11 +8474,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "just-cause-4_playstation",
     "store_url": "https://store.playstation.com/concept/just-cause-4",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8487,7 +8487,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 33479,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_just_cause_4_xbox",
@@ -8495,11 +8495,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "just-cause-4_xbox",
     "store_url": "https://www.xbox.com/games/store/just-cause-4",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8508,7 +8508,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 5811,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mad_max_steam",
@@ -8516,11 +8516,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "234140",
     "store_url": "https://store.steampowered.com/app/234140/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8529,7 +8529,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 78159,
     "rating_positive_percent": 91,
     "review_count": 64758,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mad_max_gog",
@@ -8537,11 +8537,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "mad-max_gog",
     "store_url": "https://www.gog.com/game/mad-max",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 240,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8550,7 +8550,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 47089,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mad_max_playstation",
@@ -8558,11 +8558,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mad-max_playstation",
     "store_url": "https://store.playstation.com/concept/mad-max",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8571,7 +8571,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 26402,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mad_max_xbox",
@@ -8579,11 +8579,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mad-max_xbox",
     "store_url": "https://www.xbox.com/games/store/mad-max",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8592,7 +8592,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 31231,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_mordor_steam",
@@ -8600,11 +8600,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "241930",
     "store_url": "https://store.steampowered.com/app/241930/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8613,7 +8613,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 27365,
     "rating_positive_percent": 92,
     "review_count": 47561,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_mordor_gog",
@@ -8621,11 +8621,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "middle-earth-shadow-of-mordor_gog",
     "store_url": "https://www.gog.com/game/middle-earth-shadow-of-mordor",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 320,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8634,7 +8634,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 8059,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_mordor_playstation",
@@ -8642,11 +8642,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "middle-earth-shadow-of-mordor_playstation",
     "store_url": "https://store.playstation.com/concept/middle-earth-shadow-of-mordor",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8655,7 +8655,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 7684,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_mordor_xbox",
@@ -8663,11 +8663,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "middle-earth-shadow-of-mordor_xbox",
     "store_url": "https://www.xbox.com/games/store/middle-earth-shadow-of-mordor",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8676,7 +8676,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 51830,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_war_steam",
@@ -8684,11 +8684,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "356190",
     "store_url": "https://store.steampowered.com/app/356190/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8697,7 +8697,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 42635,
     "rating_positive_percent": 89,
     "review_count": 24748,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_war_gog",
@@ -8705,11 +8705,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "middle-earth-shadow-of-war_gog",
     "store_url": "https://www.gog.com/game/middle-earth-shadow-of-war",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 5,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 400,
     "discount_percent": 90,
-    "historical_low_price": 5,
+    "historical_low_price": 400,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8718,7 +8718,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 50331,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_war_playstation",
@@ -8726,11 +8726,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "middle-earth-shadow-of-war_playstation",
     "store_url": "https://store.playstation.com/concept/middle-earth-shadow-of-war",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8739,7 +8739,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 56009,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_middle_earth_shadow_of_war_xbox",
@@ -8747,11 +8747,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "middle-earth-shadow-of-war_xbox",
     "store_url": "https://www.xbox.com/games/store/middle-earth-shadow-of-war",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8760,7 +8760,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 54154,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_steam",
@@ -8768,11 +8768,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "379430",
     "store_url": "https://store.steampowered.com/app/379430/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8781,7 +8781,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 46469,
     "rating_positive_percent": 89,
     "review_count": 16699,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_gog",
@@ -8789,11 +8789,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "kingdom-come-deliverance_gog",
     "store_url": "https://www.gog.com/game/kingdom-come-deliverance",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.5,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 360,
     "discount_percent": 85,
-    "historical_low_price": 4.5,
+    "historical_low_price": 360,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -8802,7 +8802,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 25614,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_epic",
@@ -8810,11 +8810,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "kingdom-come-deliverance_epic",
     "store_url": "https://store.epicgames.com/p/kingdom-come-deliverance",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -8823,7 +8823,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 48221,
     "rating_positive_percent": 89,
     "review_count": 52219,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_playstation",
@@ -8831,11 +8831,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "kingdom-come-deliverance_playstation",
     "store_url": "https://store.playstation.com/concept/kingdom-come-deliverance",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8844,7 +8844,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 35705,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_xbox",
@@ -8852,11 +8852,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "kingdom-come-deliverance_xbox",
     "store_url": "https://www.xbox.com/games/store/kingdom-come-deliverance",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8865,7 +8865,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 57747,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_nintendo",
@@ -8873,11 +8873,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "kingdom-come-deliverance_nintendo",
     "store_url": "https://www.nintendo.com/store/products/kingdom-come-deliverance/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -8886,7 +8886,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 89,
     "review_count": 27712,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_ii_steam",
@@ -8894,11 +8894,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1771300",
     "store_url": "https://store.steampowered.com/app/1771300/",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 59.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4799,
     "discount_percent": 14,
-    "historical_low_price": 59.99,
+    "historical_low_price": 4799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8907,7 +8907,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33334,
     "rating_positive_percent": 93,
     "review_count": 23613,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_ii_epic",
@@ -8915,11 +8915,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "kingdom-come-deliverance-ii_epic",
     "store_url": "https://store.epicgames.com/p/kingdom-come-deliverance-ii",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 59.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4799,
     "discount_percent": 14,
-    "historical_low_price": 59.99,
+    "historical_low_price": 4799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -8928,7 +8928,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 10414,
     "rating_positive_percent": 93,
     "review_count": 56531,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_ii_playstation",
@@ -8936,11 +8936,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "kingdom-come-deliverance-ii_playstation",
     "store_url": "https://store.playstation.com/concept/kingdom-come-deliverance-ii",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 59.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4799,
     "discount_percent": 14,
-    "historical_low_price": 59.99,
+    "historical_low_price": 4799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -8949,7 +8949,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 60730,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_come_deliverance_ii_xbox",
@@ -8957,11 +8957,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "kingdom-come-deliverance-ii_xbox",
     "store_url": "https://www.xbox.com/games/store/kingdom-come-deliverance-ii",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 59.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4799,
     "discount_percent": 14,
-    "historical_low_price": 59.99,
+    "historical_low_price": 4799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -8970,7 +8970,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 47247,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mount_and_blade_ii_bannerlord_steam",
@@ -8978,11 +8978,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "261550",
     "store_url": "https://store.steampowered.com/app/261550/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -8991,7 +8991,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 63662,
     "rating_positive_percent": 88,
     "review_count": 17897,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mount_and_blade_ii_bannerlord_gog",
@@ -8999,11 +8999,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "mount-and-blade-ii-bannerlord_gog",
     "store_url": "https://www.gog.com/game/mount-and-blade-ii-bannerlord",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 22.5,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1800,
     "discount_percent": 55,
-    "historical_low_price": 22.5,
+    "historical_low_price": 1800,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -9012,7 +9012,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 11481,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mount_and_blade_ii_bannerlord_epic",
@@ -9020,11 +9020,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "mount-and-blade-ii-bannerlord_epic",
     "store_url": "https://store.epicgames.com/p/mount-and-blade-ii-bannerlord",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -9033,7 +9033,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 36844,
     "rating_positive_percent": 88,
     "review_count": 17649,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mount_and_blade_ii_bannerlord_playstation",
@@ -9041,11 +9041,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mount-and-blade-ii-bannerlord_playstation",
     "store_url": "https://store.playstation.com/concept/mount-and-blade-ii-bannerlord",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9054,7 +9054,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 26621,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mount_and_blade_ii_bannerlord_xbox",
@@ -9062,11 +9062,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mount-and-blade-ii-bannerlord_xbox",
     "store_url": "https://www.xbox.com/games/store/mount-and-blade-ii-bannerlord",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 24.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1999,
     "discount_percent": 50,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9075,7 +9075,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 23439,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_origins_steam",
@@ -9083,11 +9083,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "47810",
     "store_url": "https://store.steampowered.com/app/47810/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9096,7 +9096,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33943,
     "rating_positive_percent": 93,
     "review_count": 18602,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_origins_gog",
@@ -9104,11 +9104,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "dragon-age-origins_gog",
     "store_url": "https://www.gog.com/game/dragon-age-origins",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 240,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -9117,7 +9117,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 19694,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_origins_playstation",
@@ -9125,11 +9125,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dragon-age-origins_playstation",
     "store_url": "https://store.playstation.com/concept/dragon-age-origins",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9138,7 +9138,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 25199,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_origins_xbox",
@@ -9146,11 +9146,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dragon-age-origins_xbox",
     "store_url": "https://www.xbox.com/games/store/dragon-age-origins",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9159,7 +9159,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 18833,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_inquisition_steam",
@@ -9167,11 +9167,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1222690",
     "store_url": "https://store.steampowered.com/app/1222690/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9180,7 +9180,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57421,
     "rating_positive_percent": 87,
     "review_count": 58972,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_inquisition_epic",
@@ -9188,11 +9188,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "dragon-age-inquisition_epic",
     "store_url": "https://store.epicgames.com/p/dragon-age-inquisition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -9201,7 +9201,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 55375,
     "rating_positive_percent": 87,
     "review_count": 46502,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_inquisition_playstation",
@@ -9209,11 +9209,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "dragon-age-inquisition_playstation",
     "store_url": "https://store.playstation.com/concept/dragon-age-inquisition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9222,7 +9222,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 8120,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_dragon_age_inquisition_xbox",
@@ -9230,11 +9230,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "dragon-age-inquisition_xbox",
     "store_url": "https://www.xbox.com/games/store/dragon-age-inquisition",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9243,7 +9243,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 32053,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mass_effect_andromeda_steam",
@@ -9251,11 +9251,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1238000",
     "store_url": "https://store.steampowered.com/app/1238000/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9264,7 +9264,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 54676,
     "rating_positive_percent": 78,
     "review_count": 53090,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mass_effect_andromeda_epic",
@@ -9272,11 +9272,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "mass-effect-andromeda_epic",
     "store_url": "https://store.epicgames.com/p/mass-effect-andromeda",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -9285,7 +9285,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 16464,
     "rating_positive_percent": 78,
     "review_count": 12632,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mass_effect_andromeda_playstation",
@@ -9293,11 +9293,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "mass-effect-andromeda_playstation",
     "store_url": "https://store.playstation.com/concept/mass-effect-andromeda",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9306,7 +9306,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 36987,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_mass_effect_andromeda_xbox",
@@ -9314,11 +9314,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "mass-effect-andromeda_xbox",
     "store_url": "https://www.xbox.com/games/store/mass-effect-andromeda",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9327,7 +9327,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 59784,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_persona_3_reload_steam",
@@ -9335,11 +9335,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2161700",
     "store_url": "https://store.steampowered.com/app/2161700/",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 41.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 3359,
     "discount_percent": 40,
-    "historical_low_price": 41.99,
+    "historical_low_price": 3359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9348,7 +9348,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 70073,
     "rating_positive_percent": 95,
     "review_count": 39220,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_persona_3_reload_playstation",
@@ -9356,11 +9356,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "persona-3-reload_playstation",
     "store_url": "https://store.playstation.com/concept/persona-3-reload",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 41.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 3359,
     "discount_percent": 40,
-    "historical_low_price": 41.99,
+    "historical_low_price": 3359,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9369,7 +9369,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 33721,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_persona_3_reload_xbox",
@@ -9377,11 +9377,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "persona-3-reload_xbox",
     "store_url": "https://www.xbox.com/games/store/persona-3-reload",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 41.99,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 3359,
     "discount_percent": 40,
-    "historical_low_price": 41.99,
+    "historical_low_price": 3359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9390,7 +9390,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 32868,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metaphor_refantazio_steam",
@@ -9398,11 +9398,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2679460",
     "store_url": "https://store.steampowered.com/app/2679460/",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 52.49,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4199,
     "discount_percent": 25,
-    "historical_low_price": 52.49,
+    "historical_low_price": 4199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9411,7 +9411,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 37148,
     "rating_positive_percent": 94,
     "review_count": 9035,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metaphor_refantazio_playstation",
@@ -9419,11 +9419,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "metaphor-refantazio_playstation",
     "store_url": "https://store.playstation.com/concept/metaphor-refantazio",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 52.49,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4199,
     "discount_percent": 25,
-    "historical_low_price": 52.49,
+    "historical_low_price": 4199,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9432,7 +9432,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 30702,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_metaphor_refantazio_xbox",
@@ -9440,11 +9440,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "metaphor-refantazio_xbox",
     "store_url": "https://www.xbox.com/games/store/metaphor-refantazio",
-    "currency": "USD",
-    "original_price": 69.99,
-    "current_price": 52.49,
+    "currency": "INR",
+    "original_price": 5599,
+    "current_price": 4199,
     "discount_percent": 25,
-    "historical_low_price": 52.49,
+    "historical_low_price": 4199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9453,7 +9453,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 5331,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_like_a_dragon_ishin_steam",
@@ -9461,11 +9461,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1805480",
     "store_url": "https://store.steampowered.com/app/1805480/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 20.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1679,
     "discount_percent": 65,
-    "historical_low_price": 20.99,
+    "historical_low_price": 1679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9474,7 +9474,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 66944,
     "rating_positive_percent": 87,
     "review_count": 42755,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_like_a_dragon_ishin_playstation",
@@ -9482,11 +9482,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "like-a-dragon-ishin_playstation",
     "store_url": "https://store.playstation.com/concept/like-a-dragon-ishin",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 20.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1679,
     "discount_percent": 65,
-    "historical_low_price": 20.99,
+    "historical_low_price": 1679,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9495,7 +9495,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 39754,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_like_a_dragon_ishin_xbox",
@@ -9503,11 +9503,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "like-a-dragon-ishin_xbox",
     "store_url": "https://www.xbox.com/games/store/like-a-dragon-ishin",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 20.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1679,
     "discount_percent": 65,
-    "historical_low_price": 20.99,
+    "historical_low_price": 1679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9516,7 +9516,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 14531,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_steam",
@@ -9524,11 +9524,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "834530",
     "store_url": "https://store.steampowered.com/app/834530/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 6.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 559,
     "discount_percent": 65,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9537,7 +9537,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 14889,
     "rating_positive_percent": 93,
     "review_count": 50541,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_gog",
@@ -9545,11 +9545,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "yakuza-kiwami_gog",
     "store_url": "https://www.gog.com/game/yakuza-kiwami",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 6,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 480,
     "discount_percent": 70,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -9558,7 +9558,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 63893,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_playstation",
@@ -9566,11 +9566,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "yakuza-kiwami_playstation",
     "store_url": "https://store.playstation.com/concept/yakuza-kiwami",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 6.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 559,
     "discount_percent": 65,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9579,7 +9579,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 29160,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_xbox",
@@ -9587,11 +9587,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "yakuza-kiwami_xbox",
     "store_url": "https://www.xbox.com/games/store/yakuza-kiwami",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 6.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 559,
     "discount_percent": 65,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9600,7 +9600,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 50086,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_nintendo",
@@ -9608,11 +9608,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "yakuza-kiwami_nintendo",
     "store_url": "https://www.nintendo.com/store/products/yakuza-kiwami/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -9621,7 +9621,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 27369,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_2_steam",
@@ -9629,11 +9629,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "927380",
     "store_url": "https://store.steampowered.com/app/927380/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9642,7 +9642,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 84841,
     "rating_positive_percent": 94,
     "review_count": 34318,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_2_gog",
@@ -9650,11 +9650,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "yakuza-kiwami-2_gog",
     "store_url": "https://www.gog.com/game/yakuza-kiwami-2",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 560,
     "discount_percent": 65,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -9663,7 +9663,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 51027,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_2_playstation",
@@ -9671,11 +9671,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "yakuza-kiwami-2_playstation",
     "store_url": "https://store.playstation.com/concept/yakuza-kiwami-2",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9684,7 +9684,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 56523,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_yakuza_kiwami_2_xbox",
@@ -9692,11 +9692,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "yakuza-kiwami-2_xbox",
     "store_url": "https://www.xbox.com/games/store/yakuza-kiwami-2",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9705,7 +9705,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 56355,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tales_of_arise_steam",
@@ -9713,11 +9713,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "740130",
     "store_url": "https://store.steampowered.com/app/740130/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 14.79,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1183,
     "discount_percent": 63,
-    "historical_low_price": 13.99,
+    "historical_low_price": 1119,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9726,7 +9726,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 47216,
     "rating_positive_percent": 90,
     "review_count": 59636,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tales_of_arise_playstation",
@@ -9734,11 +9734,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "tales-of-arise_playstation",
     "store_url": "https://store.playstation.com/concept/tales-of-arise",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 14.79,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1183,
     "discount_percent": 63,
-    "historical_low_price": 13.99,
+    "historical_low_price": 1119,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9747,7 +9747,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 16352,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tales_of_arise_xbox",
@@ -9755,11 +9755,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "tales-of-arise_xbox",
     "store_url": "https://www.xbox.com/games/store/tales-of-arise",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 14.79,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1183,
     "discount_percent": 63,
-    "historical_low_price": 13.99,
+    "historical_low_price": 1119,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9768,7 +9768,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 16935,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_steam",
@@ -9776,11 +9776,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "921570",
     "store_url": "https://store.steampowered.com/app/921570/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9789,7 +9789,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57099,
     "rating_positive_percent": 87,
     "review_count": 30332,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_playstation",
@@ -9797,11 +9797,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "octopath-traveler_playstation",
     "store_url": "https://store.playstation.com/concept/octopath-traveler",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9810,7 +9810,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 24724,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_xbox",
@@ -9818,11 +9818,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "octopath-traveler_xbox",
     "store_url": "https://www.xbox.com/games/store/octopath-traveler",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9831,7 +9831,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 15775,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_nintendo",
@@ -9839,11 +9839,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "octopath-traveler_nintendo",
     "store_url": "https://www.nintendo.com/store/products/octopath-traveler/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -9852,7 +9852,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 59889,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_ii_steam",
@@ -9860,11 +9860,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1971650",
     "store_url": "https://store.steampowered.com/app/1971650/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 35.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2879,
     "discount_percent": 40,
-    "historical_low_price": 35.99,
+    "historical_low_price": 2879,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9873,7 +9873,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 11991,
     "rating_positive_percent": 95,
     "review_count": 44490,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_ii_playstation",
@@ -9881,11 +9881,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "octopath-traveler-ii_playstation",
     "store_url": "https://store.playstation.com/concept/octopath-traveler-ii",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 35.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2879,
     "discount_percent": 40,
-    "historical_low_price": 35.99,
+    "historical_low_price": 2879,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -9894,7 +9894,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 34235,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_ii_xbox",
@@ -9902,11 +9902,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "octopath-traveler-ii_xbox",
     "store_url": "https://www.xbox.com/games/store/octopath-traveler-ii",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 35.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2879,
     "discount_percent": 40,
-    "historical_low_price": 35.99,
+    "historical_low_price": 2879,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -9915,7 +9915,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 26555,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_octopath_traveler_ii_nintendo",
@@ -9923,11 +9923,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "octopath-traveler-ii_nintendo",
     "store_url": "https://www.nintendo.com/store/products/octopath-traveler-ii/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 35.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2879,
     "discount_percent": 40,
-    "historical_low_price": 35.99,
+    "historical_low_price": 2879,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -9936,7 +9936,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 64480,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_bravely_default_ii_steam",
@@ -9944,11 +9944,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1446650",
     "store_url": "https://store.steampowered.com/app/1446650/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9957,7 +9957,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 77539,
     "rating_positive_percent": 83,
     "review_count": 63802,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_bravely_default_ii_nintendo",
@@ -9965,11 +9965,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "bravely-default-ii_nintendo",
     "store_url": "https://www.nintendo.com/store/products/bravely-default-ii/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 23.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 1919,
     "discount_percent": 60,
-    "historical_low_price": 23.99,
+    "historical_low_price": 1919,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -9978,7 +9978,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 26309,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_wrath_of_the_white_witch_steam",
@@ -9986,11 +9986,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "798460",
     "store_url": "https://store.steampowered.com/app/798460/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -9999,7 +9999,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 46956,
     "rating_positive_percent": 91,
     "review_count": 10873,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_wrath_of_the_white_witch_playstation",
@@ -10007,11 +10007,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "ni-no-kuni-wrath-of-the-white-witch_playstation",
     "store_url": "https://store.playstation.com/concept/ni-no-kuni-wrath-of-the-white-witch",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10020,7 +10020,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 25948,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_wrath_of_the_white_witch_xbox",
@@ -10028,11 +10028,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "ni-no-kuni-wrath-of-the-white-witch_xbox",
     "store_url": "https://www.xbox.com/games/store/ni-no-kuni-wrath-of-the-white-witch",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 7.49,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 599,
     "discount_percent": 85,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10041,7 +10041,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 8958,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_wrath_of_the_white_witch_nintendo",
@@ -10049,11 +10049,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "ni-no-kuni-wrath-of-the-white-witch_nintendo",
     "store_url": "https://www.nintendo.com/store/products/ni-no-kuni-wrath-of-the-white-witch/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 25,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 2000,
     "discount_percent": 50,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10062,7 +10062,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 64151,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_ii_revenant_kingdom_steam",
@@ -10070,11 +10070,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "589360",
     "store_url": "https://store.steampowered.com/app/589360/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 9.59,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 767,
     "discount_percent": 84,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10083,7 +10083,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 44571,
     "rating_positive_percent": 86,
     "review_count": 33126,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_ii_revenant_kingdom_playstation",
@@ -10091,11 +10091,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "ni-no-kuni-ii-revenant-kingdom_playstation",
     "store_url": "https://store.playstation.com/concept/ni-no-kuni-ii-revenant-kingdom",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 9.59,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 767,
     "discount_percent": 84,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10104,7 +10104,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 86,
     "review_count": 33071,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_ii_revenant_kingdom_xbox",
@@ -10112,11 +10112,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "ni-no-kuni-ii-revenant-kingdom_xbox",
     "store_url": "https://www.xbox.com/games/store/ni-no-kuni-ii-revenant-kingdom",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 9.59,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 767,
     "discount_percent": 84,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10125,7 +10125,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 86,
     "review_count": 33268,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ni_no_kuni_ii_revenant_kingdom_nintendo",
@@ -10133,11 +10133,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "ni-no-kuni-ii-revenant-kingdom_nintendo",
     "store_url": "https://www.nintendo.com/store/products/ni-no-kuni-ii-revenant-kingdom/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 30,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2400,
     "discount_percent": 50,
-    "historical_low_price": 8.99,
+    "historical_low_price": 719,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10146,7 +10146,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 86,
     "review_count": 33729,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_hearts_iii_steam",
@@ -10154,11 +10154,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "2552450",
     "store_url": "https://store.steampowered.com/app/2552450/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10167,7 +10167,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 49000,
     "rating_positive_percent": 87,
     "review_count": 40938,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_hearts_iii_epic",
@@ -10175,11 +10175,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "kingdom-hearts-iii_epic",
     "store_url": "https://store.epicgames.com/p/kingdom-hearts-iii",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -10188,7 +10188,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 87321,
     "rating_positive_percent": 87,
     "review_count": 56469,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_hearts_iii_playstation",
@@ -10196,11 +10196,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "kingdom-hearts-iii_playstation",
     "store_url": "https://store.playstation.com/concept/kingdom-hearts-iii",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10209,7 +10209,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 62811,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kingdom_hearts_iii_xbox",
@@ -10217,11 +10217,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "kingdom-hearts-iii_xbox",
     "store_url": "https://www.xbox.com/games/store/kingdom-hearts-iii",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 29.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 2399,
     "discount_percent": 50,
-    "historical_low_price": 29.99,
+    "historical_low_price": 2399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10230,7 +10230,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 40840,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xii_the_zodiac_age_steam",
@@ -10238,11 +10238,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "595520",
     "store_url": "https://store.steampowered.com/app/595520/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10251,7 +10251,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 24192,
     "rating_positive_percent": 91,
     "review_count": 8363,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xii_the_zodiac_age_playstation",
@@ -10259,11 +10259,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "final-fantasy-xii-the-zodiac-age_playstation",
     "store_url": "https://store.playstation.com/concept/final-fantasy-xii-the-zodiac-age",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10272,7 +10272,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 12816,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xii_the_zodiac_age_xbox",
@@ -10280,11 +10280,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "final-fantasy-xii-the-zodiac-age_xbox",
     "store_url": "https://www.xbox.com/games/store/final-fantasy-xii-the-zodiac-age",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10293,7 +10293,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 38902,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xii_the_zodiac_age_nintendo",
@@ -10301,11 +10301,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "final-fantasy-xii-the-zodiac-age_nintendo",
     "store_url": "https://www.nintendo.com/store/products/final-fantasy-xii-the-zodiac-age/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 1599,
     "discount_percent": 60,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10314,7 +10314,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 51975,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_steam",
@@ -10322,11 +10322,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "292120",
     "store_url": "https://store.steampowered.com/app/292120/",
-    "currency": "USD",
-    "original_price": 15.99,
-    "current_price": 6.39,
+    "currency": "INR",
+    "original_price": 1279,
+    "current_price": 511,
     "discount_percent": 60,
-    "historical_low_price": 6.39,
+    "historical_low_price": 511,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10335,7 +10335,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 20734,
     "rating_positive_percent": 83,
     "review_count": 24653,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_playstation",
@@ -10343,11 +10343,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "final-fantasy-xiii_playstation",
     "store_url": "https://store.playstation.com/concept/final-fantasy-xiii",
-    "currency": "USD",
-    "original_price": 15.99,
-    "current_price": 6.39,
+    "currency": "INR",
+    "original_price": 1279,
+    "current_price": 511,
     "discount_percent": 60,
-    "historical_low_price": 6.39,
+    "historical_low_price": 511,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10356,7 +10356,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 43539,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_xbox",
@@ -10364,11 +10364,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "final-fantasy-xiii_xbox",
     "store_url": "https://www.xbox.com/games/store/final-fantasy-xiii",
-    "currency": "USD",
-    "original_price": 15.99,
-    "current_price": 6.39,
+    "currency": "INR",
+    "original_price": 1279,
+    "current_price": 511,
     "discount_percent": 60,
-    "historical_low_price": 6.39,
+    "historical_low_price": 511,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10377,7 +10377,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 14136,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_2_steam",
@@ -10385,11 +10385,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "292140",
     "store_url": "https://store.steampowered.com/app/292140/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10398,7 +10398,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 68341,
     "rating_positive_percent": 82,
     "review_count": 56441,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_2_playstation",
@@ -10406,11 +10406,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "final-fantasy-xiii-2_playstation",
     "store_url": "https://store.playstation.com/concept/final-fantasy-xiii-2",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10419,7 +10419,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 7036,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiii_2_xbox",
@@ -10427,11 +10427,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "final-fantasy-xiii-2_xbox",
     "store_url": "https://www.xbox.com/games/store/final-fantasy-xiii-2",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 7.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 639,
     "discount_percent": 60,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10440,7 +10440,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 82,
     "review_count": 19896,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiv_online_steam",
@@ -10448,11 +10448,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "39210",
     "store_url": "https://store.steampowered.com/app/39210/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10461,7 +10461,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 46447,
     "rating_positive_percent": 94,
     "review_count": 44033,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiv_online_playstation",
@@ -10469,11 +10469,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "final-fantasy-xiv-online_playstation",
     "store_url": "https://store.playstation.com/concept/final-fantasy-xiv-online",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10482,7 +10482,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 55984,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_final_fantasy_xiv_online_xbox",
@@ -10490,11 +10490,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "final-fantasy-xiv-online_xbox",
     "store_url": "https://www.xbox.com/games/store/final-fantasy-xiv-online",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10503,7 +10503,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 43866,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tales_of_berseria_steam",
@@ -10511,11 +10511,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "429660",
     "store_url": "https://store.steampowered.com/app/429660/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 399,
     "discount_percent": 90,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10524,7 +10524,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 38999,
     "rating_positive_percent": 92,
     "review_count": 54241,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_tales_of_berseria_playstation",
@@ -10532,11 +10532,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "tales-of-berseria_playstation",
     "store_url": "https://store.playstation.com/concept/tales-of-berseria",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 399,
     "discount_percent": 90,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10545,7 +10545,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 57938,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_xenoblade_chronicles_3_nintendo",
@@ -10553,11 +10553,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "xenoblade-chronicles-3_nintendo",
     "store_url": "https://www.nintendo.com/store/products/xenoblade-chronicles-3/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 41.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3359,
     "discount_percent": 30,
-    "historical_low_price": 41.99,
+    "historical_low_price": 3359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10566,7 +10566,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 44591,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_xenoblade_chronicles_definitive_edition_nintendo",
@@ -10574,11 +10574,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "xenoblade-chronicles-definitive-edition_nintendo",
     "store_url": "https://www.nintendo.com/store/products/xenoblade-chronicles-definitive-edition/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 39.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3199,
     "discount_percent": 33,
-    "historical_low_price": 39.99,
+    "historical_low_price": 3199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10587,7 +10587,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 56378,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_fire_emblem_three_houses_nintendo",
@@ -10595,11 +10595,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "fire-emblem-three-houses_nintendo",
     "store_url": "https://www.nintendo.com/store/products/fire-emblem-three-houses/",
-    "currency": "USD",
-    "original_price": 59.99,
-    "current_price": 41.99,
+    "currency": "INR",
+    "original_price": 4799,
+    "current_price": 3359,
     "discount_percent": 30,
-    "historical_low_price": 39.99,
+    "historical_low_price": 3199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10608,7 +10608,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 37985,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_3_steam",
@@ -10616,11 +10616,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "952060",
     "store_url": "https://store.steampowered.com/app/952060/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10629,7 +10629,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 22498,
     "rating_positive_percent": 87,
     "review_count": 45984,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_3_playstation",
@@ -10637,11 +10637,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "resident-evil-3_playstation",
     "store_url": "https://store.playstation.com/concept/resident-evil-3",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10650,7 +10650,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 42296,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_3_xbox",
@@ -10658,11 +10658,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "resident-evil-3_xbox",
     "store_url": "https://www.xbox.com/games/store/resident-evil-3",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10671,7 +10671,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 22312,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_3_nintendo",
@@ -10679,11 +10679,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "resident-evil-3_nintendo",
     "store_url": "https://www.nintendo.com/store/products/resident-evil-3/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 20,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1600,
     "discount_percent": 50,
-    "historical_low_price": 9.99,
+    "historical_low_price": 799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10692,7 +10692,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 28748,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_5_steam",
@@ -10700,11 +10700,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "21690",
     "store_url": "https://store.steampowered.com/app/21690/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10713,7 +10713,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 63539,
     "rating_positive_percent": 87,
     "review_count": 53095,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_5_gog",
@@ -10721,11 +10721,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "resident-evil-5_gog",
     "store_url": "https://www.gog.com/game/resident-evil-5",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 320,
     "discount_percent": 80,
-    "historical_low_price": 4,
+    "historical_low_price": 320,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -10734,7 +10734,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 47019,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_5_playstation",
@@ -10742,11 +10742,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "resident-evil-5_playstation",
     "store_url": "https://store.playstation.com/concept/resident-evil-5",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10755,7 +10755,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 39760,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_5_xbox",
@@ -10763,11 +10763,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "resident-evil-5_xbox",
     "store_url": "https://www.xbox.com/games/store/resident-evil-5",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10776,7 +10776,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 55829,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_5_nintendo",
@@ -10784,11 +10784,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "resident-evil-5_nintendo",
     "store_url": "https://www.nintendo.com/store/products/resident-evil-5/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10797,7 +10797,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 43928,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_6_steam",
@@ -10805,11 +10805,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "221040",
     "store_url": "https://store.steampowered.com/app/221040/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10818,7 +10818,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 60554,
     "rating_positive_percent": 80,
     "review_count": 33610,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_6_playstation",
@@ -10826,11 +10826,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "resident-evil-6_playstation",
     "store_url": "https://store.playstation.com/concept/resident-evil-6",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10839,7 +10839,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 49409,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_6_xbox",
@@ -10847,11 +10847,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "resident-evil-6_xbox",
     "store_url": "https://www.xbox.com/games/store/resident-evil-6",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 479,
     "discount_percent": 80,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10860,7 +10860,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 12851,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_6_nintendo",
@@ -10868,11 +10868,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "resident-evil-6_nintendo",
     "store_url": "https://www.nintendo.com/store/products/resident-evil-6/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10881,7 +10881,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 80,
     "review_count": 30853,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_steam",
@@ -10889,11 +10889,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "222480",
     "store_url": "https://store.steampowered.com/app/222480/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 6.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 551,
     "discount_percent": 77,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10902,7 +10902,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 37514,
     "rating_positive_percent": 85,
     "review_count": 36819,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_playstation",
@@ -10910,11 +10910,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "resident-evil-revelations_playstation",
     "store_url": "https://store.playstation.com/concept/resident-evil-revelations",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 6.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 551,
     "discount_percent": 77,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -10923,7 +10923,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 85,
     "review_count": 7016,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_xbox",
@@ -10931,11 +10931,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "resident-evil-revelations_xbox",
     "store_url": "https://www.xbox.com/games/store/resident-evil-revelations",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 6.89,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 551,
     "discount_percent": 77,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -10944,7 +10944,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 85,
     "review_count": 22548,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_nintendo",
@@ -10952,11 +10952,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "resident-evil-revelations_nintendo",
     "store_url": "https://www.nintendo.com/store/products/resident-evil-revelations/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -10965,7 +10965,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 85,
     "review_count": 29725,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_2_steam",
@@ -10973,11 +10973,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "287290",
     "store_url": "https://store.steampowered.com/app/287290/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 383,
     "discount_percent": 84,
-    "historical_low_price": 4.79,
+    "historical_low_price": 383,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -10986,7 +10986,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57588,
     "rating_positive_percent": 83,
     "review_count": 64314,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_2_playstation",
@@ -10994,11 +10994,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "resident-evil-revelations-2_playstation",
     "store_url": "https://store.playstation.com/concept/resident-evil-revelations-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 383,
     "discount_percent": 84,
-    "historical_low_price": 4.79,
+    "historical_low_price": 383,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11007,7 +11007,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 49315,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_2_xbox",
@@ -11015,11 +11015,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "resident-evil-revelations-2_xbox",
     "store_url": "https://www.xbox.com/games/store/resident-evil-revelations-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 383,
     "discount_percent": 84,
-    "historical_low_price": 4.79,
+    "historical_low_price": 383,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11028,7 +11028,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 56718,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_resident_evil_revelations_2_nintendo",
@@ -11036,11 +11036,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "resident-evil-revelations-2_nintendo",
     "store_url": "https://www.nintendo.com/store/products/resident-evil-revelations-2/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 4.79,
+    "historical_low_price": 383,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11049,7 +11049,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 63583,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_steam",
@@ -11057,11 +11057,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "268050",
     "store_url": "https://store.steampowered.com/app/268050/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11070,7 +11070,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 49486,
     "rating_positive_percent": 87,
     "review_count": 40001,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_gog",
@@ -11078,11 +11078,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "the-evil-within_gog",
     "store_url": "https://www.gog.com/game/the-evil-within",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 240,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11091,7 +11091,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 35375,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_epic",
@@ -11099,11 +11099,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "the-evil-within_epic",
     "store_url": "https://store.epicgames.com/p/the-evil-within",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11112,7 +11112,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 67558,
     "rating_positive_percent": 87,
     "review_count": 61286,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_playstation",
@@ -11120,11 +11120,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "the-evil-within_playstation",
     "store_url": "https://store.playstation.com/concept/the-evil-within",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11133,7 +11133,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 64543,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_xbox",
@@ -11141,11 +11141,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "the-evil-within_xbox",
     "store_url": "https://www.xbox.com/games/store/the-evil-within",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 3.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 319,
     "discount_percent": 80,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11154,7 +11154,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 47975,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_2_steam",
@@ -11162,11 +11162,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "601430",
     "store_url": "https://store.steampowered.com/app/601430/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11175,7 +11175,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 58552,
     "rating_positive_percent": 91,
     "review_count": 40469,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_2_gog",
@@ -11183,11 +11183,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "the-evil-within-2_gog",
     "store_url": "https://www.gog.com/game/the-evil-within-2",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 320,
     "discount_percent": 90,
-    "historical_low_price": 4,
+    "historical_low_price": 320,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11196,7 +11196,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 14310,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_2_epic",
@@ -11204,11 +11204,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "the-evil-within-2_epic",
     "store_url": "https://store.epicgames.com/p/the-evil-within-2",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11217,7 +11217,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 83547,
     "rating_positive_percent": 91,
     "review_count": 63037,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_2_playstation",
@@ -11225,11 +11225,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "the-evil-within-2_playstation",
     "store_url": "https://store.playstation.com/concept/the-evil-within-2",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11238,7 +11238,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 63968,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_evil_within_2_xbox",
@@ -11246,11 +11246,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "the-evil-within-2_xbox",
     "store_url": "https://www.xbox.com/games/store/the-evil-within-2",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11259,7 +11259,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 44871,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_steam",
@@ -11267,11 +11267,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "238320",
     "store_url": "https://store.steampowered.com/app/238320/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11280,7 +11280,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 61119,
     "rating_positive_percent": 93,
     "review_count": 27625,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_gog",
@@ -11288,11 +11288,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "outlast_gog",
     "store_url": "https://www.gog.com/game/outlast",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 160,
     "discount_percent": 90,
-    "historical_low_price": 2,
+    "historical_low_price": 160,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11301,7 +11301,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 43788,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_epic",
@@ -11309,11 +11309,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "outlast_epic",
     "store_url": "https://store.epicgames.com/p/outlast",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11322,7 +11322,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88060,
     "rating_positive_percent": 93,
     "review_count": 48088,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_playstation",
@@ -11330,11 +11330,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "outlast_playstation",
     "store_url": "https://store.playstation.com/concept/outlast",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11343,7 +11343,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 63576,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_xbox",
@@ -11351,11 +11351,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "outlast_xbox",
     "store_url": "https://www.xbox.com/games/store/outlast",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11364,7 +11364,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 19612,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_nintendo",
@@ -11372,11 +11372,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "outlast_nintendo",
     "store_url": "https://www.nintendo.com/store/products/outlast/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11385,7 +11385,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 34424,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_steam",
@@ -11393,11 +11393,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "414700",
     "store_url": "https://store.steampowered.com/app/414700/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11406,7 +11406,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 50763,
     "rating_positive_percent": 87,
     "review_count": 13204,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_gog",
@@ -11414,11 +11414,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "outlast-2_gog",
     "store_url": "https://www.gog.com/game/outlast-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 240,
     "discount_percent": 90,
-    "historical_low_price": 3,
+    "historical_low_price": 240,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11427,7 +11427,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 36488,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_epic",
@@ -11435,11 +11435,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "outlast-2_epic",
     "store_url": "https://store.epicgames.com/p/outlast-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11448,7 +11448,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 25770,
     "rating_positive_percent": 87,
     "review_count": 13912,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_playstation",
@@ -11456,11 +11456,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "outlast-2_playstation",
     "store_url": "https://store.playstation.com/concept/outlast-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11469,7 +11469,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 45096,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_xbox",
@@ -11477,11 +11477,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "outlast-2_xbox",
     "store_url": "https://www.xbox.com/games/store/outlast-2",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11490,7 +11490,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 45261,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_outlast_2_nintendo",
@@ -11498,11 +11498,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "outlast-2_nintendo",
     "store_url": "https://www.nintendo.com/store/products/outlast-2/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 4.49,
+    "historical_low_price": 359,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11511,7 +11511,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 87,
     "review_count": 32640,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_steam",
@@ -11519,11 +11519,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "57300",
     "store_url": "https://store.steampowered.com/app/57300/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11532,7 +11532,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 37914,
     "rating_positive_percent": 95,
     "review_count": 28366,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_gog",
@@ -11540,11 +11540,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "amnesia-the-dark-descent_gog",
     "store_url": "https://www.gog.com/game/amnesia-the-dark-descent",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 160,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11553,7 +11553,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 43354,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_epic",
@@ -11561,11 +11561,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "amnesia-the-dark-descent_epic",
     "store_url": "https://store.epicgames.com/p/amnesia-the-dark-descent",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11574,7 +11574,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 13754,
     "rating_positive_percent": 95,
     "review_count": 36055,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_playstation",
@@ -11582,11 +11582,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "amnesia-the-dark-descent_playstation",
     "store_url": "https://store.playstation.com/concept/amnesia-the-dark-descent",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11595,7 +11595,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 63038,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_xbox",
@@ -11603,11 +11603,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "amnesia-the-dark-descent_xbox",
     "store_url": "https://www.xbox.com/games/store/amnesia-the-dark-descent",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 239,
     "discount_percent": 85,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11616,7 +11616,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 17723,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_amnesia_the_dark_descent_nintendo",
@@ -11624,11 +11624,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "amnesia-the-dark-descent_nintendo",
     "store_url": "https://www.nintendo.com/store/products/amnesia-the-dark-descent/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11637,7 +11637,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 10807,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ori_and_the_blind_forest_definitive_edition_steam",
@@ -11645,11 +11645,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "387290",
     "store_url": "https://store.steampowered.com/app/387290/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11658,7 +11658,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 17397,
     "rating_positive_percent": 96,
     "review_count": 8226,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ori_and_the_blind_forest_definitive_edition_xbox",
@@ -11666,11 +11666,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "ori-and-the-blind-forest-definitive-edition_xbox",
     "store_url": "https://www.xbox.com/games/store/ori-and-the-blind-forest-definitive-edition",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11679,7 +11679,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 10509,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ori_and_the_blind_forest_definitive_edition_nintendo",
@@ -11687,11 +11687,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "ori-and-the-blind-forest-definitive-edition_nintendo",
     "store_url": "https://www.nintendo.com/store/products/ori-and-the-blind-forest-definitive-edition/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11700,7 +11700,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 32831,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_shovel_knight_treasure_trove_steam",
@@ -11708,11 +11708,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "250760",
     "store_url": "https://store.steampowered.com/app/250760/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 15.99,
+    "historical_low_price": 1279,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11721,7 +11721,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 19949,
     "rating_positive_percent": 96,
     "review_count": 34846,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_shovel_knight_treasure_trove_gog",
@@ -11729,11 +11729,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "shovel-knight-treasure-trove_gog",
     "store_url": "https://www.gog.com/game/shovel-knight-treasure-trove",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 18,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1440,
     "discount_percent": 55,
-    "historical_low_price": 15.99,
+    "historical_low_price": 1279,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11742,7 +11742,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 22396,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_shovel_knight_treasure_trove_playstation",
@@ -11750,11 +11750,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "shovel-knight-treasure-trove_playstation",
     "store_url": "https://store.playstation.com/concept/shovel-knight-treasure-trove",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 15.99,
+    "historical_low_price": 1279,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11763,7 +11763,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 24518,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_shovel_knight_treasure_trove_xbox",
@@ -11771,11 +11771,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "shovel-knight-treasure-trove_xbox",
     "store_url": "https://www.xbox.com/games/store/shovel-knight-treasure-trove",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 15.99,
+    "historical_low_price": 1279,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11784,7 +11784,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 16198,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_shovel_knight_treasure_trove_nintendo",
@@ -11792,11 +11792,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "shovel-knight-treasure-trove_nintendo",
     "store_url": "https://www.nintendo.com/store/products/shovel-knight-treasure-trove/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 15.99,
+    "historical_low_price": 1279,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11805,7 +11805,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 5909,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_katana_zero_steam",
@@ -11813,11 +11813,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "460950",
     "store_url": "https://store.steampowered.com/app/460950/",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 719,
     "discount_percent": 40,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11826,7 +11826,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 70589,
     "rating_positive_percent": 97,
     "review_count": 44781,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_katana_zero_gog",
@@ -11834,11 +11834,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "katana-zero_gog",
     "store_url": "https://www.gog.com/game/katana-zero",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 8.24,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 659,
     "discount_percent": 45,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -11847,7 +11847,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 56635,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_katana_zero_xbox",
@@ -11855,11 +11855,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "katana-zero_xbox",
     "store_url": "https://www.xbox.com/games/store/katana-zero",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 719,
     "discount_percent": 40,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11868,7 +11868,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 34814,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_katana_zero_nintendo",
@@ -11876,11 +11876,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "katana-zero_nintendo",
     "store_url": "https://www.nintendo.com/store/products/katana-zero/",
-    "currency": "USD",
-    "original_price": 14.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 1199,
+    "current_price": 719,
     "discount_percent": 40,
-    "historical_low_price": 7.49,
+    "historical_low_price": 599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11889,7 +11889,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 17898,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_hades_steam",
@@ -11897,11 +11897,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1145360",
     "store_url": "https://store.steampowered.com/app/1145360/",
-    "currency": "USD",
-    "original_price": 24.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1999,
+    "current_price": 799,
     "discount_percent": 60,
-    "historical_low_price": 8.49,
+    "historical_low_price": 679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -11910,7 +11910,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 16485,
     "rating_positive_percent": 98,
     "review_count": 36625,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_hades_epic",
@@ -11918,11 +11918,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "hades_epic",
     "store_url": "https://store.epicgames.com/p/hades",
-    "currency": "USD",
-    "original_price": 24.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1999,
+    "current_price": 799,
     "discount_percent": 60,
-    "historical_low_price": 8.49,
+    "historical_low_price": 679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -11931,7 +11931,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 57429,
     "rating_positive_percent": 98,
     "review_count": 18281,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_hades_playstation",
@@ -11939,11 +11939,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "hades_playstation",
     "store_url": "https://store.playstation.com/concept/hades",
-    "currency": "USD",
-    "original_price": 24.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1999,
+    "current_price": 799,
     "discount_percent": 60,
-    "historical_low_price": 8.49,
+    "historical_low_price": 679,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -11952,7 +11952,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 98,
     "review_count": 17205,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_hades_xbox",
@@ -11960,11 +11960,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "hades_xbox",
     "store_url": "https://www.xbox.com/games/store/hades",
-    "currency": "USD",
-    "original_price": 24.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1999,
+    "current_price": 799,
     "discount_percent": 60,
-    "historical_low_price": 8.49,
+    "historical_low_price": 679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -11973,7 +11973,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 98,
     "review_count": 10844,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_hades_nintendo",
@@ -11981,11 +11981,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "hades_nintendo",
     "store_url": "https://www.nintendo.com/store/products/hades/",
-    "currency": "USD",
-    "original_price": 24.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1999,
+    "current_price": 799,
     "discount_percent": 60,
-    "historical_low_price": 8.49,
+    "historical_low_price": 679,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -11994,7 +11994,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 98,
     "review_count": 20412,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_undertale_steam",
@@ -12002,11 +12002,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "391540",
     "store_url": "https://store.steampowered.com/app/391540/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 239,
     "discount_percent": 70,
-    "historical_low_price": 2.49,
+    "historical_low_price": 199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12015,7 +12015,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 54803,
     "rating_positive_percent": 97,
     "review_count": 54561,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_undertale_gog",
@@ -12023,11 +12023,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "undertale_gog",
     "store_url": "https://www.gog.com/game/undertale",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 2.5,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 200,
     "discount_percent": 75,
-    "historical_low_price": 2.49,
+    "historical_low_price": 199,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12036,7 +12036,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 28252,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_undertale_playstation",
@@ -12044,11 +12044,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "undertale_playstation",
     "store_url": "https://store.playstation.com/concept/undertale",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 239,
     "discount_percent": 70,
-    "historical_low_price": 2.49,
+    "historical_low_price": 199,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12057,7 +12057,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 17566,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_undertale_xbox",
@@ -12065,11 +12065,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "undertale_xbox",
     "store_url": "https://www.xbox.com/games/store/undertale",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 2.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 239,
     "discount_percent": 70,
-    "historical_low_price": 2.49,
+    "historical_low_price": 199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12078,7 +12078,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 14514,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_undertale_nintendo",
@@ -12086,11 +12086,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "undertale_nintendo",
     "store_url": "https://www.nintendo.com/store/products/undertale/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 5,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 400,
     "discount_percent": 50,
-    "historical_low_price": 2.49,
+    "historical_low_price": 199,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12099,7 +12099,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 97,
     "review_count": 50990,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deltarune_steam",
@@ -12107,7 +12107,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1671210",
     "store_url": "https://store.steampowered.com/app/1671210/",
-    "currency": "USD",
+    "currency": "INR",
     "original_price": 0,
     "current_price": 0,
     "discount_percent": 0,
@@ -12120,7 +12120,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33683,
     "rating_positive_percent": 98,
     "review_count": 62940,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deltarune_playstation",
@@ -12128,7 +12128,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "deltarune_playstation",
     "store_url": "https://store.playstation.com/concept/deltarune",
-    "currency": "USD",
+    "currency": "INR",
     "original_price": 0,
     "current_price": 0,
     "discount_percent": 0,
@@ -12141,7 +12141,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 98,
     "review_count": 46326,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_deltarune_nintendo",
@@ -12149,7 +12149,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "deltarune_nintendo",
     "store_url": "https://www.nintendo.com/store/products/deltarune/",
-    "currency": "USD",
+    "currency": "INR",
     "original_price": 0,
     "current_price": 0,
     "discount_percent": 0,
@@ -12162,7 +12162,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 98,
     "review_count": 39150,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_steam",
@@ -12170,11 +12170,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "304430",
     "store_url": "https://store.steampowered.com/app/304430/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 1.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 159,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12183,7 +12183,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 33428,
     "rating_positive_percent": 96,
     "review_count": 45283,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_gog",
@@ -12191,11 +12191,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "inside_gog",
     "store_url": "https://www.gog.com/game/inside",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 2,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 160,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12204,7 +12204,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 37781,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_epic",
@@ -12212,11 +12212,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "inside_epic",
     "store_url": "https://store.epicgames.com/p/inside",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 1.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 159,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -12225,7 +12225,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 84770,
     "rating_positive_percent": 96,
     "review_count": 61563,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_playstation",
@@ -12233,11 +12233,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "inside_playstation",
     "store_url": "https://store.playstation.com/concept/inside",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 1.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 159,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12246,7 +12246,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 50939,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_xbox",
@@ -12254,11 +12254,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "inside_xbox",
     "store_url": "https://www.xbox.com/games/store/inside",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 1.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 159,
     "discount_percent": 90,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12267,7 +12267,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 41257,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_inside_nintendo",
@@ -12275,11 +12275,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "inside_nintendo",
     "store_url": "https://www.nintendo.com/store/products/inside/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 1.99,
+    "historical_low_price": 159,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12288,7 +12288,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 96,
     "review_count": 40615,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_steam",
@@ -12296,11 +12296,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "48000",
     "store_url": "https://store.steampowered.com/app/48000/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 0.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 79,
     "discount_percent": 90,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12309,7 +12309,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 17268,
     "rating_positive_percent": 94,
     "review_count": 7798,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_gog",
@@ -12317,11 +12317,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "limbo_gog",
     "store_url": "https://www.gog.com/game/limbo",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 1,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 80,
     "discount_percent": 90,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12330,7 +12330,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 27635,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_epic",
@@ -12338,11 +12338,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "limbo_epic",
     "store_url": "https://store.epicgames.com/p/limbo",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 0.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 79,
     "discount_percent": 90,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -12351,7 +12351,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 87478,
     "rating_positive_percent": 94,
     "review_count": 50673,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_playstation",
@@ -12359,11 +12359,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "limbo_playstation",
     "store_url": "https://store.playstation.com/concept/limbo",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 0.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 79,
     "discount_percent": 90,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12372,7 +12372,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 23926,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_xbox",
@@ -12380,11 +12380,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "limbo_xbox",
     "store_url": "https://www.xbox.com/games/store/limbo",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 0.99,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 79,
     "discount_percent": 90,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12393,7 +12393,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 25544,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_limbo_nintendo",
@@ -12401,11 +12401,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "limbo_nintendo",
     "store_url": "https://www.nintendo.com/store/products/limbo/",
-    "currency": "USD",
-    "original_price": 9.99,
-    "current_price": 5,
+    "currency": "INR",
+    "original_price": 799,
+    "current_price": 400,
     "discount_percent": 50,
-    "historical_low_price": 0.99,
+    "historical_low_price": 79,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12414,7 +12414,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 94,
     "review_count": 8972,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_little_nightmares_steam",
@@ -12422,11 +12422,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "424840",
     "store_url": "https://store.steampowered.com/app/424840/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12435,7 +12435,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 64183,
     "rating_positive_percent": 93,
     "review_count": 35272,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_little_nightmares_gog",
@@ -12443,11 +12443,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "little-nightmares_gog",
     "store_url": "https://www.gog.com/game/little-nightmares",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 320,
     "discount_percent": 80,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12456,7 +12456,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 63697,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_little_nightmares_playstation",
@@ -12464,11 +12464,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "little-nightmares_playstation",
     "store_url": "https://store.playstation.com/concept/little-nightmares",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12477,7 +12477,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 57884,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_little_nightmares_xbox",
@@ -12485,11 +12485,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "little-nightmares_xbox",
     "store_url": "https://www.xbox.com/games/store/little-nightmares",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12498,7 +12498,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 58524,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_little_nightmares_nintendo",
@@ -12506,11 +12506,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "little-nightmares_nintendo",
     "store_url": "https://www.nintendo.com/store/products/little-nightmares/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12519,7 +12519,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 40518,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_euro_truck_simulator_2_steam",
@@ -12527,11 +12527,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "227300",
     "store_url": "https://store.steampowered.com/app/227300/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12540,7 +12540,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 71337,
     "rating_positive_percent": 97,
     "review_count": 6245,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_american_truck_simulator_steam",
@@ -12548,11 +12548,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "270880",
     "store_url": "https://store.steampowered.com/app/270880/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 4.99,
+    "historical_low_price": 399,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12561,7 +12561,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88850,
     "rating_positive_percent": 96,
     "review_count": 16543,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_steam",
@@ -12569,11 +12569,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "255710",
     "store_url": "https://store.steampowered.com/app/255710/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 719,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12582,7 +12582,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 17813,
     "rating_positive_percent": 93,
     "review_count": 55130,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_epic",
@@ -12590,11 +12590,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "cities-skylines_epic",
     "store_url": "https://store.epicgames.com/p/cities-skylines",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 719,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -12603,7 +12603,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 15122,
     "rating_positive_percent": 93,
     "review_count": 54165,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_playstation",
@@ -12611,11 +12611,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "cities-skylines_playstation",
     "store_url": "https://store.playstation.com/concept/cities-skylines",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 719,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12624,7 +12624,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 50014,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_xbox",
@@ -12632,11 +12632,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "cities-skylines_xbox",
     "store_url": "https://www.xbox.com/games/store/cities-skylines",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 8.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 719,
     "discount_percent": 70,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12645,7 +12645,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 27471,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_nintendo",
@@ -12653,11 +12653,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "cities-skylines_nintendo",
     "store_url": "https://www.nintendo.com/store/products/cities-skylines/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 5.99,
+    "historical_low_price": 479,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12666,7 +12666,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 93,
     "review_count": 33496,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_ii_steam",
@@ -12674,11 +12674,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "949230",
     "store_url": "https://store.steampowered.com/app/949230/",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 34.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 2799,
     "discount_percent": 30,
-    "historical_low_price": 34.99,
+    "historical_low_price": 2799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12687,7 +12687,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 47351,
     "rating_positive_percent": 78,
     "review_count": 57734,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_ii_playstation",
@@ -12695,11 +12695,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "cities-skylines-ii_playstation",
     "store_url": "https://store.playstation.com/concept/cities-skylines-ii",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 34.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 2799,
     "discount_percent": 30,
-    "historical_low_price": 34.99,
+    "historical_low_price": 2799,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12708,7 +12708,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 42492,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_cities_skylines_ii_xbox",
@@ -12716,11 +12716,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "cities-skylines-ii_xbox",
     "store_url": "https://www.xbox.com/games/store/cities-skylines-ii",
-    "currency": "USD",
-    "original_price": 49.99,
-    "current_price": 34.99,
+    "currency": "INR",
+    "original_price": 3999,
+    "current_price": 2799,
     "discount_percent": 30,
-    "historical_low_price": 34.99,
+    "historical_low_price": 2799,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12729,7 +12729,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 78,
     "review_count": 49657,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kerbal_space_program_steam",
@@ -12737,11 +12737,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "220200",
     "store_url": "https://store.steampowered.com/app/220200/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12750,7 +12750,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 42331,
     "rating_positive_percent": 95,
     "review_count": 20246,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kerbal_space_program_gog",
@@ -12758,11 +12758,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "kerbal-space-program_gog",
     "store_url": "https://www.gog.com/game/kerbal-space-program",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 8,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 640,
     "discount_percent": 80,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12771,7 +12771,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 31702,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kerbal_space_program_epic",
@@ -12779,11 +12779,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "kerbal-space-program_epic",
     "store_url": "https://store.epicgames.com/p/kerbal-space-program",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -12792,7 +12792,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 13717,
     "rating_positive_percent": 95,
     "review_count": 14657,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kerbal_space_program_playstation",
@@ -12800,11 +12800,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "kerbal-space-program_playstation",
     "store_url": "https://store.playstation.com/concept/kerbal-space-program",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12813,7 +12813,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 28562,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_kerbal_space_program_xbox",
@@ -12821,11 +12821,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "kerbal-space-program_xbox",
     "store_url": "https://www.xbox.com/games/store/kerbal-space-program",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 799,
     "discount_percent": 75,
-    "historical_low_price": 7.99,
+    "historical_low_price": 639,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12834,7 +12834,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 48103,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_steam",
@@ -12842,11 +12842,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "305620",
     "store_url": "https://store.steampowered.com/app/305620/",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 13.99,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 1119,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12855,7 +12855,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 31362,
     "rating_positive_percent": 91,
     "review_count": 29374,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_gog",
@@ -12863,11 +12863,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "the-long-dark_gog",
     "store_url": "https://www.gog.com/game/the-long-dark",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 12.25,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 980,
     "discount_percent": 65,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -12876,7 +12876,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 60559,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_epic",
@@ -12884,11 +12884,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "the-long-dark_epic",
     "store_url": "https://store.epicgames.com/p/the-long-dark",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 13.99,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 1119,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -12897,7 +12897,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 65497,
     "rating_positive_percent": 91,
     "review_count": 19080,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_playstation",
@@ -12905,11 +12905,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "the-long-dark_playstation",
     "store_url": "https://store.playstation.com/concept/the-long-dark",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 13.99,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 1119,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -12918,7 +12918,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 53562,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_xbox",
@@ -12926,11 +12926,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "the-long-dark_xbox",
     "store_url": "https://www.xbox.com/games/store/the-long-dark",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 13.99,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 1119,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -12939,7 +12939,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 8692,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_long_dark_nintendo",
@@ -12947,11 +12947,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "the-long-dark_nintendo",
     "store_url": "https://www.nintendo.com/store/products/the-long-dark/",
-    "currency": "USD",
-    "original_price": 34.99,
-    "current_price": 13.99,
+    "currency": "INR",
+    "original_price": 2799,
+    "current_price": 1119,
     "discount_percent": 60,
-    "historical_low_price": 11.99,
+    "historical_low_price": 959,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -12960,7 +12960,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 91,
     "review_count": 27334,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_7_days_to_die_steam",
@@ -12968,11 +12968,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "251570",
     "store_url": "https://store.steampowered.com/app/251570/",
-    "currency": "USD",
-    "original_price": 44.99,
-    "current_price": 33.74,
+    "currency": "INR",
+    "original_price": 3599,
+    "current_price": 2699,
     "discount_percent": 25,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -12981,7 +12981,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 88975,
     "rating_positive_percent": 88,
     "review_count": 20832,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_7_days_to_die_playstation",
@@ -12989,11 +12989,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "7-days-to-die_playstation",
     "store_url": "https://store.playstation.com/concept/7-days-to-die",
-    "currency": "USD",
-    "original_price": 44.99,
-    "current_price": 33.74,
+    "currency": "INR",
+    "original_price": 3599,
+    "current_price": 2699,
     "discount_percent": 25,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13002,7 +13002,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 53832,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_7_days_to_die_xbox",
@@ -13010,11 +13010,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "7-days-to-die_xbox",
     "store_url": "https://www.xbox.com/games/store/7-days-to-die",
-    "currency": "USD",
-    "original_price": 44.99,
-    "current_price": 33.74,
+    "currency": "INR",
+    "original_price": 3599,
+    "current_price": 2699,
     "discount_percent": 25,
-    "historical_low_price": 24.99,
+    "historical_low_price": 1999,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13023,7 +13023,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 88,
     "review_count": 37335,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ark_survival_evolved_steam",
@@ -13031,11 +13031,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "346110",
     "store_url": "https://store.steampowered.com/app/346110/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13044,7 +13044,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 78609,
     "rating_positive_percent": 83,
     "review_count": 29551,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ark_survival_evolved_epic",
@@ -13052,11 +13052,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "ark-survival-evolved_epic",
     "store_url": "https://store.epicgames.com/p/ark-survival-evolved",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -13065,7 +13065,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 64980,
     "rating_positive_percent": 83,
     "review_count": 45140,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ark_survival_evolved_playstation",
@@ -13073,11 +13073,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "ark-survival-evolved_playstation",
     "store_url": "https://store.playstation.com/concept/ark-survival-evolved",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13086,7 +13086,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 42230,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ark_survival_evolved_xbox",
@@ -13094,11 +13094,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "ark-survival-evolved_xbox",
     "store_url": "https://www.xbox.com/games/store/ark-survival-evolved",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 4.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 399,
     "discount_percent": 75,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13107,7 +13107,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 27179,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_ark_survival_evolved_nintendo",
@@ -13115,11 +13115,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "ark-survival-evolved_nintendo",
     "store_url": "https://www.nintendo.com/store/products/ark-survival-evolved/",
-    "currency": "USD",
-    "original_price": 19.99,
-    "current_price": 9.99,
+    "currency": "INR",
+    "original_price": 1599,
+    "current_price": 799,
     "discount_percent": 50,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -13128,7 +13128,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 83,
     "review_count": 8923,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_grounded_steam",
@@ -13136,11 +13136,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "962130",
     "store_url": "https://store.steampowered.com/app/962130/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13149,7 +13149,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 37325,
     "rating_positive_percent": 90,
     "review_count": 28305,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_grounded_playstation",
@@ -13157,11 +13157,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "grounded_playstation",
     "store_url": "https://store.playstation.com/concept/grounded",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13170,7 +13170,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 12113,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_grounded_xbox",
@@ -13178,11 +13178,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "grounded_xbox",
     "store_url": "https://www.xbox.com/games/store/grounded",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13191,7 +13191,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 46542,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_grounded_nintendo",
@@ -13199,11 +13199,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "grounded_nintendo",
     "store_url": "https://www.nintendo.com/store/products/grounded/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 19.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 1599,
     "discount_percent": 50,
-    "historical_low_price": 19.99,
+    "historical_low_price": 1599,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -13212,7 +13212,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 64652,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_astroneer_steam",
@@ -13220,11 +13220,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "361420",
     "store_url": "https://store.steampowered.com/app/361420/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 9.89,
+    "historical_low_price": 791,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13233,7 +13233,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 52390,
     "rating_positive_percent": 92,
     "review_count": 12844,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_astroneer_playstation",
@@ -13241,11 +13241,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "astroneer_playstation",
     "store_url": "https://store.playstation.com/concept/astroneer",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 9.89,
+    "historical_low_price": 791,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13254,7 +13254,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 41720,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_astroneer_xbox",
@@ -13262,11 +13262,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "astroneer_xbox",
     "store_url": "https://www.xbox.com/games/store/astroneer",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 9.89,
+    "historical_low_price": 791,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13275,7 +13275,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 13476,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_astroneer_nintendo",
@@ -13283,11 +13283,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "astroneer_nintendo",
     "store_url": "https://www.nintendo.com/store/products/astroneer/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 11.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 959,
     "discount_percent": 60,
-    "historical_low_price": 9.89,
+    "historical_low_price": 791,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -13296,7 +13296,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 92,
     "review_count": 39526,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_star_wars_jedi_fallen_order_steam",
@@ -13304,11 +13304,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1172380",
     "store_url": "https://store.steampowered.com/app/1172380/",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13317,7 +13317,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 49213,
     "rating_positive_percent": 90,
     "review_count": 14273,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_star_wars_jedi_fallen_order_epic",
@@ -13325,11 +13325,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "star-wars-jedi-fallen-order_epic",
     "store_url": "https://store.epicgames.com/p/star-wars-jedi-fallen-order",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -13338,7 +13338,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 61733,
     "rating_positive_percent": 90,
     "review_count": 6560,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_star_wars_jedi_fallen_order_playstation",
@@ -13346,11 +13346,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "star-wars-jedi-fallen-order_playstation",
     "store_url": "https://store.playstation.com/concept/star-wars-jedi-fallen-order",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13359,7 +13359,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 59729,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_star_wars_jedi_fallen_order_xbox",
@@ -13367,11 +13367,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "star-wars-jedi-fallen-order_xbox",
     "store_url": "https://www.xbox.com/games/store/star-wars-jedi-fallen-order",
-    "currency": "USD",
-    "original_price": 39.99,
-    "current_price": 5.99,
+    "currency": "INR",
+    "original_price": 3199,
+    "current_price": 479,
     "discount_percent": 85,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13380,7 +13380,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 90,
     "review_count": 55759,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_steam",
@@ -13388,11 +13388,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "1055540",
     "store_url": "https://store.steampowered.com/app/1055540/",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 383,
     "discount_percent": 40,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13401,7 +13401,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 52537,
     "rating_positive_percent": 99,
     "review_count": 24645,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_gog",
@@ -13409,11 +13409,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "a-short-hike_gog",
     "store_url": "https://www.gog.com/game/a-short-hike",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.39,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 351,
     "discount_percent": 45,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -13422,7 +13422,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 99,
     "review_count": 52367,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_epic",
@@ -13430,11 +13430,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "a-short-hike_epic",
     "store_url": "https://store.epicgames.com/p/a-short-hike",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 383,
     "discount_percent": 40,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -13443,7 +13443,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 51666,
     "rating_positive_percent": 99,
     "review_count": 43976,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_playstation",
@@ -13451,11 +13451,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "a-short-hike_playstation",
     "store_url": "https://store.playstation.com/concept/a-short-hike",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 383,
     "discount_percent": 40,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13464,7 +13464,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 99,
     "review_count": 50520,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_xbox",
@@ -13472,11 +13472,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "a-short-hike_xbox",
     "store_url": "https://www.xbox.com/games/store/a-short-hike",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 383,
     "discount_percent": 40,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13485,7 +13485,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 99,
     "review_count": 18691,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_a_short_hike_nintendo",
@@ -13493,11 +13493,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "a-short-hike_nintendo",
     "store_url": "https://www.nintendo.com/store/products/a-short-hike/",
-    "currency": "USD",
-    "original_price": 7.99,
-    "current_price": 4.79,
+    "currency": "INR",
+    "original_price": 639,
+    "current_price": 383,
     "discount_percent": 40,
-    "historical_low_price": 3.99,
+    "historical_low_price": 319,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -13506,7 +13506,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 99,
     "review_count": 19348,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_steam",
@@ -13514,11 +13514,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "steam",
     "store_app_id": "257510",
     "store_url": "https://store.steampowered.com/app/257510/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Steamworks DRM",
     "is_available": true,
@@ -13527,7 +13527,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 43490,
     "rating_positive_percent": 95,
     "review_count": 30210,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_gog",
@@ -13535,11 +13535,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "gog",
     "store_app_id": "the-talos-principle_gog",
     "store_url": "https://www.gog.com/game/the-talos-principle",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 3,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 240,
     "discount_percent": 90,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "None (DRM-Free)",
     "is_available": true,
@@ -13548,7 +13548,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 32777,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_epic",
@@ -13556,11 +13556,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "epic",
     "store_app_id": "the-talos-principle_epic",
     "store_url": "https://store.epicgames.com/p/the-talos-principle",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Epic Games DRM",
     "is_available": true,
@@ -13569,7 +13569,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 15117,
     "rating_positive_percent": 95,
     "review_count": 41201,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_playstation",
@@ -13577,11 +13577,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "playstation",
     "store_app_id": "the-talos-principle_playstation",
     "store_url": "https://store.playstation.com/concept/the-talos-principle",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "PlayStation Network",
     "is_available": true,
@@ -13590,7 +13590,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 42179,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_xbox",
@@ -13598,11 +13598,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "xbox",
     "store_app_id": "the-talos-principle_xbox",
     "store_url": "https://www.xbox.com/games/store/the-talos-principle",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 4.49,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 359,
     "discount_percent": 85,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Xbox Live / Smart Delivery",
     "is_available": true,
@@ -13611,7 +13611,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 46043,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   },
   {
     "id": "listing_the_talos_principle_nintendo",
@@ -13619,11 +13619,11 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "platform_id": "nintendo",
     "store_app_id": "the-talos-principle_nintendo",
     "store_url": "https://www.nintendo.com/store/products/the-talos-principle/",
-    "currency": "USD",
-    "original_price": 29.99,
-    "current_price": 14.99,
+    "currency": "INR",
+    "original_price": 2399,
+    "current_price": 1199,
     "discount_percent": 50,
-    "historical_low_price": 2.99,
+    "historical_low_price": 239,
     "historical_low_date": "2024-11-28",
     "drm_type": "Nintendo eShop",
     "is_available": true,
@@ -13632,7 +13632,7 @@ export const BATCH4_LISTINGS: PlatformListing[] = [
     "all_time_peak_players": 0,
     "rating_positive_percent": 95,
     "review_count": 21272,
-    "updated_at": "2026-09-24T12:00:00Z"
+    "updated_at": "2026-11-02T12:00:00Z"
   }
 ];
 
@@ -13644,7 +13644,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6001,
         "listing_id": "listing_the_last_of_us_part_ii_remastered_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13652,7 +13652,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6002,
         "listing_id": "listing_the_last_of_us_part_ii_remastered_playstation",
         "recorded_date": "2024-06-27",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13660,7 +13660,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6003,
         "listing_id": "listing_the_last_of_us_part_ii_remastered_playstation",
         "recorded_date": "2026-09-20",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 20,
         "event_name": "Current Special Promotion"
       }
@@ -13673,7 +13673,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6004,
         "listing_id": "listing_god_of_war_2018_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13681,7 +13681,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6005,
         "listing_id": "listing_god_of_war_2018_steam",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13689,7 +13689,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6006,
         "listing_id": "listing_god_of_war_2018_steam",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -13697,7 +13697,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6007,
         "listing_id": "listing_god_of_war_2018_epic",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13705,7 +13705,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6008,
         "listing_id": "listing_god_of_war_2018_epic",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13713,7 +13713,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6009,
         "listing_id": "listing_god_of_war_2018_epic",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -13721,7 +13721,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6010,
         "listing_id": "listing_god_of_war_2018_gog",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13729,7 +13729,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6011,
         "listing_id": "listing_god_of_war_2018_gog",
         "recorded_date": "2024-06-27",
-        "price": 17.5,
+        "price": 1400,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13737,7 +13737,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6012,
         "listing_id": "listing_god_of_war_2018_gog",
         "recorded_date": "2026-09-20",
-        "price": 17.5,
+        "price": 1400,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -13745,7 +13745,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6013,
         "listing_id": "listing_god_of_war_2018_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13753,7 +13753,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6014,
         "listing_id": "listing_god_of_war_2018_playstation",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13761,7 +13761,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6015,
         "listing_id": "listing_god_of_war_2018_playstation",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -13774,7 +13774,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6016,
         "listing_id": "listing_marvels_spider_man_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13782,7 +13782,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6017,
         "listing_id": "listing_marvels_spider_man_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 29,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13790,7 +13790,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6018,
         "listing_id": "listing_marvels_spider_man_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 29,
         "event_name": "Current Special Promotion"
       }
@@ -13803,7 +13803,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6019,
         "listing_id": "listing_horizon_forbidden_west_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13811,7 +13811,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6020,
         "listing_id": "listing_horizon_forbidden_west_steam",
         "recorded_date": "2024-06-27",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13819,7 +13819,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6021,
         "listing_id": "listing_horizon_forbidden_west_steam",
         "recorded_date": "2026-09-20",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Current Special Promotion"
       },
@@ -13827,7 +13827,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6022,
         "listing_id": "listing_horizon_forbidden_west_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13835,7 +13835,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6023,
         "listing_id": "listing_horizon_forbidden_west_epic",
         "recorded_date": "2024-06-27",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13843,7 +13843,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6024,
         "listing_id": "listing_horizon_forbidden_west_epic",
         "recorded_date": "2026-09-20",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Current Special Promotion"
       },
@@ -13851,7 +13851,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6025,
         "listing_id": "listing_horizon_forbidden_west_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13859,7 +13859,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6026,
         "listing_id": "listing_horizon_forbidden_west_playstation",
         "recorded_date": "2024-06-27",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13867,7 +13867,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6027,
         "listing_id": "listing_horizon_forbidden_west_playstation",
         "recorded_date": "2026-09-20",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Current Special Promotion"
       }
@@ -13880,7 +13880,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6028,
         "listing_id": "listing_deathloop_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13888,7 +13888,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6029,
         "listing_id": "listing_deathloop_steam",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13896,7 +13896,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6030,
         "listing_id": "listing_deathloop_steam",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -13904,7 +13904,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6031,
         "listing_id": "listing_deathloop_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13912,7 +13912,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6032,
         "listing_id": "listing_deathloop_epic",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13920,7 +13920,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6033,
         "listing_id": "listing_deathloop_epic",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -13928,7 +13928,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6034,
         "listing_id": "listing_deathloop_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13936,7 +13936,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6035,
         "listing_id": "listing_deathloop_playstation",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13944,7 +13944,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6036,
         "listing_id": "listing_deathloop_playstation",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -13952,7 +13952,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6037,
         "listing_id": "listing_deathloop_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13960,7 +13960,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6038,
         "listing_id": "listing_deathloop_xbox",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13968,7 +13968,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6039,
         "listing_id": "listing_deathloop_xbox",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -13981,7 +13981,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6040,
         "listing_id": "listing_prey_2017_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -13989,7 +13989,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6041,
         "listing_id": "listing_prey_2017_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -13997,7 +13997,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6042,
         "listing_id": "listing_prey_2017_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14005,7 +14005,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6043,
         "listing_id": "listing_prey_2017_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14013,7 +14013,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6044,
         "listing_id": "listing_prey_2017_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14021,7 +14021,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6045,
         "listing_id": "listing_prey_2017_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14029,7 +14029,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6046,
         "listing_id": "listing_prey_2017_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14037,7 +14037,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6047,
         "listing_id": "listing_prey_2017_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14045,7 +14045,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6048,
         "listing_id": "listing_prey_2017_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14053,7 +14053,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6049,
         "listing_id": "listing_prey_2017_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14061,7 +14061,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6050,
         "listing_id": "listing_prey_2017_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14069,7 +14069,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6051,
         "listing_id": "listing_prey_2017_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14077,7 +14077,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6052,
         "listing_id": "listing_prey_2017_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14085,7 +14085,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6053,
         "listing_id": "listing_prey_2017_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14093,7 +14093,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6054,
         "listing_id": "listing_prey_2017_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -14106,7 +14106,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6055,
         "listing_id": "listing_dishonored_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14114,7 +14114,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6056,
         "listing_id": "listing_dishonored_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14122,7 +14122,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6057,
         "listing_id": "listing_dishonored_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14130,7 +14130,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6058,
         "listing_id": "listing_dishonored_2_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14138,7 +14138,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6059,
         "listing_id": "listing_dishonored_2_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14146,7 +14146,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6060,
         "listing_id": "listing_dishonored_2_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14154,7 +14154,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6061,
         "listing_id": "listing_dishonored_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14162,7 +14162,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6062,
         "listing_id": "listing_dishonored_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14170,7 +14170,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6063,
         "listing_id": "listing_dishonored_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14178,7 +14178,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6064,
         "listing_id": "listing_dishonored_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14186,7 +14186,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6065,
         "listing_id": "listing_dishonored_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14194,7 +14194,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6066,
         "listing_id": "listing_dishonored_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14202,7 +14202,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6067,
         "listing_id": "listing_dishonored_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14210,7 +14210,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6068,
         "listing_id": "listing_dishonored_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14218,7 +14218,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6069,
         "listing_id": "listing_dishonored_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -14231,7 +14231,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6070,
         "listing_id": "listing_metro_exodus_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14239,7 +14239,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6071,
         "listing_id": "listing_metro_exodus_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14247,7 +14247,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6072,
         "listing_id": "listing_metro_exodus_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14255,7 +14255,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6073,
         "listing_id": "listing_metro_exodus_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14263,7 +14263,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6074,
         "listing_id": "listing_metro_exodus_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14271,7 +14271,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6075,
         "listing_id": "listing_metro_exodus_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14279,7 +14279,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6076,
         "listing_id": "listing_metro_exodus_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14287,7 +14287,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6077,
         "listing_id": "listing_metro_exodus_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14295,7 +14295,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6078,
         "listing_id": "listing_metro_exodus_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14303,7 +14303,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6079,
         "listing_id": "listing_metro_exodus_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14311,7 +14311,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6080,
         "listing_id": "listing_metro_exodus_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14319,7 +14319,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6081,
         "listing_id": "listing_metro_exodus_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14327,7 +14327,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6082,
         "listing_id": "listing_metro_exodus_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14335,7 +14335,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6083,
         "listing_id": "listing_metro_exodus_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14343,7 +14343,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6084,
         "listing_id": "listing_metro_exodus_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -14356,7 +14356,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6085,
         "listing_id": "listing_metro_last_light_redux_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14364,7 +14364,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6086,
         "listing_id": "listing_metro_last_light_redux_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14372,7 +14372,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6087,
         "listing_id": "listing_metro_last_light_redux_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14380,7 +14380,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6088,
         "listing_id": "listing_metro_last_light_redux_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14388,7 +14388,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6089,
         "listing_id": "listing_metro_last_light_redux_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14396,7 +14396,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6090,
         "listing_id": "listing_metro_last_light_redux_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14404,7 +14404,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6091,
         "listing_id": "listing_metro_last_light_redux_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14412,7 +14412,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6092,
         "listing_id": "listing_metro_last_light_redux_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14420,7 +14420,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6093,
         "listing_id": "listing_metro_last_light_redux_epic",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14428,7 +14428,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6094,
         "listing_id": "listing_metro_last_light_redux_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14436,7 +14436,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6095,
         "listing_id": "listing_metro_last_light_redux_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14444,7 +14444,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6096,
         "listing_id": "listing_metro_last_light_redux_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14452,7 +14452,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6097,
         "listing_id": "listing_metro_last_light_redux_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14460,7 +14460,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6098,
         "listing_id": "listing_metro_last_light_redux_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14468,7 +14468,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6099,
         "listing_id": "listing_metro_last_light_redux_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14476,7 +14476,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6100,
         "listing_id": "listing_metro_last_light_redux_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14484,7 +14484,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6101,
         "listing_id": "listing_metro_last_light_redux_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14492,7 +14492,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6102,
         "listing_id": "listing_metro_last_light_redux_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -14505,7 +14505,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6103,
         "listing_id": "listing_metro_2033_redux_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14513,7 +14513,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6104,
         "listing_id": "listing_metro_2033_redux_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14521,7 +14521,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6105,
         "listing_id": "listing_metro_2033_redux_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14529,7 +14529,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6106,
         "listing_id": "listing_metro_2033_redux_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14537,7 +14537,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6107,
         "listing_id": "listing_metro_2033_redux_gog",
         "recorded_date": "2024-06-27",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14545,7 +14545,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6108,
         "listing_id": "listing_metro_2033_redux_gog",
         "recorded_date": "2026-09-20",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -14553,7 +14553,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6109,
         "listing_id": "listing_metro_2033_redux_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14561,7 +14561,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6110,
         "listing_id": "listing_metro_2033_redux_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14569,7 +14569,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6111,
         "listing_id": "listing_metro_2033_redux_epic",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14577,7 +14577,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6112,
         "listing_id": "listing_metro_2033_redux_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14585,7 +14585,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6113,
         "listing_id": "listing_metro_2033_redux_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14593,7 +14593,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6114,
         "listing_id": "listing_metro_2033_redux_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14601,7 +14601,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6115,
         "listing_id": "listing_metro_2033_redux_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14609,7 +14609,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6116,
         "listing_id": "listing_metro_2033_redux_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14617,7 +14617,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6117,
         "listing_id": "listing_metro_2033_redux_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14625,7 +14625,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6118,
         "listing_id": "listing_metro_2033_redux_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14633,7 +14633,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6119,
         "listing_id": "listing_metro_2033_redux_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14641,7 +14641,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6120,
         "listing_id": "listing_metro_2033_redux_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -14654,7 +14654,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6121,
         "listing_id": "listing_dying_light_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14662,7 +14662,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6122,
         "listing_id": "listing_dying_light_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14670,7 +14670,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6123,
         "listing_id": "listing_dying_light_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14678,7 +14678,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6124,
         "listing_id": "listing_dying_light_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14686,7 +14686,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6125,
         "listing_id": "listing_dying_light_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14694,7 +14694,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6126,
         "listing_id": "listing_dying_light_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -14702,7 +14702,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6127,
         "listing_id": "listing_dying_light_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14710,7 +14710,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6128,
         "listing_id": "listing_dying_light_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14718,7 +14718,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6129,
         "listing_id": "listing_dying_light_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14726,7 +14726,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6130,
         "listing_id": "listing_dying_light_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14734,7 +14734,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6131,
         "listing_id": "listing_dying_light_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14742,7 +14742,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6132,
         "listing_id": "listing_dying_light_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14750,7 +14750,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6133,
         "listing_id": "listing_dying_light_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14758,7 +14758,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6134,
         "listing_id": "listing_dying_light_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14766,7 +14766,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6135,
         "listing_id": "listing_dying_light_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -14774,7 +14774,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6136,
         "listing_id": "listing_dying_light_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14782,7 +14782,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6137,
         "listing_id": "listing_dying_light_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14790,7 +14790,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6138,
         "listing_id": "listing_dying_light_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -14803,7 +14803,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6139,
         "listing_id": "listing_dying_light_2_stay_human_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14811,7 +14811,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6140,
         "listing_id": "listing_dying_light_2_stay_human_steam",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14819,7 +14819,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6141,
         "listing_id": "listing_dying_light_2_stay_human_steam",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -14827,7 +14827,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6142,
         "listing_id": "listing_dying_light_2_stay_human_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14835,7 +14835,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6143,
         "listing_id": "listing_dying_light_2_stay_human_epic",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14843,7 +14843,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6144,
         "listing_id": "listing_dying_light_2_stay_human_epic",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -14851,7 +14851,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6145,
         "listing_id": "listing_dying_light_2_stay_human_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14859,7 +14859,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6146,
         "listing_id": "listing_dying_light_2_stay_human_playstation",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14867,7 +14867,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6147,
         "listing_id": "listing_dying_light_2_stay_human_playstation",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -14875,7 +14875,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6148,
         "listing_id": "listing_dying_light_2_stay_human_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14883,7 +14883,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6149,
         "listing_id": "listing_dying_light_2_stay_human_xbox",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14891,7 +14891,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6150,
         "listing_id": "listing_dying_light_2_stay_human_xbox",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -14904,7 +14904,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6151,
         "listing_id": "listing_dead_island_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14912,7 +14912,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6152,
         "listing_id": "listing_dead_island_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14920,7 +14920,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6153,
         "listing_id": "listing_dead_island_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -14928,7 +14928,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6154,
         "listing_id": "listing_dead_island_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14936,7 +14936,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6155,
         "listing_id": "listing_dead_island_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14944,7 +14944,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6156,
         "listing_id": "listing_dead_island_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -14952,7 +14952,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6157,
         "listing_id": "listing_dead_island_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14960,7 +14960,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6158,
         "listing_id": "listing_dead_island_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14968,7 +14968,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6159,
         "listing_id": "listing_dead_island_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -14976,7 +14976,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6160,
         "listing_id": "listing_dead_island_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -14984,7 +14984,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6161,
         "listing_id": "listing_dead_island_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -14992,7 +14992,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6162,
         "listing_id": "listing_dead_island_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -15005,7 +15005,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6163,
         "listing_id": "listing_killing_floor_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15013,7 +15013,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6164,
         "listing_id": "listing_killing_floor_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15021,7 +15021,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6165,
         "listing_id": "listing_killing_floor_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -15029,7 +15029,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6166,
         "listing_id": "listing_killing_floor_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15037,7 +15037,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6167,
         "listing_id": "listing_killing_floor_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15045,7 +15045,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6168,
         "listing_id": "listing_killing_floor_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -15053,7 +15053,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6169,
         "listing_id": "listing_killing_floor_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15061,7 +15061,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6170,
         "listing_id": "listing_killing_floor_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15069,7 +15069,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6171,
         "listing_id": "listing_killing_floor_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -15077,7 +15077,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6172,
         "listing_id": "listing_killing_floor_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15085,7 +15085,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6173,
         "listing_id": "listing_killing_floor_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15093,7 +15093,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6174,
         "listing_id": "listing_killing_floor_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       }
@@ -15106,7 +15106,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6175,
         "listing_id": "listing_doom_2016_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15114,7 +15114,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6176,
         "listing_id": "listing_doom_2016_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15122,7 +15122,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6177,
         "listing_id": "listing_doom_2016_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15130,7 +15130,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6178,
         "listing_id": "listing_doom_2016_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15138,7 +15138,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6179,
         "listing_id": "listing_doom_2016_gog",
         "recorded_date": "2024-06-27",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15146,7 +15146,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6180,
         "listing_id": "listing_doom_2016_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15154,7 +15154,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6181,
         "listing_id": "listing_doom_2016_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15162,7 +15162,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6182,
         "listing_id": "listing_doom_2016_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15170,7 +15170,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6183,
         "listing_id": "listing_doom_2016_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15178,7 +15178,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6184,
         "listing_id": "listing_doom_2016_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15186,7 +15186,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6185,
         "listing_id": "listing_doom_2016_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15194,7 +15194,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6186,
         "listing_id": "listing_doom_2016_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15202,7 +15202,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6187,
         "listing_id": "listing_doom_2016_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15210,7 +15210,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6188,
         "listing_id": "listing_doom_2016_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15218,7 +15218,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6189,
         "listing_id": "listing_doom_2016_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -15231,7 +15231,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6190,
         "listing_id": "listing_wolfenstein_the_new_order_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15239,7 +15239,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6191,
         "listing_id": "listing_wolfenstein_the_new_order_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15247,7 +15247,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6192,
         "listing_id": "listing_wolfenstein_the_new_order_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15255,7 +15255,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6193,
         "listing_id": "listing_wolfenstein_the_new_order_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15263,7 +15263,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6194,
         "listing_id": "listing_wolfenstein_the_new_order_gog",
         "recorded_date": "2024-06-27",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15271,7 +15271,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6195,
         "listing_id": "listing_wolfenstein_the_new_order_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15279,7 +15279,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6196,
         "listing_id": "listing_wolfenstein_the_new_order_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15287,7 +15287,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6197,
         "listing_id": "listing_wolfenstein_the_new_order_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15295,7 +15295,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6198,
         "listing_id": "listing_wolfenstein_the_new_order_epic",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15303,7 +15303,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6199,
         "listing_id": "listing_wolfenstein_the_new_order_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15311,7 +15311,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6200,
         "listing_id": "listing_wolfenstein_the_new_order_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15319,7 +15319,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6201,
         "listing_id": "listing_wolfenstein_the_new_order_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15327,7 +15327,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6202,
         "listing_id": "listing_wolfenstein_the_new_order_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15335,7 +15335,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6203,
         "listing_id": "listing_wolfenstein_the_new_order_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15343,7 +15343,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6204,
         "listing_id": "listing_wolfenstein_the_new_order_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -15356,7 +15356,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6205,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15364,7 +15364,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6206,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15372,7 +15372,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6207,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15380,7 +15380,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6208,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_gog",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15388,7 +15388,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6209,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_gog",
         "recorded_date": "2024-06-27",
-        "price": 4,
+        "price": 320,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15396,7 +15396,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6210,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -15404,7 +15404,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6211,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15412,7 +15412,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6212,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15420,7 +15420,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6213,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15428,7 +15428,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6214,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15436,7 +15436,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6215,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15444,7 +15444,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6216,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15452,7 +15452,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6217,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15460,7 +15460,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6218,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15468,7 +15468,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6219,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -15476,7 +15476,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6220,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15484,7 +15484,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6221,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15492,7 +15492,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6222,
         "listing_id": "listing_wolfenstein_ii_the_new_colossus_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 20,
+        "price": 1600,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -15505,7 +15505,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6223,
         "listing_id": "listing_wolfenstein_the_old_blood_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15513,7 +15513,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6224,
         "listing_id": "listing_wolfenstein_the_old_blood_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15521,7 +15521,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6225,
         "listing_id": "listing_wolfenstein_the_old_blood_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -15529,7 +15529,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6226,
         "listing_id": "listing_wolfenstein_the_old_blood_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15537,7 +15537,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6227,
         "listing_id": "listing_wolfenstein_the_old_blood_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15545,7 +15545,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6228,
         "listing_id": "listing_wolfenstein_the_old_blood_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -15553,7 +15553,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6229,
         "listing_id": "listing_wolfenstein_the_old_blood_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15561,7 +15561,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6230,
         "listing_id": "listing_wolfenstein_the_old_blood_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15569,7 +15569,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6231,
         "listing_id": "listing_wolfenstein_the_old_blood_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -15577,7 +15577,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6232,
         "listing_id": "listing_wolfenstein_the_old_blood_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15585,7 +15585,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6233,
         "listing_id": "listing_wolfenstein_the_old_blood_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15593,7 +15593,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6234,
         "listing_id": "listing_wolfenstein_the_old_blood_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -15601,7 +15601,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6235,
         "listing_id": "listing_wolfenstein_the_old_blood_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15609,7 +15609,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6236,
         "listing_id": "listing_wolfenstein_the_old_blood_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15617,7 +15617,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6237,
         "listing_id": "listing_wolfenstein_the_old_blood_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -15630,7 +15630,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6238,
         "listing_id": "listing_quake_steam",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15638,7 +15638,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6239,
         "listing_id": "listing_quake_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15646,7 +15646,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6240,
         "listing_id": "listing_quake_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15654,7 +15654,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6241,
         "listing_id": "listing_quake_gog",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15662,7 +15662,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6242,
         "listing_id": "listing_quake_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15670,7 +15670,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6243,
         "listing_id": "listing_quake_gog",
         "recorded_date": "2026-09-20",
-        "price": 3.5,
+        "price": 280,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -15678,7 +15678,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6244,
         "listing_id": "listing_quake_epic",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15686,7 +15686,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6245,
         "listing_id": "listing_quake_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15694,7 +15694,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6246,
         "listing_id": "listing_quake_epic",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15702,7 +15702,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6247,
         "listing_id": "listing_quake_playstation",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15710,7 +15710,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6248,
         "listing_id": "listing_quake_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15718,7 +15718,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6249,
         "listing_id": "listing_quake_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15726,7 +15726,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6250,
         "listing_id": "listing_quake_xbox",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15734,7 +15734,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6251,
         "listing_id": "listing_quake_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15742,7 +15742,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6252,
         "listing_id": "listing_quake_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15750,7 +15750,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6253,
         "listing_id": "listing_quake_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15758,7 +15758,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6254,
         "listing_id": "listing_quake_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15766,7 +15766,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6255,
         "listing_id": "listing_quake_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -15779,7 +15779,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6256,
         "listing_id": "listing_quake_ii_steam",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15787,7 +15787,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6257,
         "listing_id": "listing_quake_ii_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15795,7 +15795,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6258,
         "listing_id": "listing_quake_ii_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15803,7 +15803,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6259,
         "listing_id": "listing_quake_ii_gog",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15811,7 +15811,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6260,
         "listing_id": "listing_quake_ii_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15819,7 +15819,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6261,
         "listing_id": "listing_quake_ii_gog",
         "recorded_date": "2026-09-20",
-        "price": 3.5,
+        "price": 280,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -15827,7 +15827,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6262,
         "listing_id": "listing_quake_ii_epic",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15835,7 +15835,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6263,
         "listing_id": "listing_quake_ii_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15843,7 +15843,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6264,
         "listing_id": "listing_quake_ii_epic",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15851,7 +15851,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6265,
         "listing_id": "listing_quake_ii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15859,7 +15859,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6266,
         "listing_id": "listing_quake_ii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15867,7 +15867,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6267,
         "listing_id": "listing_quake_ii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15875,7 +15875,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6268,
         "listing_id": "listing_quake_ii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15883,7 +15883,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6269,
         "listing_id": "listing_quake_ii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15891,7 +15891,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6270,
         "listing_id": "listing_quake_ii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -15899,7 +15899,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6271,
         "listing_id": "listing_quake_ii_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15907,7 +15907,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6272,
         "listing_id": "listing_quake_ii_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.29,
+        "price": 263,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15915,7 +15915,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6273,
         "listing_id": "listing_quake_ii_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -15928,7 +15928,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6274,
         "listing_id": "listing_crysis_remastered_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15936,7 +15936,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6275,
         "listing_id": "listing_crysis_remastered_steam",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15944,7 +15944,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6276,
         "listing_id": "listing_crysis_remastered_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -15952,7 +15952,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6277,
         "listing_id": "listing_crysis_remastered_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15960,7 +15960,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6278,
         "listing_id": "listing_crysis_remastered_epic",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15968,7 +15968,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6279,
         "listing_id": "listing_crysis_remastered_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -15976,7 +15976,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6280,
         "listing_id": "listing_crysis_remastered_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -15984,7 +15984,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6281,
         "listing_id": "listing_crysis_remastered_gog",
         "recorded_date": "2024-06-27",
-        "price": 8.4,
+        "price": 672,
         "discount_percent": 72,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -15992,7 +15992,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6282,
         "listing_id": "listing_crysis_remastered_gog",
         "recorded_date": "2026-09-20",
-        "price": 8.4,
+        "price": 672,
         "discount_percent": 72,
         "event_name": "Current Special Promotion"
       },
@@ -16000,7 +16000,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6283,
         "listing_id": "listing_crysis_remastered_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16008,7 +16008,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6284,
         "listing_id": "listing_crysis_remastered_playstation",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16016,7 +16016,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6285,
         "listing_id": "listing_crysis_remastered_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -16024,7 +16024,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6286,
         "listing_id": "listing_crysis_remastered_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16032,7 +16032,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6287,
         "listing_id": "listing_crysis_remastered_xbox",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16040,7 +16040,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6288,
         "listing_id": "listing_crysis_remastered_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -16048,7 +16048,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6289,
         "listing_id": "listing_crysis_remastered_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16056,7 +16056,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6290,
         "listing_id": "listing_crysis_remastered_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16064,7 +16064,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6291,
         "listing_id": "listing_crysis_remastered_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -16077,7 +16077,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6292,
         "listing_id": "listing_crysis_2_remastered_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16085,7 +16085,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6293,
         "listing_id": "listing_crysis_2_remastered_steam",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16093,7 +16093,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6294,
         "listing_id": "listing_crysis_2_remastered_steam",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16101,7 +16101,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6295,
         "listing_id": "listing_crysis_2_remastered_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16109,7 +16109,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6296,
         "listing_id": "listing_crysis_2_remastered_epic",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16117,7 +16117,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6297,
         "listing_id": "listing_crysis_2_remastered_epic",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16125,7 +16125,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6298,
         "listing_id": "listing_crysis_2_remastered_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16133,7 +16133,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6299,
         "listing_id": "listing_crysis_2_remastered_gog",
         "recorded_date": "2024-06-27",
-        "price": 10.5,
+        "price": 840,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16141,7 +16141,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6300,
         "listing_id": "listing_crysis_2_remastered_gog",
         "recorded_date": "2026-09-20",
-        "price": 10.5,
+        "price": 840,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -16149,7 +16149,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6301,
         "listing_id": "listing_crysis_2_remastered_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16157,7 +16157,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6302,
         "listing_id": "listing_crysis_2_remastered_playstation",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16165,7 +16165,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6303,
         "listing_id": "listing_crysis_2_remastered_playstation",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16173,7 +16173,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6304,
         "listing_id": "listing_crysis_2_remastered_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16181,7 +16181,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6305,
         "listing_id": "listing_crysis_2_remastered_xbox",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16189,7 +16189,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6306,
         "listing_id": "listing_crysis_2_remastered_xbox",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16197,7 +16197,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6307,
         "listing_id": "listing_crysis_2_remastered_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16205,7 +16205,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6308,
         "listing_id": "listing_crysis_2_remastered_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16213,7 +16213,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6309,
         "listing_id": "listing_crysis_2_remastered_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -16226,7 +16226,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6310,
         "listing_id": "listing_crysis_3_remastered_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16234,7 +16234,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6311,
         "listing_id": "listing_crysis_3_remastered_steam",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16242,7 +16242,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6312,
         "listing_id": "listing_crysis_3_remastered_steam",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16250,7 +16250,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6313,
         "listing_id": "listing_crysis_3_remastered_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16258,7 +16258,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6314,
         "listing_id": "listing_crysis_3_remastered_epic",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16266,7 +16266,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6315,
         "listing_id": "listing_crysis_3_remastered_epic",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16274,7 +16274,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6316,
         "listing_id": "listing_crysis_3_remastered_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16282,7 +16282,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6317,
         "listing_id": "listing_crysis_3_remastered_gog",
         "recorded_date": "2024-06-27",
-        "price": 10.5,
+        "price": 840,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16290,7 +16290,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6318,
         "listing_id": "listing_crysis_3_remastered_gog",
         "recorded_date": "2026-09-20",
-        "price": 10.5,
+        "price": 840,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -16298,7 +16298,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6319,
         "listing_id": "listing_crysis_3_remastered_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16306,7 +16306,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6320,
         "listing_id": "listing_crysis_3_remastered_playstation",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16314,7 +16314,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6321,
         "listing_id": "listing_crysis_3_remastered_playstation",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16322,7 +16322,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6322,
         "listing_id": "listing_crysis_3_remastered_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16330,7 +16330,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6323,
         "listing_id": "listing_crysis_3_remastered_xbox",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16338,7 +16338,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6324,
         "listing_id": "listing_crysis_3_remastered_xbox",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16346,7 +16346,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6325,
         "listing_id": "listing_crysis_3_remastered_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16354,7 +16354,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6326,
         "listing_id": "listing_crysis_3_remastered_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16362,7 +16362,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6327,
         "listing_id": "listing_crysis_3_remastered_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -16375,7 +16375,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6328,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16383,7 +16383,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6329,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16391,7 +16391,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6330,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16399,7 +16399,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6331,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16407,7 +16407,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6332,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16415,7 +16415,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6333,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_epic",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16423,7 +16423,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6334,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16431,7 +16431,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6335,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16439,7 +16439,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6336,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -16447,7 +16447,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6337,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16455,7 +16455,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6338,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16463,7 +16463,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6339,
         "listing_id": "listing_tom_clancys_rainbow_six_siege_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -16476,7 +16476,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6340,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16484,7 +16484,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6341,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_steam",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16492,7 +16492,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6342,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16500,7 +16500,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6343,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_epic",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16508,7 +16508,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6344,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_epic",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16516,7 +16516,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6345,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16524,7 +16524,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6346,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16532,7 +16532,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6347,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_playstation",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16540,7 +16540,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6348,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16548,7 +16548,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6349,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16556,7 +16556,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6350,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_xbox",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16564,7 +16564,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6351,
         "listing_id": "listing_tom_clancys_ghost_recon_wildlands_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -16577,7 +16577,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6352,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16585,7 +16585,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6353,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_steam",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16593,7 +16593,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6354,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_steam",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16601,7 +16601,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6355,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16609,7 +16609,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6356,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_epic",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16617,7 +16617,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6357,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_epic",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16625,7 +16625,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6358,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16633,7 +16633,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6359,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_playstation",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16641,7 +16641,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6360,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_playstation",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -16649,7 +16649,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6361,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16657,7 +16657,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6362,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_xbox",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16665,7 +16665,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6363,
         "listing_id": "listing_tom_clancys_ghost_recon_breakpoint_xbox",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -16678,7 +16678,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6364,
         "listing_id": "listing_watch_dogs_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16686,7 +16686,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6365,
         "listing_id": "listing_watch_dogs_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16694,7 +16694,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6366,
         "listing_id": "listing_watch_dogs_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16702,7 +16702,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6367,
         "listing_id": "listing_watch_dogs_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16710,7 +16710,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6368,
         "listing_id": "listing_watch_dogs_epic",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16718,7 +16718,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6369,
         "listing_id": "listing_watch_dogs_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16726,7 +16726,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6370,
         "listing_id": "listing_watch_dogs_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16734,7 +16734,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6371,
         "listing_id": "listing_watch_dogs_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16742,7 +16742,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6372,
         "listing_id": "listing_watch_dogs_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16750,7 +16750,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6373,
         "listing_id": "listing_watch_dogs_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16758,7 +16758,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6374,
         "listing_id": "listing_watch_dogs_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16766,7 +16766,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6375,
         "listing_id": "listing_watch_dogs_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -16779,7 +16779,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6376,
         "listing_id": "listing_watch_dogs_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16787,7 +16787,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6377,
         "listing_id": "listing_watch_dogs_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16795,7 +16795,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6378,
         "listing_id": "listing_watch_dogs_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16803,7 +16803,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6379,
         "listing_id": "listing_watch_dogs_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16811,7 +16811,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6380,
         "listing_id": "listing_watch_dogs_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16819,7 +16819,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6381,
         "listing_id": "listing_watch_dogs_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16827,7 +16827,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6382,
         "listing_id": "listing_watch_dogs_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16835,7 +16835,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6383,
         "listing_id": "listing_watch_dogs_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16843,7 +16843,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6384,
         "listing_id": "listing_watch_dogs_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16851,7 +16851,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6385,
         "listing_id": "listing_watch_dogs_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16859,7 +16859,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6386,
         "listing_id": "listing_watch_dogs_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16867,7 +16867,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6387,
         "listing_id": "listing_watch_dogs_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -16880,7 +16880,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6388,
         "listing_id": "listing_watch_dogs_legion_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16888,7 +16888,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6389,
         "listing_id": "listing_watch_dogs_legion_steam",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16896,7 +16896,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6390,
         "listing_id": "listing_watch_dogs_legion_steam",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16904,7 +16904,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6391,
         "listing_id": "listing_watch_dogs_legion_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16912,7 +16912,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6392,
         "listing_id": "listing_watch_dogs_legion_epic",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16920,7 +16920,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6393,
         "listing_id": "listing_watch_dogs_legion_epic",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16928,7 +16928,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6394,
         "listing_id": "listing_watch_dogs_legion_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16936,7 +16936,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6395,
         "listing_id": "listing_watch_dogs_legion_playstation",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16944,7 +16944,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6396,
         "listing_id": "listing_watch_dogs_legion_playstation",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -16952,7 +16952,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6397,
         "listing_id": "listing_watch_dogs_legion_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16960,7 +16960,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6398,
         "listing_id": "listing_watch_dogs_legion_xbox",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16968,7 +16968,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6399,
         "listing_id": "listing_watch_dogs_legion_xbox",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -16981,7 +16981,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6400,
         "listing_id": "listing_sleeping_dogs_definitive_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -16989,7 +16989,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6401,
         "listing_id": "listing_sleeping_dogs_definitive_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -16997,7 +16997,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6402,
         "listing_id": "listing_sleeping_dogs_definitive_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17005,7 +17005,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6403,
         "listing_id": "listing_sleeping_dogs_definitive_edition_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17013,7 +17013,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6404,
         "listing_id": "listing_sleeping_dogs_definitive_edition_gog",
         "recorded_date": "2024-06-27",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17021,7 +17021,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6405,
         "listing_id": "listing_sleeping_dogs_definitive_edition_gog",
         "recorded_date": "2026-09-20",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -17029,7 +17029,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6406,
         "listing_id": "listing_sleeping_dogs_definitive_edition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17037,7 +17037,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6407,
         "listing_id": "listing_sleeping_dogs_definitive_edition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17045,7 +17045,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6408,
         "listing_id": "listing_sleeping_dogs_definitive_edition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17053,7 +17053,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6409,
         "listing_id": "listing_sleeping_dogs_definitive_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17061,7 +17061,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6410,
         "listing_id": "listing_sleeping_dogs_definitive_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17069,7 +17069,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6411,
         "listing_id": "listing_sleeping_dogs_definitive_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -17082,7 +17082,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6412,
         "listing_id": "listing_mafia_definitive_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17090,7 +17090,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6413,
         "listing_id": "listing_mafia_definitive_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17098,7 +17098,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6414,
         "listing_id": "listing_mafia_definitive_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -17106,7 +17106,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6415,
         "listing_id": "listing_mafia_definitive_edition_gog",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17114,7 +17114,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6416,
         "listing_id": "listing_mafia_definitive_edition_gog",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17122,7 +17122,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6417,
         "listing_id": "listing_mafia_definitive_edition_gog",
         "recorded_date": "2026-09-20",
-        "price": 8,
+        "price": 640,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -17130,7 +17130,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6418,
         "listing_id": "listing_mafia_definitive_edition_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17138,7 +17138,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6419,
         "listing_id": "listing_mafia_definitive_edition_epic",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17146,7 +17146,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6420,
         "listing_id": "listing_mafia_definitive_edition_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -17154,7 +17154,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6421,
         "listing_id": "listing_mafia_definitive_edition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17162,7 +17162,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6422,
         "listing_id": "listing_mafia_definitive_edition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17170,7 +17170,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6423,
         "listing_id": "listing_mafia_definitive_edition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -17178,7 +17178,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6424,
         "listing_id": "listing_mafia_definitive_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17186,7 +17186,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6425,
         "listing_id": "listing_mafia_definitive_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17194,7 +17194,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6426,
         "listing_id": "listing_mafia_definitive_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -17207,7 +17207,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6427,
         "listing_id": "listing_mafia_ii_definitive_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17215,7 +17215,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6428,
         "listing_id": "listing_mafia_ii_definitive_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17223,7 +17223,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6429,
         "listing_id": "listing_mafia_ii_definitive_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17231,7 +17231,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6430,
         "listing_id": "listing_mafia_ii_definitive_edition_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17239,7 +17239,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6431,
         "listing_id": "listing_mafia_ii_definitive_edition_gog",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17247,7 +17247,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6432,
         "listing_id": "listing_mafia_ii_definitive_edition_gog",
         "recorded_date": "2026-09-20",
-        "price": 8.4,
+        "price": 672,
         "discount_percent": 72,
         "event_name": "Current Special Promotion"
       },
@@ -17255,7 +17255,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6433,
         "listing_id": "listing_mafia_ii_definitive_edition_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17263,7 +17263,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6434,
         "listing_id": "listing_mafia_ii_definitive_edition_epic",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17271,7 +17271,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6435,
         "listing_id": "listing_mafia_ii_definitive_edition_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17279,7 +17279,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6436,
         "listing_id": "listing_mafia_ii_definitive_edition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17287,7 +17287,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6437,
         "listing_id": "listing_mafia_ii_definitive_edition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17295,7 +17295,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6438,
         "listing_id": "listing_mafia_ii_definitive_edition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17303,7 +17303,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6439,
         "listing_id": "listing_mafia_ii_definitive_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17311,7 +17311,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6440,
         "listing_id": "listing_mafia_ii_definitive_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17319,7 +17319,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6441,
         "listing_id": "listing_mafia_ii_definitive_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       }
@@ -17332,7 +17332,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6442,
         "listing_id": "listing_mafia_iii_definitive_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17340,7 +17340,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6443,
         "listing_id": "listing_mafia_iii_definitive_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17348,7 +17348,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6444,
         "listing_id": "listing_mafia_iii_definitive_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17356,7 +17356,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6445,
         "listing_id": "listing_mafia_iii_definitive_edition_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17364,7 +17364,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6446,
         "listing_id": "listing_mafia_iii_definitive_edition_gog",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17372,7 +17372,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6447,
         "listing_id": "listing_mafia_iii_definitive_edition_gog",
         "recorded_date": "2026-09-20",
-        "price": 8.4,
+        "price": 672,
         "discount_percent": 72,
         "event_name": "Current Special Promotion"
       },
@@ -17380,7 +17380,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6448,
         "listing_id": "listing_mafia_iii_definitive_edition_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17388,7 +17388,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6449,
         "listing_id": "listing_mafia_iii_definitive_edition_epic",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17396,7 +17396,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6450,
         "listing_id": "listing_mafia_iii_definitive_edition_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17404,7 +17404,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6451,
         "listing_id": "listing_mafia_iii_definitive_edition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17412,7 +17412,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6452,
         "listing_id": "listing_mafia_iii_definitive_edition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17420,7 +17420,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6453,
         "listing_id": "listing_mafia_iii_definitive_edition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       },
@@ -17428,7 +17428,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6454,
         "listing_id": "listing_mafia_iii_definitive_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17436,7 +17436,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6455,
         "listing_id": "listing_mafia_iii_definitive_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17444,7 +17444,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6456,
         "listing_id": "listing_mafia_iii_definitive_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Current Special Promotion"
       }
@@ -17457,7 +17457,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6457,
         "listing_id": "listing_la_noire_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17465,7 +17465,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6458,
         "listing_id": "listing_la_noire_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17473,7 +17473,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6459,
         "listing_id": "listing_la_noire_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -17481,7 +17481,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6460,
         "listing_id": "listing_la_noire_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17489,7 +17489,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6461,
         "listing_id": "listing_la_noire_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17497,7 +17497,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6462,
         "listing_id": "listing_la_noire_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -17505,7 +17505,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6463,
         "listing_id": "listing_la_noire_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17513,7 +17513,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6464,
         "listing_id": "listing_la_noire_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17521,7 +17521,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6465,
         "listing_id": "listing_la_noire_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -17529,7 +17529,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6466,
         "listing_id": "listing_la_noire_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17537,7 +17537,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6467,
         "listing_id": "listing_la_noire_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17545,7 +17545,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6468,
         "listing_id": "listing_la_noire_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -17558,7 +17558,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6469,
         "listing_id": "listing_max_payne_3_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17566,7 +17566,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6470,
         "listing_id": "listing_max_payne_3_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17574,7 +17574,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6471,
         "listing_id": "listing_max_payne_3_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -17582,7 +17582,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6472,
         "listing_id": "listing_max_payne_3_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17590,7 +17590,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6473,
         "listing_id": "listing_max_payne_3_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17598,7 +17598,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6474,
         "listing_id": "listing_max_payne_3_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -17606,7 +17606,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6475,
         "listing_id": "listing_max_payne_3_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17614,7 +17614,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6476,
         "listing_id": "listing_max_payne_3_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17622,7 +17622,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6477,
         "listing_id": "listing_max_payne_3_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       }
@@ -17635,7 +17635,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6478,
         "listing_id": "listing_bully_scholarship_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17643,7 +17643,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6479,
         "listing_id": "listing_bully_scholarship_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17651,7 +17651,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6480,
         "listing_id": "listing_bully_scholarship_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -17659,7 +17659,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6481,
         "listing_id": "listing_bully_scholarship_edition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17667,7 +17667,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6482,
         "listing_id": "listing_bully_scholarship_edition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17675,7 +17675,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6483,
         "listing_id": "listing_bully_scholarship_edition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -17683,7 +17683,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6484,
         "listing_id": "listing_bully_scholarship_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17691,7 +17691,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6485,
         "listing_id": "listing_bully_scholarship_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17699,7 +17699,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6486,
         "listing_id": "listing_bully_scholarship_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.24,
+        "price": 419,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       }
@@ -17712,7 +17712,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6487,
         "listing_id": "listing_spec_ops_the_line_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17720,7 +17720,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6488,
         "listing_id": "listing_spec_ops_the_line_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17728,7 +17728,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6489,
         "listing_id": "listing_spec_ops_the_line_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -17736,7 +17736,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6490,
         "listing_id": "listing_spec_ops_the_line_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17744,7 +17744,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6491,
         "listing_id": "listing_spec_ops_the_line_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17752,7 +17752,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6492,
         "listing_id": "listing_spec_ops_the_line_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17760,7 +17760,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6493,
         "listing_id": "listing_spec_ops_the_line_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17768,7 +17768,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6494,
         "listing_id": "listing_spec_ops_the_line_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17776,7 +17776,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6495,
         "listing_id": "listing_spec_ops_the_line_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -17784,7 +17784,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6496,
         "listing_id": "listing_spec_ops_the_line_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17792,7 +17792,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6497,
         "listing_id": "listing_spec_ops_the_line_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17800,7 +17800,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6498,
         "listing_id": "listing_spec_ops_the_line_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -17813,7 +17813,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6499,
         "listing_id": "listing_just_cause_3_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17821,7 +17821,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6500,
         "listing_id": "listing_just_cause_3_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17829,7 +17829,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6501,
         "listing_id": "listing_just_cause_3_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17837,7 +17837,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6502,
         "listing_id": "listing_just_cause_3_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17845,7 +17845,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6503,
         "listing_id": "listing_just_cause_3_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17853,7 +17853,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6504,
         "listing_id": "listing_just_cause_3_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17861,7 +17861,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6505,
         "listing_id": "listing_just_cause_3_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17869,7 +17869,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6506,
         "listing_id": "listing_just_cause_3_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17877,7 +17877,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6507,
         "listing_id": "listing_just_cause_3_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -17890,7 +17890,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6508,
         "listing_id": "listing_just_cause_4_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17898,7 +17898,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6509,
         "listing_id": "listing_just_cause_4_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17906,7 +17906,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6510,
         "listing_id": "listing_just_cause_4_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17914,7 +17914,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6511,
         "listing_id": "listing_just_cause_4_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17922,7 +17922,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6512,
         "listing_id": "listing_just_cause_4_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17930,7 +17930,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6513,
         "listing_id": "listing_just_cause_4_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17938,7 +17938,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6514,
         "listing_id": "listing_just_cause_4_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17946,7 +17946,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6515,
         "listing_id": "listing_just_cause_4_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17954,7 +17954,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6516,
         "listing_id": "listing_just_cause_4_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -17962,7 +17962,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6517,
         "listing_id": "listing_just_cause_4_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17970,7 +17970,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6518,
         "listing_id": "listing_just_cause_4_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -17978,7 +17978,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6519,
         "listing_id": "listing_just_cause_4_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -17991,7 +17991,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6520,
         "listing_id": "listing_mad_max_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -17999,7 +17999,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6521,
         "listing_id": "listing_mad_max_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18007,7 +18007,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6522,
         "listing_id": "listing_mad_max_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18015,7 +18015,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6523,
         "listing_id": "listing_mad_max_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18023,7 +18023,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6524,
         "listing_id": "listing_mad_max_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18031,7 +18031,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6525,
         "listing_id": "listing_mad_max_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18039,7 +18039,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6526,
         "listing_id": "listing_mad_max_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18047,7 +18047,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6527,
         "listing_id": "listing_mad_max_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18055,7 +18055,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6528,
         "listing_id": "listing_mad_max_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18063,7 +18063,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6529,
         "listing_id": "listing_mad_max_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18071,7 +18071,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6530,
         "listing_id": "listing_mad_max_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18079,7 +18079,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6531,
         "listing_id": "listing_mad_max_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -18092,7 +18092,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6532,
         "listing_id": "listing_middle_earth_shadow_of_mordor_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18100,7 +18100,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6533,
         "listing_id": "listing_middle_earth_shadow_of_mordor_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18108,7 +18108,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6534,
         "listing_id": "listing_middle_earth_shadow_of_mordor_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -18116,7 +18116,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6535,
         "listing_id": "listing_middle_earth_shadow_of_mordor_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18124,7 +18124,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6536,
         "listing_id": "listing_middle_earth_shadow_of_mordor_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18132,7 +18132,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6537,
         "listing_id": "listing_middle_earth_shadow_of_mordor_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18140,7 +18140,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6538,
         "listing_id": "listing_middle_earth_shadow_of_mordor_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18148,7 +18148,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6539,
         "listing_id": "listing_middle_earth_shadow_of_mordor_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18156,7 +18156,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6540,
         "listing_id": "listing_middle_earth_shadow_of_mordor_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -18164,7 +18164,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6541,
         "listing_id": "listing_middle_earth_shadow_of_mordor_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18172,7 +18172,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6542,
         "listing_id": "listing_middle_earth_shadow_of_mordor_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18180,7 +18180,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6543,
         "listing_id": "listing_middle_earth_shadow_of_mordor_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -18193,7 +18193,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6544,
         "listing_id": "listing_middle_earth_shadow_of_war_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18201,7 +18201,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6545,
         "listing_id": "listing_middle_earth_shadow_of_war_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 88,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18209,7 +18209,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6546,
         "listing_id": "listing_middle_earth_shadow_of_war_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18217,7 +18217,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6547,
         "listing_id": "listing_middle_earth_shadow_of_war_gog",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18225,7 +18225,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6548,
         "listing_id": "listing_middle_earth_shadow_of_war_gog",
         "recorded_date": "2024-06-27",
-        "price": 5,
+        "price": 400,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18233,7 +18233,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6549,
         "listing_id": "listing_middle_earth_shadow_of_war_gog",
         "recorded_date": "2026-09-20",
-        "price": 5,
+        "price": 400,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -18241,7 +18241,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6550,
         "listing_id": "listing_middle_earth_shadow_of_war_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18249,7 +18249,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6551,
         "listing_id": "listing_middle_earth_shadow_of_war_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 88,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18257,7 +18257,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6552,
         "listing_id": "listing_middle_earth_shadow_of_war_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18265,7 +18265,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6553,
         "listing_id": "listing_middle_earth_shadow_of_war_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18273,7 +18273,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6554,
         "listing_id": "listing_middle_earth_shadow_of_war_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 88,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18281,7 +18281,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6555,
         "listing_id": "listing_middle_earth_shadow_of_war_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -18294,7 +18294,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6556,
         "listing_id": "listing_kingdom_come_deliverance_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18302,7 +18302,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6557,
         "listing_id": "listing_kingdom_come_deliverance_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18310,7 +18310,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6558,
         "listing_id": "listing_kingdom_come_deliverance_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18318,7 +18318,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6559,
         "listing_id": "listing_kingdom_come_deliverance_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18326,7 +18326,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6560,
         "listing_id": "listing_kingdom_come_deliverance_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18334,7 +18334,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6561,
         "listing_id": "listing_kingdom_come_deliverance_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.5,
+        "price": 360,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18342,7 +18342,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6562,
         "listing_id": "listing_kingdom_come_deliverance_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18350,7 +18350,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6563,
         "listing_id": "listing_kingdom_come_deliverance_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18358,7 +18358,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6564,
         "listing_id": "listing_kingdom_come_deliverance_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18366,7 +18366,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6565,
         "listing_id": "listing_kingdom_come_deliverance_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18374,7 +18374,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6566,
         "listing_id": "listing_kingdom_come_deliverance_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18382,7 +18382,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6567,
         "listing_id": "listing_kingdom_come_deliverance_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18390,7 +18390,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6568,
         "listing_id": "listing_kingdom_come_deliverance_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18398,7 +18398,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6569,
         "listing_id": "listing_kingdom_come_deliverance_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18406,7 +18406,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6570,
         "listing_id": "listing_kingdom_come_deliverance_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18414,7 +18414,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6571,
         "listing_id": "listing_kingdom_come_deliverance_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18422,7 +18422,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6572,
         "listing_id": "listing_kingdom_come_deliverance_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18430,7 +18430,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6573,
         "listing_id": "listing_kingdom_come_deliverance_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -18443,7 +18443,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6574,
         "listing_id": "listing_kingdom_come_deliverance_ii_steam",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18451,7 +18451,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6575,
         "listing_id": "listing_kingdom_come_deliverance_ii_steam",
         "recorded_date": "2024-06-27",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18459,7 +18459,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6576,
         "listing_id": "listing_kingdom_come_deliverance_ii_steam",
         "recorded_date": "2026-09-20",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Current Special Promotion"
       },
@@ -18467,7 +18467,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6577,
         "listing_id": "listing_kingdom_come_deliverance_ii_epic",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18475,7 +18475,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6578,
         "listing_id": "listing_kingdom_come_deliverance_ii_epic",
         "recorded_date": "2024-06-27",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18483,7 +18483,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6579,
         "listing_id": "listing_kingdom_come_deliverance_ii_epic",
         "recorded_date": "2026-09-20",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Current Special Promotion"
       },
@@ -18491,7 +18491,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6580,
         "listing_id": "listing_kingdom_come_deliverance_ii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18499,7 +18499,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6581,
         "listing_id": "listing_kingdom_come_deliverance_ii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18507,7 +18507,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6582,
         "listing_id": "listing_kingdom_come_deliverance_ii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Current Special Promotion"
       },
@@ -18515,7 +18515,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6583,
         "listing_id": "listing_kingdom_come_deliverance_ii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18523,7 +18523,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6584,
         "listing_id": "listing_kingdom_come_deliverance_ii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18531,7 +18531,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6585,
         "listing_id": "listing_kingdom_come_deliverance_ii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 14,
         "event_name": "Current Special Promotion"
       }
@@ -18544,7 +18544,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6586,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18552,7 +18552,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6587,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_steam",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18560,7 +18560,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6588,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_steam",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -18568,7 +18568,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6589,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_gog",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18576,7 +18576,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6590,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_gog",
         "recorded_date": "2024-06-27",
-        "price": 22.5,
+        "price": 1800,
         "discount_percent": 55,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18584,7 +18584,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6591,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_gog",
         "recorded_date": "2026-09-20",
-        "price": 22.5,
+        "price": 1800,
         "discount_percent": 55,
         "event_name": "Current Special Promotion"
       },
@@ -18592,7 +18592,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6592,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_epic",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18600,7 +18600,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6593,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_epic",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18608,7 +18608,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6594,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_epic",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -18616,7 +18616,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6595,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18624,7 +18624,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6596,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_playstation",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18632,7 +18632,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6597,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_playstation",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -18640,7 +18640,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6598,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18648,7 +18648,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6599,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_xbox",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18656,7 +18656,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6600,
         "listing_id": "listing_mount_and_blade_ii_bannerlord_xbox",
         "recorded_date": "2026-09-20",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -18669,7 +18669,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6601,
         "listing_id": "listing_dragon_age_origins_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18677,7 +18677,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6602,
         "listing_id": "listing_dragon_age_origins_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18685,7 +18685,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6603,
         "listing_id": "listing_dragon_age_origins_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18693,7 +18693,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6604,
         "listing_id": "listing_dragon_age_origins_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18701,7 +18701,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6605,
         "listing_id": "listing_dragon_age_origins_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18709,7 +18709,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6606,
         "listing_id": "listing_dragon_age_origins_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -18717,7 +18717,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6607,
         "listing_id": "listing_dragon_age_origins_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18725,7 +18725,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6608,
         "listing_id": "listing_dragon_age_origins_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18733,7 +18733,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6609,
         "listing_id": "listing_dragon_age_origins_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18741,7 +18741,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6610,
         "listing_id": "listing_dragon_age_origins_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18749,7 +18749,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6611,
         "listing_id": "listing_dragon_age_origins_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18757,7 +18757,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6612,
         "listing_id": "listing_dragon_age_origins_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -18770,7 +18770,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6613,
         "listing_id": "listing_dragon_age_inquisition_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18778,7 +18778,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6614,
         "listing_id": "listing_dragon_age_inquisition_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18786,7 +18786,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6615,
         "listing_id": "listing_dragon_age_inquisition_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18794,7 +18794,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6616,
         "listing_id": "listing_dragon_age_inquisition_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18802,7 +18802,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6617,
         "listing_id": "listing_dragon_age_inquisition_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18810,7 +18810,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6618,
         "listing_id": "listing_dragon_age_inquisition_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18818,7 +18818,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6619,
         "listing_id": "listing_dragon_age_inquisition_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18826,7 +18826,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6620,
         "listing_id": "listing_dragon_age_inquisition_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18834,7 +18834,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6621,
         "listing_id": "listing_dragon_age_inquisition_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -18842,7 +18842,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6622,
         "listing_id": "listing_dragon_age_inquisition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18850,7 +18850,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6623,
         "listing_id": "listing_dragon_age_inquisition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18858,7 +18858,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6624,
         "listing_id": "listing_dragon_age_inquisition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -18871,7 +18871,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6625,
         "listing_id": "listing_mass_effect_andromeda_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18879,7 +18879,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6626,
         "listing_id": "listing_mass_effect_andromeda_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18887,7 +18887,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6627,
         "listing_id": "listing_mass_effect_andromeda_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18895,7 +18895,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6628,
         "listing_id": "listing_mass_effect_andromeda_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18903,7 +18903,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6629,
         "listing_id": "listing_mass_effect_andromeda_epic",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18911,7 +18911,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6630,
         "listing_id": "listing_mass_effect_andromeda_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18919,7 +18919,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6631,
         "listing_id": "listing_mass_effect_andromeda_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18927,7 +18927,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6632,
         "listing_id": "listing_mass_effect_andromeda_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18935,7 +18935,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6633,
         "listing_id": "listing_mass_effect_andromeda_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -18943,7 +18943,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6634,
         "listing_id": "listing_mass_effect_andromeda_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18951,7 +18951,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6635,
         "listing_id": "listing_mass_effect_andromeda_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18959,7 +18959,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6636,
         "listing_id": "listing_mass_effect_andromeda_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -18972,7 +18972,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6637,
         "listing_id": "listing_persona_3_reload_steam",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -18980,7 +18980,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6638,
         "listing_id": "listing_persona_3_reload_steam",
         "recorded_date": "2024-06-27",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -18988,7 +18988,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6639,
         "listing_id": "listing_persona_3_reload_steam",
         "recorded_date": "2026-09-20",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -18996,7 +18996,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6640,
         "listing_id": "listing_persona_3_reload_playstation",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19004,7 +19004,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6641,
         "listing_id": "listing_persona_3_reload_playstation",
         "recorded_date": "2024-06-27",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19012,7 +19012,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6642,
         "listing_id": "listing_persona_3_reload_playstation",
         "recorded_date": "2026-09-20",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -19020,7 +19020,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6643,
         "listing_id": "listing_persona_3_reload_xbox",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19028,7 +19028,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6644,
         "listing_id": "listing_persona_3_reload_xbox",
         "recorded_date": "2024-06-27",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19036,7 +19036,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6645,
         "listing_id": "listing_persona_3_reload_xbox",
         "recorded_date": "2026-09-20",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       }
@@ -19049,7 +19049,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6646,
         "listing_id": "listing_metaphor_refantazio_steam",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19057,7 +19057,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6647,
         "listing_id": "listing_metaphor_refantazio_steam",
         "recorded_date": "2024-06-27",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19065,7 +19065,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6648,
         "listing_id": "listing_metaphor_refantazio_steam",
         "recorded_date": "2026-09-20",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       },
@@ -19073,7 +19073,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6649,
         "listing_id": "listing_metaphor_refantazio_playstation",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19081,7 +19081,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6650,
         "listing_id": "listing_metaphor_refantazio_playstation",
         "recorded_date": "2024-06-27",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19089,7 +19089,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6651,
         "listing_id": "listing_metaphor_refantazio_playstation",
         "recorded_date": "2026-09-20",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       },
@@ -19097,7 +19097,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6652,
         "listing_id": "listing_metaphor_refantazio_xbox",
         "recorded_date": "2023-11-15",
-        "price": 69.99,
+        "price": 5599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19105,7 +19105,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6653,
         "listing_id": "listing_metaphor_refantazio_xbox",
         "recorded_date": "2024-06-27",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19113,7 +19113,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6654,
         "listing_id": "listing_metaphor_refantazio_xbox",
         "recorded_date": "2026-09-20",
-        "price": 52.49,
+        "price": 4199,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       }
@@ -19126,7 +19126,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6655,
         "listing_id": "listing_like_a_dragon_ishin_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19134,7 +19134,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6656,
         "listing_id": "listing_like_a_dragon_ishin_steam",
         "recorded_date": "2024-06-27",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19142,7 +19142,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6657,
         "listing_id": "listing_like_a_dragon_ishin_steam",
         "recorded_date": "2026-09-20",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19150,7 +19150,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6658,
         "listing_id": "listing_like_a_dragon_ishin_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19158,7 +19158,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6659,
         "listing_id": "listing_like_a_dragon_ishin_playstation",
         "recorded_date": "2024-06-27",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19166,7 +19166,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6660,
         "listing_id": "listing_like_a_dragon_ishin_playstation",
         "recorded_date": "2026-09-20",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19174,7 +19174,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6661,
         "listing_id": "listing_like_a_dragon_ishin_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19182,7 +19182,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6662,
         "listing_id": "listing_like_a_dragon_ishin_xbox",
         "recorded_date": "2024-06-27",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19190,7 +19190,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6663,
         "listing_id": "listing_like_a_dragon_ishin_xbox",
         "recorded_date": "2026-09-20",
-        "price": 20.99,
+        "price": 1679,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       }
@@ -19203,7 +19203,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6664,
         "listing_id": "listing_yakuza_kiwami_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19211,7 +19211,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6665,
         "listing_id": "listing_yakuza_kiwami_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19219,7 +19219,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6666,
         "listing_id": "listing_yakuza_kiwami_steam",
         "recorded_date": "2026-09-20",
-        "price": 6.99,
+        "price": 559,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19227,7 +19227,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6667,
         "listing_id": "listing_yakuza_kiwami_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19235,7 +19235,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6668,
         "listing_id": "listing_yakuza_kiwami_gog",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19243,7 +19243,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6669,
         "listing_id": "listing_yakuza_kiwami_gog",
         "recorded_date": "2026-09-20",
-        "price": 6,
+        "price": 480,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -19251,7 +19251,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6670,
         "listing_id": "listing_yakuza_kiwami_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19259,7 +19259,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6671,
         "listing_id": "listing_yakuza_kiwami_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19267,7 +19267,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6672,
         "listing_id": "listing_yakuza_kiwami_playstation",
         "recorded_date": "2026-09-20",
-        "price": 6.99,
+        "price": 559,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19275,7 +19275,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6673,
         "listing_id": "listing_yakuza_kiwami_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19283,7 +19283,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6674,
         "listing_id": "listing_yakuza_kiwami_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19291,7 +19291,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6675,
         "listing_id": "listing_yakuza_kiwami_xbox",
         "recorded_date": "2026-09-20",
-        "price": 6.99,
+        "price": 559,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19299,7 +19299,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6676,
         "listing_id": "listing_yakuza_kiwami_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19307,7 +19307,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6677,
         "listing_id": "listing_yakuza_kiwami_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19315,7 +19315,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6678,
         "listing_id": "listing_yakuza_kiwami_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -19328,7 +19328,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6679,
         "listing_id": "listing_yakuza_kiwami_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19336,7 +19336,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6680,
         "listing_id": "listing_yakuza_kiwami_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19344,7 +19344,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6681,
         "listing_id": "listing_yakuza_kiwami_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -19352,7 +19352,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6682,
         "listing_id": "listing_yakuza_kiwami_2_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19360,7 +19360,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6683,
         "listing_id": "listing_yakuza_kiwami_2_gog",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19368,7 +19368,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6684,
         "listing_id": "listing_yakuza_kiwami_2_gog",
         "recorded_date": "2026-09-20",
-        "price": 7,
+        "price": 560,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -19376,7 +19376,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6685,
         "listing_id": "listing_yakuza_kiwami_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19384,7 +19384,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6686,
         "listing_id": "listing_yakuza_kiwami_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19392,7 +19392,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6687,
         "listing_id": "listing_yakuza_kiwami_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -19400,7 +19400,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6688,
         "listing_id": "listing_yakuza_kiwami_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19408,7 +19408,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6689,
         "listing_id": "listing_yakuza_kiwami_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 70,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19416,7 +19416,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6690,
         "listing_id": "listing_yakuza_kiwami_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -19429,7 +19429,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6691,
         "listing_id": "listing_tales_of_arise_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19437,7 +19437,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6692,
         "listing_id": "listing_tales_of_arise_steam",
         "recorded_date": "2024-06-27",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19445,7 +19445,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6693,
         "listing_id": "listing_tales_of_arise_steam",
         "recorded_date": "2026-09-20",
-        "price": 14.79,
+        "price": 1183,
         "discount_percent": 63,
         "event_name": "Current Special Promotion"
       },
@@ -19453,7 +19453,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6694,
         "listing_id": "listing_tales_of_arise_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19461,7 +19461,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6695,
         "listing_id": "listing_tales_of_arise_playstation",
         "recorded_date": "2024-06-27",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19469,7 +19469,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6696,
         "listing_id": "listing_tales_of_arise_playstation",
         "recorded_date": "2026-09-20",
-        "price": 14.79,
+        "price": 1183,
         "discount_percent": 63,
         "event_name": "Current Special Promotion"
       },
@@ -19477,7 +19477,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6697,
         "listing_id": "listing_tales_of_arise_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19485,7 +19485,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6698,
         "listing_id": "listing_tales_of_arise_xbox",
         "recorded_date": "2024-06-27",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 65,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19493,7 +19493,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6699,
         "listing_id": "listing_tales_of_arise_xbox",
         "recorded_date": "2026-09-20",
-        "price": 14.79,
+        "price": 1183,
         "discount_percent": 63,
         "event_name": "Current Special Promotion"
       }
@@ -19506,7 +19506,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6700,
         "listing_id": "listing_octopath_traveler_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19514,7 +19514,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6701,
         "listing_id": "listing_octopath_traveler_steam",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19522,7 +19522,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6702,
         "listing_id": "listing_octopath_traveler_steam",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -19530,7 +19530,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6703,
         "listing_id": "listing_octopath_traveler_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19538,7 +19538,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6704,
         "listing_id": "listing_octopath_traveler_playstation",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19546,7 +19546,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6705,
         "listing_id": "listing_octopath_traveler_playstation",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -19554,7 +19554,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6706,
         "listing_id": "listing_octopath_traveler_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19562,7 +19562,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6707,
         "listing_id": "listing_octopath_traveler_xbox",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19570,7 +19570,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6708,
         "listing_id": "listing_octopath_traveler_xbox",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -19578,7 +19578,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6709,
         "listing_id": "listing_octopath_traveler_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19586,7 +19586,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6710,
         "listing_id": "listing_octopath_traveler_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19594,7 +19594,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6711,
         "listing_id": "listing_octopath_traveler_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -19607,7 +19607,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6712,
         "listing_id": "listing_octopath_traveler_ii_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19615,7 +19615,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6713,
         "listing_id": "listing_octopath_traveler_ii_steam",
         "recorded_date": "2024-06-27",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19623,7 +19623,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6714,
         "listing_id": "listing_octopath_traveler_ii_steam",
         "recorded_date": "2026-09-20",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -19631,7 +19631,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6715,
         "listing_id": "listing_octopath_traveler_ii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19639,7 +19639,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6716,
         "listing_id": "listing_octopath_traveler_ii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19647,7 +19647,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6717,
         "listing_id": "listing_octopath_traveler_ii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -19655,7 +19655,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6718,
         "listing_id": "listing_octopath_traveler_ii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19663,7 +19663,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6719,
         "listing_id": "listing_octopath_traveler_ii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19671,7 +19671,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6720,
         "listing_id": "listing_octopath_traveler_ii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -19679,7 +19679,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6721,
         "listing_id": "listing_octopath_traveler_ii_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19687,7 +19687,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6722,
         "listing_id": "listing_octopath_traveler_ii_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19695,7 +19695,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6723,
         "listing_id": "listing_octopath_traveler_ii_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 35.99,
+        "price": 2879,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       }
@@ -19708,7 +19708,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6724,
         "listing_id": "listing_bravely_default_ii_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19716,7 +19716,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6725,
         "listing_id": "listing_bravely_default_ii_steam",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19724,7 +19724,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6726,
         "listing_id": "listing_bravely_default_ii_steam",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -19732,7 +19732,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6727,
         "listing_id": "listing_bravely_default_ii_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19740,7 +19740,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6728,
         "listing_id": "listing_bravely_default_ii_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19748,7 +19748,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6729,
         "listing_id": "listing_bravely_default_ii_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 23.99,
+        "price": 1919,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -19761,7 +19761,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6730,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19769,7 +19769,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6731,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19777,7 +19777,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6732,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -19785,7 +19785,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6733,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19793,7 +19793,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6734,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19801,7 +19801,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6735,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -19809,7 +19809,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6736,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19817,7 +19817,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6737,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19825,7 +19825,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6738,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -19833,7 +19833,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6739,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19841,7 +19841,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6740,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19849,7 +19849,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6741,
         "listing_id": "listing_ni_no_kuni_wrath_of_the_white_witch_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 25,
+        "price": 2000,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -19862,7 +19862,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6742,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19870,7 +19870,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6743,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_steam",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19878,7 +19878,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6744,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.59,
+        "price": 767,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -19886,7 +19886,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6745,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19894,7 +19894,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6746,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_playstation",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19902,7 +19902,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6747,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.59,
+        "price": 767,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -19910,7 +19910,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6748,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19918,7 +19918,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6749,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_xbox",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19926,7 +19926,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6750,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.59,
+        "price": 767,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -19934,7 +19934,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6751,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19942,7 +19942,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6752,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19950,7 +19950,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6753,
         "listing_id": "listing_ni_no_kuni_ii_revenant_kingdom_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 30,
+        "price": 2400,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -19963,7 +19963,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6754,
         "listing_id": "listing_kingdom_hearts_iii_steam",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19971,7 +19971,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6755,
         "listing_id": "listing_kingdom_hearts_iii_steam",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -19979,7 +19979,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6756,
         "listing_id": "listing_kingdom_hearts_iii_steam",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -19987,7 +19987,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6757,
         "listing_id": "listing_kingdom_hearts_iii_epic",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -19995,7 +19995,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6758,
         "listing_id": "listing_kingdom_hearts_iii_epic",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20003,7 +20003,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6759,
         "listing_id": "listing_kingdom_hearts_iii_epic",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -20011,7 +20011,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6760,
         "listing_id": "listing_kingdom_hearts_iii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20019,7 +20019,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6761,
         "listing_id": "listing_kingdom_hearts_iii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20027,7 +20027,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6762,
         "listing_id": "listing_kingdom_hearts_iii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -20035,7 +20035,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6763,
         "listing_id": "listing_kingdom_hearts_iii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20043,7 +20043,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6764,
         "listing_id": "listing_kingdom_hearts_iii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20051,7 +20051,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6765,
         "listing_id": "listing_kingdom_hearts_iii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20064,7 +20064,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6766,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20072,7 +20072,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6767,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_steam",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20080,7 +20080,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6768,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_steam",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20088,7 +20088,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6769,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20096,7 +20096,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6770,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_playstation",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20104,7 +20104,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6771,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_playstation",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20112,7 +20112,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6772,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20120,7 +20120,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6773,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_xbox",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20128,7 +20128,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6774,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_xbox",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20136,7 +20136,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6775,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20144,7 +20144,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6776,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20152,7 +20152,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6777,
         "listing_id": "listing_final_fantasy_xii_the_zodiac_age_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -20165,7 +20165,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6778,
         "listing_id": "listing_final_fantasy_xiii_steam",
         "recorded_date": "2023-11-15",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20173,7 +20173,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6779,
         "listing_id": "listing_final_fantasy_xiii_steam",
         "recorded_date": "2024-06-27",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20181,7 +20181,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6780,
         "listing_id": "listing_final_fantasy_xiii_steam",
         "recorded_date": "2026-09-20",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20189,7 +20189,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6781,
         "listing_id": "listing_final_fantasy_xiii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20197,7 +20197,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6782,
         "listing_id": "listing_final_fantasy_xiii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20205,7 +20205,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6783,
         "listing_id": "listing_final_fantasy_xiii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20213,7 +20213,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6784,
         "listing_id": "listing_final_fantasy_xiii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20221,7 +20221,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6785,
         "listing_id": "listing_final_fantasy_xiii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20229,7 +20229,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6786,
         "listing_id": "listing_final_fantasy_xiii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 6.39,
+        "price": 511,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -20242,7 +20242,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6787,
         "listing_id": "listing_final_fantasy_xiii_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20250,7 +20250,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6788,
         "listing_id": "listing_final_fantasy_xiii_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20258,7 +20258,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6789,
         "listing_id": "listing_final_fantasy_xiii_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20266,7 +20266,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6790,
         "listing_id": "listing_final_fantasy_xiii_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20274,7 +20274,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6791,
         "listing_id": "listing_final_fantasy_xiii_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20282,7 +20282,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6792,
         "listing_id": "listing_final_fantasy_xiii_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -20290,7 +20290,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6793,
         "listing_id": "listing_final_fantasy_xiii_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20298,7 +20298,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6794,
         "listing_id": "listing_final_fantasy_xiii_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20306,7 +20306,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6795,
         "listing_id": "listing_final_fantasy_xiii_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -20319,7 +20319,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6796,
         "listing_id": "listing_final_fantasy_xiv_online_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20327,7 +20327,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6797,
         "listing_id": "listing_final_fantasy_xiv_online_steam",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20335,7 +20335,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6798,
         "listing_id": "listing_final_fantasy_xiv_online_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -20343,7 +20343,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6799,
         "listing_id": "listing_final_fantasy_xiv_online_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20351,7 +20351,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6800,
         "listing_id": "listing_final_fantasy_xiv_online_playstation",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20359,7 +20359,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6801,
         "listing_id": "listing_final_fantasy_xiv_online_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -20367,7 +20367,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6802,
         "listing_id": "listing_final_fantasy_xiv_online_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20375,7 +20375,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6803,
         "listing_id": "listing_final_fantasy_xiv_online_xbox",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20383,7 +20383,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6804,
         "listing_id": "listing_final_fantasy_xiv_online_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20396,7 +20396,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6805,
         "listing_id": "listing_tales_of_berseria_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20404,7 +20404,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6806,
         "listing_id": "listing_tales_of_berseria_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20412,7 +20412,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6807,
         "listing_id": "listing_tales_of_berseria_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -20420,7 +20420,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6808,
         "listing_id": "listing_tales_of_berseria_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20428,7 +20428,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6809,
         "listing_id": "listing_tales_of_berseria_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20436,7 +20436,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6810,
         "listing_id": "listing_tales_of_berseria_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       }
@@ -20449,7 +20449,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6811,
         "listing_id": "listing_xenoblade_chronicles_3_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20457,7 +20457,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6812,
         "listing_id": "listing_xenoblade_chronicles_3_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 30,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20465,7 +20465,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6813,
         "listing_id": "listing_xenoblade_chronicles_3_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 30,
         "event_name": "Current Special Promotion"
       }
@@ -20478,7 +20478,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6814,
         "listing_id": "listing_xenoblade_chronicles_definitive_edition_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20486,7 +20486,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6815,
         "listing_id": "listing_xenoblade_chronicles_definitive_edition_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20494,7 +20494,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6816,
         "listing_id": "listing_xenoblade_chronicles_definitive_edition_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Current Special Promotion"
       }
@@ -20507,7 +20507,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6817,
         "listing_id": "listing_fire_emblem_three_houses_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 59.99,
+        "price": 4799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20515,7 +20515,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6818,
         "listing_id": "listing_fire_emblem_three_houses_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 33,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20523,7 +20523,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6819,
         "listing_id": "listing_fire_emblem_three_houses_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 41.99,
+        "price": 3359,
         "discount_percent": 30,
         "event_name": "Current Special Promotion"
       }
@@ -20536,7 +20536,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6820,
         "listing_id": "listing_resident_evil_3_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20544,7 +20544,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6821,
         "listing_id": "listing_resident_evil_3_steam",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20552,7 +20552,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6822,
         "listing_id": "listing_resident_evil_3_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20560,7 +20560,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6823,
         "listing_id": "listing_resident_evil_3_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20568,7 +20568,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6824,
         "listing_id": "listing_resident_evil_3_playstation",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20576,7 +20576,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6825,
         "listing_id": "listing_resident_evil_3_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20584,7 +20584,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6826,
         "listing_id": "listing_resident_evil_3_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20592,7 +20592,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6827,
         "listing_id": "listing_resident_evil_3_xbox",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20600,7 +20600,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6828,
         "listing_id": "listing_resident_evil_3_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20608,7 +20608,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6829,
         "listing_id": "listing_resident_evil_3_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20616,7 +20616,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6830,
         "listing_id": "listing_resident_evil_3_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20624,7 +20624,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6831,
         "listing_id": "listing_resident_evil_3_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 20,
+        "price": 1600,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20637,7 +20637,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6832,
         "listing_id": "listing_resident_evil_5_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20645,7 +20645,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6833,
         "listing_id": "listing_resident_evil_5_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20653,7 +20653,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6834,
         "listing_id": "listing_resident_evil_5_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20661,7 +20661,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6835,
         "listing_id": "listing_resident_evil_5_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20669,7 +20669,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6836,
         "listing_id": "listing_resident_evil_5_gog",
         "recorded_date": "2024-06-27",
-        "price": 4,
+        "price": 320,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20677,7 +20677,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6837,
         "listing_id": "listing_resident_evil_5_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -20685,7 +20685,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6838,
         "listing_id": "listing_resident_evil_5_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20693,7 +20693,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6839,
         "listing_id": "listing_resident_evil_5_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20701,7 +20701,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6840,
         "listing_id": "listing_resident_evil_5_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20709,7 +20709,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6841,
         "listing_id": "listing_resident_evil_5_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20717,7 +20717,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6842,
         "listing_id": "listing_resident_evil_5_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20725,7 +20725,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6843,
         "listing_id": "listing_resident_evil_5_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -20733,7 +20733,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6844,
         "listing_id": "listing_resident_evil_5_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20741,7 +20741,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6845,
         "listing_id": "listing_resident_evil_5_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20749,7 +20749,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6846,
         "listing_id": "listing_resident_evil_5_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20762,7 +20762,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6847,
         "listing_id": "listing_resident_evil_6_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20770,7 +20770,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6848,
         "listing_id": "listing_resident_evil_6_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 83,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20778,7 +20778,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6849,
         "listing_id": "listing_resident_evil_6_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -20786,7 +20786,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6850,
         "listing_id": "listing_resident_evil_6_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20794,7 +20794,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6851,
         "listing_id": "listing_resident_evil_6_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 83,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20802,7 +20802,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6852,
         "listing_id": "listing_resident_evil_6_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -20810,7 +20810,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6853,
         "listing_id": "listing_resident_evil_6_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20818,7 +20818,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6854,
         "listing_id": "listing_resident_evil_6_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 83,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20826,7 +20826,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6855,
         "listing_id": "listing_resident_evil_6_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -20834,7 +20834,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6856,
         "listing_id": "listing_resident_evil_6_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20842,7 +20842,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6857,
         "listing_id": "listing_resident_evil_6_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 83,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20850,7 +20850,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6858,
         "listing_id": "listing_resident_evil_6_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20863,7 +20863,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6859,
         "listing_id": "listing_resident_evil_revelations_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20871,7 +20871,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6860,
         "listing_id": "listing_resident_evil_revelations_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20879,7 +20879,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6861,
         "listing_id": "listing_resident_evil_revelations_steam",
         "recorded_date": "2026-09-20",
-        "price": 6.89,
+        "price": 551,
         "discount_percent": 77,
         "event_name": "Current Special Promotion"
       },
@@ -20887,7 +20887,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6862,
         "listing_id": "listing_resident_evil_revelations_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20895,7 +20895,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6863,
         "listing_id": "listing_resident_evil_revelations_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20903,7 +20903,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6864,
         "listing_id": "listing_resident_evil_revelations_playstation",
         "recorded_date": "2026-09-20",
-        "price": 6.89,
+        "price": 551,
         "discount_percent": 77,
         "event_name": "Current Special Promotion"
       },
@@ -20911,7 +20911,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6865,
         "listing_id": "listing_resident_evil_revelations_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20919,7 +20919,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6866,
         "listing_id": "listing_resident_evil_revelations_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20927,7 +20927,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6867,
         "listing_id": "listing_resident_evil_revelations_xbox",
         "recorded_date": "2026-09-20",
-        "price": 6.89,
+        "price": 551,
         "discount_percent": 77,
         "event_name": "Current Special Promotion"
       },
@@ -20935,7 +20935,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6868,
         "listing_id": "listing_resident_evil_revelations_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20943,7 +20943,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6869,
         "listing_id": "listing_resident_evil_revelations_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20951,7 +20951,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6870,
         "listing_id": "listing_resident_evil_revelations_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -20964,7 +20964,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6871,
         "listing_id": "listing_resident_evil_revelations_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20972,7 +20972,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6872,
         "listing_id": "listing_resident_evil_revelations_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -20980,7 +20980,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6873,
         "listing_id": "listing_resident_evil_revelations_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -20988,7 +20988,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6874,
         "listing_id": "listing_resident_evil_revelations_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -20996,7 +20996,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6875,
         "listing_id": "listing_resident_evil_revelations_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21004,7 +21004,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6876,
         "listing_id": "listing_resident_evil_revelations_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -21012,7 +21012,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6877,
         "listing_id": "listing_resident_evil_revelations_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21020,7 +21020,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6878,
         "listing_id": "listing_resident_evil_revelations_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21028,7 +21028,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6879,
         "listing_id": "listing_resident_evil_revelations_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Current Special Promotion"
       },
@@ -21036,7 +21036,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6880,
         "listing_id": "listing_resident_evil_revelations_2_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21044,7 +21044,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6881,
         "listing_id": "listing_resident_evil_revelations_2_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 84,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21052,7 +21052,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6882,
         "listing_id": "listing_resident_evil_revelations_2_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21065,7 +21065,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6883,
         "listing_id": "listing_the_evil_within_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21073,7 +21073,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6884,
         "listing_id": "listing_the_evil_within_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21081,7 +21081,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6885,
         "listing_id": "listing_the_evil_within_steam",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -21089,7 +21089,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6886,
         "listing_id": "listing_the_evil_within_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21097,7 +21097,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6887,
         "listing_id": "listing_the_evil_within_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21105,7 +21105,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6888,
         "listing_id": "listing_the_evil_within_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21113,7 +21113,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6889,
         "listing_id": "listing_the_evil_within_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21121,7 +21121,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6890,
         "listing_id": "listing_the_evil_within_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21129,7 +21129,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6891,
         "listing_id": "listing_the_evil_within_epic",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -21137,7 +21137,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6892,
         "listing_id": "listing_the_evil_within_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21145,7 +21145,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6893,
         "listing_id": "listing_the_evil_within_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21153,7 +21153,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6894,
         "listing_id": "listing_the_evil_within_playstation",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -21161,7 +21161,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6895,
         "listing_id": "listing_the_evil_within_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21169,7 +21169,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6896,
         "listing_id": "listing_the_evil_within_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21177,7 +21177,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6897,
         "listing_id": "listing_the_evil_within_xbox",
         "recorded_date": "2026-09-20",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       }
@@ -21190,7 +21190,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6898,
         "listing_id": "listing_the_evil_within_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21198,7 +21198,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6899,
         "listing_id": "listing_the_evil_within_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21206,7 +21206,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6900,
         "listing_id": "listing_the_evil_within_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21214,7 +21214,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6901,
         "listing_id": "listing_the_evil_within_2_gog",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21222,7 +21222,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6902,
         "listing_id": "listing_the_evil_within_2_gog",
         "recorded_date": "2024-06-27",
-        "price": 4,
+        "price": 320,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21230,7 +21230,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6903,
         "listing_id": "listing_the_evil_within_2_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -21238,7 +21238,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6904,
         "listing_id": "listing_the_evil_within_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21246,7 +21246,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6905,
         "listing_id": "listing_the_evil_within_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21254,7 +21254,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6906,
         "listing_id": "listing_the_evil_within_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21262,7 +21262,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6907,
         "listing_id": "listing_the_evil_within_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21270,7 +21270,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6908,
         "listing_id": "listing_the_evil_within_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21278,7 +21278,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6909,
         "listing_id": "listing_the_evil_within_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21286,7 +21286,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6910,
         "listing_id": "listing_the_evil_within_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21294,7 +21294,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6911,
         "listing_id": "listing_the_evil_within_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21302,7 +21302,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6912,
         "listing_id": "listing_the_evil_within_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -21315,7 +21315,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6913,
         "listing_id": "listing_outlast_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21323,7 +21323,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6914,
         "listing_id": "listing_outlast_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21331,7 +21331,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6915,
         "listing_id": "listing_outlast_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21339,7 +21339,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6916,
         "listing_id": "listing_outlast_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21347,7 +21347,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6917,
         "listing_id": "listing_outlast_gog",
         "recorded_date": "2024-06-27",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21355,7 +21355,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6918,
         "listing_id": "listing_outlast_gog",
         "recorded_date": "2026-09-20",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -21363,7 +21363,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6919,
         "listing_id": "listing_outlast_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21371,7 +21371,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6920,
         "listing_id": "listing_outlast_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21379,7 +21379,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6921,
         "listing_id": "listing_outlast_epic",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21387,7 +21387,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6922,
         "listing_id": "listing_outlast_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21395,7 +21395,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6923,
         "listing_id": "listing_outlast_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21403,7 +21403,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6924,
         "listing_id": "listing_outlast_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21411,7 +21411,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6925,
         "listing_id": "listing_outlast_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21419,7 +21419,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6926,
         "listing_id": "listing_outlast_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21427,7 +21427,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6927,
         "listing_id": "listing_outlast_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21435,7 +21435,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6928,
         "listing_id": "listing_outlast_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21443,7 +21443,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6929,
         "listing_id": "listing_outlast_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21451,7 +21451,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6930,
         "listing_id": "listing_outlast_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21464,7 +21464,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6931,
         "listing_id": "listing_outlast_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21472,7 +21472,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6932,
         "listing_id": "listing_outlast_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21480,7 +21480,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6933,
         "listing_id": "listing_outlast_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21488,7 +21488,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6934,
         "listing_id": "listing_outlast_2_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21496,7 +21496,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6935,
         "listing_id": "listing_outlast_2_gog",
         "recorded_date": "2024-06-27",
-        "price": 3,
+        "price": 240,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21504,7 +21504,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6936,
         "listing_id": "listing_outlast_2_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -21512,7 +21512,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6937,
         "listing_id": "listing_outlast_2_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21520,7 +21520,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6938,
         "listing_id": "listing_outlast_2_epic",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21528,7 +21528,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6939,
         "listing_id": "listing_outlast_2_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21536,7 +21536,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6940,
         "listing_id": "listing_outlast_2_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21544,7 +21544,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6941,
         "listing_id": "listing_outlast_2_playstation",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21552,7 +21552,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6942,
         "listing_id": "listing_outlast_2_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21560,7 +21560,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6943,
         "listing_id": "listing_outlast_2_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21568,7 +21568,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6944,
         "listing_id": "listing_outlast_2_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21576,7 +21576,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6945,
         "listing_id": "listing_outlast_2_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21584,7 +21584,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6946,
         "listing_id": "listing_outlast_2_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21592,7 +21592,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6947,
         "listing_id": "listing_outlast_2_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21600,7 +21600,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6948,
         "listing_id": "listing_outlast_2_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21613,7 +21613,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6949,
         "listing_id": "listing_amnesia_the_dark_descent_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21621,7 +21621,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6950,
         "listing_id": "listing_amnesia_the_dark_descent_steam",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21629,7 +21629,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6951,
         "listing_id": "listing_amnesia_the_dark_descent_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21637,7 +21637,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6952,
         "listing_id": "listing_amnesia_the_dark_descent_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21645,7 +21645,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6953,
         "listing_id": "listing_amnesia_the_dark_descent_gog",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21653,7 +21653,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6954,
         "listing_id": "listing_amnesia_the_dark_descent_gog",
         "recorded_date": "2026-09-20",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -21661,7 +21661,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6955,
         "listing_id": "listing_amnesia_the_dark_descent_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21669,7 +21669,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6956,
         "listing_id": "listing_amnesia_the_dark_descent_epic",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21677,7 +21677,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6957,
         "listing_id": "listing_amnesia_the_dark_descent_epic",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21685,7 +21685,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6958,
         "listing_id": "listing_amnesia_the_dark_descent_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21693,7 +21693,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6959,
         "listing_id": "listing_amnesia_the_dark_descent_playstation",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21701,7 +21701,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6960,
         "listing_id": "listing_amnesia_the_dark_descent_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21709,7 +21709,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6961,
         "listing_id": "listing_amnesia_the_dark_descent_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21717,7 +21717,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6962,
         "listing_id": "listing_amnesia_the_dark_descent_xbox",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21725,7 +21725,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6963,
         "listing_id": "listing_amnesia_the_dark_descent_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -21733,7 +21733,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6964,
         "listing_id": "listing_amnesia_the_dark_descent_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21741,7 +21741,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6965,
         "listing_id": "listing_amnesia_the_dark_descent_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21749,7 +21749,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6966,
         "listing_id": "listing_amnesia_the_dark_descent_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21762,7 +21762,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6967,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21770,7 +21770,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6968,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21778,7 +21778,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6969,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -21786,7 +21786,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6970,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21794,7 +21794,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6971,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_xbox",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21802,7 +21802,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6972,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -21810,7 +21810,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6973,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21818,7 +21818,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6974,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21826,7 +21826,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6975,
         "listing_id": "listing_ori_and_the_blind_forest_definitive_edition_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21839,7 +21839,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6976,
         "listing_id": "listing_shovel_knight_treasure_trove_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21847,7 +21847,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6977,
         "listing_id": "listing_shovel_knight_treasure_trove_steam",
         "recorded_date": "2024-06-27",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21855,7 +21855,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6978,
         "listing_id": "listing_shovel_knight_treasure_trove_steam",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -21863,7 +21863,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6979,
         "listing_id": "listing_shovel_knight_treasure_trove_gog",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21871,7 +21871,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6980,
         "listing_id": "listing_shovel_knight_treasure_trove_gog",
         "recorded_date": "2024-06-27",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21879,7 +21879,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6981,
         "listing_id": "listing_shovel_knight_treasure_trove_gog",
         "recorded_date": "2026-09-20",
-        "price": 18,
+        "price": 1440,
         "discount_percent": 55,
         "event_name": "Current Special Promotion"
       },
@@ -21887,7 +21887,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6982,
         "listing_id": "listing_shovel_knight_treasure_trove_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21895,7 +21895,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6983,
         "listing_id": "listing_shovel_knight_treasure_trove_playstation",
         "recorded_date": "2024-06-27",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21903,7 +21903,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6984,
         "listing_id": "listing_shovel_knight_treasure_trove_playstation",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -21911,7 +21911,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6985,
         "listing_id": "listing_shovel_knight_treasure_trove_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21919,7 +21919,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6986,
         "listing_id": "listing_shovel_knight_treasure_trove_xbox",
         "recorded_date": "2024-06-27",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21927,7 +21927,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6987,
         "listing_id": "listing_shovel_knight_treasure_trove_xbox",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -21935,7 +21935,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6988,
         "listing_id": "listing_shovel_knight_treasure_trove_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21943,7 +21943,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6989,
         "listing_id": "listing_shovel_knight_treasure_trove_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 15.99,
+        "price": 1279,
         "discount_percent": 60,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21951,7 +21951,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6990,
         "listing_id": "listing_shovel_knight_treasure_trove_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -21964,7 +21964,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6991,
         "listing_id": "listing_katana_zero_steam",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21972,7 +21972,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6992,
         "listing_id": "listing_katana_zero_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -21980,7 +21980,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6993,
         "listing_id": "listing_katana_zero_steam",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -21988,7 +21988,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6994,
         "listing_id": "listing_katana_zero_gog",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -21996,7 +21996,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6995,
         "listing_id": "listing_katana_zero_gog",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22004,7 +22004,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6996,
         "listing_id": "listing_katana_zero_gog",
         "recorded_date": "2026-09-20",
-        "price": 8.24,
+        "price": 659,
         "discount_percent": 45,
         "event_name": "Current Special Promotion"
       },
@@ -22012,7 +22012,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6997,
         "listing_id": "listing_katana_zero_xbox",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22020,7 +22020,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6998,
         "listing_id": "listing_katana_zero_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22028,7 +22028,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 6999,
         "listing_id": "listing_katana_zero_xbox",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -22036,7 +22036,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7000,
         "listing_id": "listing_katana_zero_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22044,7 +22044,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7001,
         "listing_id": "listing_katana_zero_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 7.49,
+        "price": 599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22052,7 +22052,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7002,
         "listing_id": "listing_katana_zero_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       }
@@ -22065,7 +22065,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7003,
         "listing_id": "listing_hades_steam",
         "recorded_date": "2023-11-15",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22073,7 +22073,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7004,
         "listing_id": "listing_hades_steam",
         "recorded_date": "2024-06-27",
-        "price": 8.49,
+        "price": 679,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22081,7 +22081,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7005,
         "listing_id": "listing_hades_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -22089,7 +22089,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7006,
         "listing_id": "listing_hades_epic",
         "recorded_date": "2023-11-15",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22097,7 +22097,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7007,
         "listing_id": "listing_hades_epic",
         "recorded_date": "2024-06-27",
-        "price": 8.49,
+        "price": 679,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22105,7 +22105,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7008,
         "listing_id": "listing_hades_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -22113,7 +22113,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7009,
         "listing_id": "listing_hades_playstation",
         "recorded_date": "2023-11-15",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22121,7 +22121,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7010,
         "listing_id": "listing_hades_playstation",
         "recorded_date": "2024-06-27",
-        "price": 8.49,
+        "price": 679,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22129,7 +22129,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7011,
         "listing_id": "listing_hades_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -22137,7 +22137,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7012,
         "listing_id": "listing_hades_xbox",
         "recorded_date": "2023-11-15",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22145,7 +22145,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7013,
         "listing_id": "listing_hades_xbox",
         "recorded_date": "2024-06-27",
-        "price": 8.49,
+        "price": 679,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22153,7 +22153,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7014,
         "listing_id": "listing_hades_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -22161,7 +22161,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7015,
         "listing_id": "listing_hades_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22169,7 +22169,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7016,
         "listing_id": "listing_hades_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 8.49,
+        "price": 679,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22177,7 +22177,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7017,
         "listing_id": "listing_hades_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -22190,7 +22190,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7018,
         "listing_id": "listing_undertale_steam",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22198,7 +22198,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7019,
         "listing_id": "listing_undertale_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.49,
+        "price": 199,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22206,7 +22206,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7020,
         "listing_id": "listing_undertale_steam",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22214,7 +22214,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7021,
         "listing_id": "listing_undertale_gog",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22222,7 +22222,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7022,
         "listing_id": "listing_undertale_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.49,
+        "price": 199,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22230,7 +22230,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7023,
         "listing_id": "listing_undertale_gog",
         "recorded_date": "2026-09-20",
-        "price": 2.5,
+        "price": 200,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -22238,7 +22238,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7024,
         "listing_id": "listing_undertale_playstation",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22246,7 +22246,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7025,
         "listing_id": "listing_undertale_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.49,
+        "price": 199,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22254,7 +22254,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7026,
         "listing_id": "listing_undertale_playstation",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22262,7 +22262,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7027,
         "listing_id": "listing_undertale_xbox",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22270,7 +22270,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7028,
         "listing_id": "listing_undertale_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.49,
+        "price": 199,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22278,7 +22278,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7029,
         "listing_id": "listing_undertale_xbox",
         "recorded_date": "2026-09-20",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22286,7 +22286,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7030,
         "listing_id": "listing_undertale_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22294,7 +22294,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7031,
         "listing_id": "listing_undertale_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 2.49,
+        "price": 199,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22302,7 +22302,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7032,
         "listing_id": "listing_undertale_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 5,
+        "price": 400,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -22392,7 +22392,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7042,
         "listing_id": "listing_inside_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22400,7 +22400,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7043,
         "listing_id": "listing_inside_steam",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22408,7 +22408,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7044,
         "listing_id": "listing_inside_steam",
         "recorded_date": "2026-09-20",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22416,7 +22416,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7045,
         "listing_id": "listing_inside_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22424,7 +22424,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7046,
         "listing_id": "listing_inside_gog",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22432,7 +22432,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7047,
         "listing_id": "listing_inside_gog",
         "recorded_date": "2026-09-20",
-        "price": 2,
+        "price": 160,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22440,7 +22440,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7048,
         "listing_id": "listing_inside_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22448,7 +22448,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7049,
         "listing_id": "listing_inside_epic",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22456,7 +22456,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7050,
         "listing_id": "listing_inside_epic",
         "recorded_date": "2026-09-20",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22464,7 +22464,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7051,
         "listing_id": "listing_inside_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22472,7 +22472,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7052,
         "listing_id": "listing_inside_playstation",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22480,7 +22480,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7053,
         "listing_id": "listing_inside_playstation",
         "recorded_date": "2026-09-20",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22488,7 +22488,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7054,
         "listing_id": "listing_inside_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22496,7 +22496,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7055,
         "listing_id": "listing_inside_xbox",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22504,7 +22504,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7056,
         "listing_id": "listing_inside_xbox",
         "recorded_date": "2026-09-20",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22512,7 +22512,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7057,
         "listing_id": "listing_inside_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22520,7 +22520,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7058,
         "listing_id": "listing_inside_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 1.99,
+        "price": 159,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22528,7 +22528,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7059,
         "listing_id": "listing_inside_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -22541,7 +22541,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7060,
         "listing_id": "listing_limbo_steam",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22549,7 +22549,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7061,
         "listing_id": "listing_limbo_steam",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22557,7 +22557,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7062,
         "listing_id": "listing_limbo_steam",
         "recorded_date": "2026-09-20",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22565,7 +22565,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7063,
         "listing_id": "listing_limbo_gog",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22573,7 +22573,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7064,
         "listing_id": "listing_limbo_gog",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22581,7 +22581,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7065,
         "listing_id": "listing_limbo_gog",
         "recorded_date": "2026-09-20",
-        "price": 1,
+        "price": 80,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22589,7 +22589,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7066,
         "listing_id": "listing_limbo_epic",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22597,7 +22597,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7067,
         "listing_id": "listing_limbo_epic",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22605,7 +22605,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7068,
         "listing_id": "listing_limbo_epic",
         "recorded_date": "2026-09-20",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22613,7 +22613,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7069,
         "listing_id": "listing_limbo_playstation",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22621,7 +22621,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7070,
         "listing_id": "listing_limbo_playstation",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22629,7 +22629,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7071,
         "listing_id": "listing_limbo_playstation",
         "recorded_date": "2026-09-20",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22637,7 +22637,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7072,
         "listing_id": "listing_limbo_xbox",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22645,7 +22645,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7073,
         "listing_id": "listing_limbo_xbox",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22653,7 +22653,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7074,
         "listing_id": "listing_limbo_xbox",
         "recorded_date": "2026-09-20",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -22661,7 +22661,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7075,
         "listing_id": "listing_limbo_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22669,7 +22669,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7076,
         "listing_id": "listing_limbo_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 0.99,
+        "price": 79,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22677,7 +22677,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7077,
         "listing_id": "listing_limbo_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 5,
+        "price": 400,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -22690,7 +22690,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7078,
         "listing_id": "listing_little_nightmares_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22698,7 +22698,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7079,
         "listing_id": "listing_little_nightmares_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22706,7 +22706,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7080,
         "listing_id": "listing_little_nightmares_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -22714,7 +22714,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7081,
         "listing_id": "listing_little_nightmares_gog",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22722,7 +22722,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7082,
         "listing_id": "listing_little_nightmares_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22730,7 +22730,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7083,
         "listing_id": "listing_little_nightmares_gog",
         "recorded_date": "2026-09-20",
-        "price": 4,
+        "price": 320,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -22738,7 +22738,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7084,
         "listing_id": "listing_little_nightmares_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22746,7 +22746,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7085,
         "listing_id": "listing_little_nightmares_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22754,7 +22754,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7086,
         "listing_id": "listing_little_nightmares_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -22762,7 +22762,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7087,
         "listing_id": "listing_little_nightmares_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22770,7 +22770,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7088,
         "listing_id": "listing_little_nightmares_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22778,7 +22778,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7089,
         "listing_id": "listing_little_nightmares_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -22786,7 +22786,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7090,
         "listing_id": "listing_little_nightmares_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22794,7 +22794,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7091,
         "listing_id": "listing_little_nightmares_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22802,7 +22802,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7092,
         "listing_id": "listing_little_nightmares_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -22815,7 +22815,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7093,
         "listing_id": "listing_euro_truck_simulator_2_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22823,7 +22823,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7094,
         "listing_id": "listing_euro_truck_simulator_2_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22831,7 +22831,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7095,
         "listing_id": "listing_euro_truck_simulator_2_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -22844,7 +22844,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7096,
         "listing_id": "listing_american_truck_simulator_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22852,7 +22852,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7097,
         "listing_id": "listing_american_truck_simulator_steam",
         "recorded_date": "2024-06-27",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22860,7 +22860,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7098,
         "listing_id": "listing_american_truck_simulator_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -22873,7 +22873,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7099,
         "listing_id": "listing_cities_skylines_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22881,7 +22881,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7100,
         "listing_id": "listing_cities_skylines_steam",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22889,7 +22889,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7101,
         "listing_id": "listing_cities_skylines_steam",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22897,7 +22897,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7102,
         "listing_id": "listing_cities_skylines_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22905,7 +22905,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7103,
         "listing_id": "listing_cities_skylines_epic",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22913,7 +22913,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7104,
         "listing_id": "listing_cities_skylines_epic",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22921,7 +22921,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7105,
         "listing_id": "listing_cities_skylines_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22929,7 +22929,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7106,
         "listing_id": "listing_cities_skylines_playstation",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22937,7 +22937,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7107,
         "listing_id": "listing_cities_skylines_playstation",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22945,7 +22945,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7108,
         "listing_id": "listing_cities_skylines_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22953,7 +22953,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7109,
         "listing_id": "listing_cities_skylines_xbox",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22961,7 +22961,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7110,
         "listing_id": "listing_cities_skylines_xbox",
         "recorded_date": "2026-09-20",
-        "price": 8.99,
+        "price": 719,
         "discount_percent": 70,
         "event_name": "Current Special Promotion"
       },
@@ -22969,7 +22969,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7111,
         "listing_id": "listing_cities_skylines_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -22977,7 +22977,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7112,
         "listing_id": "listing_cities_skylines_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -22985,7 +22985,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7113,
         "listing_id": "listing_cities_skylines_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -22998,7 +22998,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7114,
         "listing_id": "listing_cities_skylines_ii_steam",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23006,7 +23006,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7115,
         "listing_id": "listing_cities_skylines_ii_steam",
         "recorded_date": "2024-06-27",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23014,7 +23014,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7116,
         "listing_id": "listing_cities_skylines_ii_steam",
         "recorded_date": "2026-09-20",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Current Special Promotion"
       },
@@ -23022,7 +23022,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7117,
         "listing_id": "listing_cities_skylines_ii_playstation",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23030,7 +23030,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7118,
         "listing_id": "listing_cities_skylines_ii_playstation",
         "recorded_date": "2024-06-27",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23038,7 +23038,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7119,
         "listing_id": "listing_cities_skylines_ii_playstation",
         "recorded_date": "2026-09-20",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Current Special Promotion"
       },
@@ -23046,7 +23046,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7120,
         "listing_id": "listing_cities_skylines_ii_xbox",
         "recorded_date": "2023-11-15",
-        "price": 49.99,
+        "price": 3999,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23054,7 +23054,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7121,
         "listing_id": "listing_cities_skylines_ii_xbox",
         "recorded_date": "2024-06-27",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23062,7 +23062,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7122,
         "listing_id": "listing_cities_skylines_ii_xbox",
         "recorded_date": "2026-09-20",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 30,
         "event_name": "Current Special Promotion"
       }
@@ -23075,7 +23075,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7123,
         "listing_id": "listing_kerbal_space_program_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23083,7 +23083,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7124,
         "listing_id": "listing_kerbal_space_program_steam",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23091,7 +23091,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7125,
         "listing_id": "listing_kerbal_space_program_steam",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23099,7 +23099,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7126,
         "listing_id": "listing_kerbal_space_program_gog",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23107,7 +23107,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7127,
         "listing_id": "listing_kerbal_space_program_gog",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23115,7 +23115,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7128,
         "listing_id": "listing_kerbal_space_program_gog",
         "recorded_date": "2026-09-20",
-        "price": 8,
+        "price": 640,
         "discount_percent": 80,
         "event_name": "Current Special Promotion"
       },
@@ -23123,7 +23123,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7129,
         "listing_id": "listing_kerbal_space_program_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23131,7 +23131,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7130,
         "listing_id": "listing_kerbal_space_program_epic",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23139,7 +23139,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7131,
         "listing_id": "listing_kerbal_space_program_epic",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23147,7 +23147,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7132,
         "listing_id": "listing_kerbal_space_program_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23155,7 +23155,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7133,
         "listing_id": "listing_kerbal_space_program_playstation",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23163,7 +23163,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7134,
         "listing_id": "listing_kerbal_space_program_playstation",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23171,7 +23171,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7135,
         "listing_id": "listing_kerbal_space_program_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23179,7 +23179,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7136,
         "listing_id": "listing_kerbal_space_program_xbox",
         "recorded_date": "2024-06-27",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23187,7 +23187,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7137,
         "listing_id": "listing_kerbal_space_program_xbox",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       }
@@ -23200,7 +23200,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7138,
         "listing_id": "listing_the_long_dark_steam",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23208,7 +23208,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7139,
         "listing_id": "listing_the_long_dark_steam",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23216,7 +23216,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7140,
         "listing_id": "listing_the_long_dark_steam",
         "recorded_date": "2026-09-20",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23224,7 +23224,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7141,
         "listing_id": "listing_the_long_dark_gog",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23232,7 +23232,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7142,
         "listing_id": "listing_the_long_dark_gog",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23240,7 +23240,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7143,
         "listing_id": "listing_the_long_dark_gog",
         "recorded_date": "2026-09-20",
-        "price": 12.25,
+        "price": 980,
         "discount_percent": 65,
         "event_name": "Current Special Promotion"
       },
@@ -23248,7 +23248,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7144,
         "listing_id": "listing_the_long_dark_epic",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23256,7 +23256,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7145,
         "listing_id": "listing_the_long_dark_epic",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23264,7 +23264,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7146,
         "listing_id": "listing_the_long_dark_epic",
         "recorded_date": "2026-09-20",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23272,7 +23272,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7147,
         "listing_id": "listing_the_long_dark_playstation",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23280,7 +23280,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7148,
         "listing_id": "listing_the_long_dark_playstation",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23288,7 +23288,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7149,
         "listing_id": "listing_the_long_dark_playstation",
         "recorded_date": "2026-09-20",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23296,7 +23296,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7150,
         "listing_id": "listing_the_long_dark_xbox",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23304,7 +23304,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7151,
         "listing_id": "listing_the_long_dark_xbox",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23312,7 +23312,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7152,
         "listing_id": "listing_the_long_dark_xbox",
         "recorded_date": "2026-09-20",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23320,7 +23320,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7153,
         "listing_id": "listing_the_long_dark_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 34.99,
+        "price": 2799,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23328,7 +23328,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7154,
         "listing_id": "listing_the_long_dark_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 66,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23336,7 +23336,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7155,
         "listing_id": "listing_the_long_dark_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 13.99,
+        "price": 1119,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -23349,7 +23349,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7156,
         "listing_id": "listing_7_days_to_die_steam",
         "recorded_date": "2023-11-15",
-        "price": 44.99,
+        "price": 3599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23357,7 +23357,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7157,
         "listing_id": "listing_7_days_to_die_steam",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 44,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23365,7 +23365,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7158,
         "listing_id": "listing_7_days_to_die_steam",
         "recorded_date": "2026-09-20",
-        "price": 33.74,
+        "price": 2699,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       },
@@ -23373,7 +23373,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7159,
         "listing_id": "listing_7_days_to_die_playstation",
         "recorded_date": "2023-11-15",
-        "price": 44.99,
+        "price": 3599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23381,7 +23381,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7160,
         "listing_id": "listing_7_days_to_die_playstation",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 44,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23389,7 +23389,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7161,
         "listing_id": "listing_7_days_to_die_playstation",
         "recorded_date": "2026-09-20",
-        "price": 33.74,
+        "price": 2699,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       },
@@ -23397,7 +23397,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7162,
         "listing_id": "listing_7_days_to_die_xbox",
         "recorded_date": "2023-11-15",
-        "price": 44.99,
+        "price": 3599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23405,7 +23405,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7163,
         "listing_id": "listing_7_days_to_die_xbox",
         "recorded_date": "2024-06-27",
-        "price": 24.99,
+        "price": 1999,
         "discount_percent": 44,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23413,7 +23413,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7164,
         "listing_id": "listing_7_days_to_die_xbox",
         "recorded_date": "2026-09-20",
-        "price": 33.74,
+        "price": 2699,
         "discount_percent": 25,
         "event_name": "Current Special Promotion"
       }
@@ -23426,7 +23426,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7165,
         "listing_id": "listing_ark_survival_evolved_steam",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23434,7 +23434,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7166,
         "listing_id": "listing_ark_survival_evolved_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23442,7 +23442,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7167,
         "listing_id": "listing_ark_survival_evolved_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23450,7 +23450,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7168,
         "listing_id": "listing_ark_survival_evolved_epic",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23458,7 +23458,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7169,
         "listing_id": "listing_ark_survival_evolved_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23466,7 +23466,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7170,
         "listing_id": "listing_ark_survival_evolved_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23474,7 +23474,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7171,
         "listing_id": "listing_ark_survival_evolved_playstation",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23482,7 +23482,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7172,
         "listing_id": "listing_ark_survival_evolved_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23490,7 +23490,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7173,
         "listing_id": "listing_ark_survival_evolved_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23498,7 +23498,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7174,
         "listing_id": "listing_ark_survival_evolved_xbox",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23506,7 +23506,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7175,
         "listing_id": "listing_ark_survival_evolved_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23514,7 +23514,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7176,
         "listing_id": "listing_ark_survival_evolved_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.99,
+        "price": 399,
         "discount_percent": 75,
         "event_name": "Current Special Promotion"
       },
@@ -23522,7 +23522,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7177,
         "listing_id": "listing_ark_survival_evolved_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23530,7 +23530,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7178,
         "listing_id": "listing_ark_survival_evolved_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 80,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23538,7 +23538,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7179,
         "listing_id": "listing_ark_survival_evolved_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 9.99,
+        "price": 799,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -23551,7 +23551,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7180,
         "listing_id": "listing_grounded_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23559,7 +23559,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7181,
         "listing_id": "listing_grounded_steam",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23567,7 +23567,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7182,
         "listing_id": "listing_grounded_steam",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -23575,7 +23575,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7183,
         "listing_id": "listing_grounded_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23583,7 +23583,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7184,
         "listing_id": "listing_grounded_playstation",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23591,7 +23591,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7185,
         "listing_id": "listing_grounded_playstation",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -23599,7 +23599,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7186,
         "listing_id": "listing_grounded_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23607,7 +23607,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7187,
         "listing_id": "listing_grounded_xbox",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23615,7 +23615,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7188,
         "listing_id": "listing_grounded_xbox",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       },
@@ -23623,7 +23623,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7189,
         "listing_id": "listing_grounded_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23631,7 +23631,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7190,
         "listing_id": "listing_grounded_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23639,7 +23639,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7191,
         "listing_id": "listing_grounded_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 19.99,
+        "price": 1599,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }
@@ -23652,7 +23652,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7192,
         "listing_id": "listing_astroneer_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23660,7 +23660,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7193,
         "listing_id": "listing_astroneer_steam",
         "recorded_date": "2024-06-27",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23668,7 +23668,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7194,
         "listing_id": "listing_astroneer_steam",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23676,7 +23676,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7195,
         "listing_id": "listing_astroneer_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23684,7 +23684,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7196,
         "listing_id": "listing_astroneer_playstation",
         "recorded_date": "2024-06-27",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23692,7 +23692,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7197,
         "listing_id": "listing_astroneer_playstation",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23700,7 +23700,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7198,
         "listing_id": "listing_astroneer_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23708,7 +23708,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7199,
         "listing_id": "listing_astroneer_xbox",
         "recorded_date": "2024-06-27",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23716,7 +23716,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7200,
         "listing_id": "listing_astroneer_xbox",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       },
@@ -23724,7 +23724,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7201,
         "listing_id": "listing_astroneer_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23732,7 +23732,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7202,
         "listing_id": "listing_astroneer_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 9.89,
+        "price": 791,
         "discount_percent": 67,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23740,7 +23740,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7203,
         "listing_id": "listing_astroneer_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 11.99,
+        "price": 959,
         "discount_percent": 60,
         "event_name": "Current Special Promotion"
       }
@@ -23753,7 +23753,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7204,
         "listing_id": "listing_star_wars_jedi_fallen_order_steam",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23761,7 +23761,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7205,
         "listing_id": "listing_star_wars_jedi_fallen_order_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23769,7 +23769,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7206,
         "listing_id": "listing_star_wars_jedi_fallen_order_steam",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -23777,7 +23777,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7207,
         "listing_id": "listing_star_wars_jedi_fallen_order_epic",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23785,7 +23785,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7208,
         "listing_id": "listing_star_wars_jedi_fallen_order_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23793,7 +23793,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7209,
         "listing_id": "listing_star_wars_jedi_fallen_order_epic",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -23801,7 +23801,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7210,
         "listing_id": "listing_star_wars_jedi_fallen_order_playstation",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23809,7 +23809,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7211,
         "listing_id": "listing_star_wars_jedi_fallen_order_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23817,7 +23817,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7212,
         "listing_id": "listing_star_wars_jedi_fallen_order_playstation",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -23825,7 +23825,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7213,
         "listing_id": "listing_star_wars_jedi_fallen_order_xbox",
         "recorded_date": "2023-11-15",
-        "price": 39.99,
+        "price": 3199,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23833,7 +23833,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7214,
         "listing_id": "listing_star_wars_jedi_fallen_order_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23841,7 +23841,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7215,
         "listing_id": "listing_star_wars_jedi_fallen_order_xbox",
         "recorded_date": "2026-09-20",
-        "price": 5.99,
+        "price": 479,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       }
@@ -23854,7 +23854,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7216,
         "listing_id": "listing_a_short_hike_steam",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23862,7 +23862,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7217,
         "listing_id": "listing_a_short_hike_steam",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23870,7 +23870,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7218,
         "listing_id": "listing_a_short_hike_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -23878,7 +23878,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7219,
         "listing_id": "listing_a_short_hike_gog",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23886,7 +23886,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7220,
         "listing_id": "listing_a_short_hike_gog",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23894,7 +23894,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7221,
         "listing_id": "listing_a_short_hike_gog",
         "recorded_date": "2026-09-20",
-        "price": 4.39,
+        "price": 351,
         "discount_percent": 45,
         "event_name": "Current Special Promotion"
       },
@@ -23902,7 +23902,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7222,
         "listing_id": "listing_a_short_hike_epic",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23910,7 +23910,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7223,
         "listing_id": "listing_a_short_hike_epic",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23918,7 +23918,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7224,
         "listing_id": "listing_a_short_hike_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -23926,7 +23926,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7225,
         "listing_id": "listing_a_short_hike_playstation",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23934,7 +23934,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7226,
         "listing_id": "listing_a_short_hike_playstation",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23942,7 +23942,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7227,
         "listing_id": "listing_a_short_hike_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -23950,7 +23950,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7228,
         "listing_id": "listing_a_short_hike_xbox",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23958,7 +23958,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7229,
         "listing_id": "listing_a_short_hike_xbox",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23966,7 +23966,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7230,
         "listing_id": "listing_a_short_hike_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       },
@@ -23974,7 +23974,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7231,
         "listing_id": "listing_a_short_hike_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 7.99,
+        "price": 639,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -23982,7 +23982,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7232,
         "listing_id": "listing_a_short_hike_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 3.99,
+        "price": 319,
         "discount_percent": 50,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -23990,7 +23990,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7233,
         "listing_id": "listing_a_short_hike_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 4.79,
+        "price": 383,
         "discount_percent": 40,
         "event_name": "Current Special Promotion"
       }
@@ -24003,7 +24003,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7234,
         "listing_id": "listing_the_talos_principle_steam",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24011,7 +24011,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7235,
         "listing_id": "listing_the_talos_principle_steam",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24019,7 +24019,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7236,
         "listing_id": "listing_the_talos_principle_steam",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -24027,7 +24027,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7237,
         "listing_id": "listing_the_talos_principle_gog",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24035,7 +24035,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7238,
         "listing_id": "listing_the_talos_principle_gog",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24043,7 +24043,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7239,
         "listing_id": "listing_the_talos_principle_gog",
         "recorded_date": "2026-09-20",
-        "price": 3,
+        "price": 240,
         "discount_percent": 90,
         "event_name": "Current Special Promotion"
       },
@@ -24051,7 +24051,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7240,
         "listing_id": "listing_the_talos_principle_epic",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24059,7 +24059,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7241,
         "listing_id": "listing_the_talos_principle_epic",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24067,7 +24067,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7242,
         "listing_id": "listing_the_talos_principle_epic",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -24075,7 +24075,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7243,
         "listing_id": "listing_the_talos_principle_playstation",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24083,7 +24083,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7244,
         "listing_id": "listing_the_talos_principle_playstation",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24091,7 +24091,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7245,
         "listing_id": "listing_the_talos_principle_playstation",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -24099,7 +24099,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7246,
         "listing_id": "listing_the_talos_principle_xbox",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24107,7 +24107,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7247,
         "listing_id": "listing_the_talos_principle_xbox",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24115,7 +24115,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7248,
         "listing_id": "listing_the_talos_principle_xbox",
         "recorded_date": "2026-09-20",
-        "price": 4.49,
+        "price": 359,
         "discount_percent": 85,
         "event_name": "Current Special Promotion"
       },
@@ -24123,7 +24123,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7249,
         "listing_id": "listing_the_talos_principle_nintendo",
         "recorded_date": "2023-11-15",
-        "price": 29.99,
+        "price": 2399,
         "discount_percent": 0,
         "event_name": "Standard Store Price"
       },
@@ -24131,7 +24131,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7250,
         "listing_id": "listing_the_talos_principle_nintendo",
         "recorded_date": "2024-06-27",
-        "price": 2.99,
+        "price": 239,
         "discount_percent": 90,
         "event_name": "Summer Season Historic Low Promotion"
       },
@@ -24139,7 +24139,7 @@ export const BATCH4_PRICE_HISTORIES: { game_id: string; history: PriceHistoryPoi
         "id": 7251,
         "listing_id": "listing_the_talos_principle_nintendo",
         "recorded_date": "2026-09-20",
-        "price": 14.99,
+        "price": 1199,
         "discount_percent": 50,
         "event_name": "Current Special Promotion"
       }

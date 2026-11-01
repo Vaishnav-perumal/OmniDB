@@ -704,9 +704,9 @@ ORDER BY pl.current_price ASC;`}</pre>
                     <td className="py-2 px-3 text-[#38bdf8]">{l.id}</td>
                     <td className="py-2 px-3 uppercase">{l.platform_id}</td>
                     <td className="py-2 px-3 text-zinc-400">{l.store_app_id}</td>
-                    <td className="py-2 px-3 font-bold text-white">${l.current_price.toFixed(2)}</td>
+                    <td className="py-2 px-3 font-bold text-white">{formatPrice(l.current_price)}</td>
                     <td className="py-2 px-3 text-[#a4d007]">-{l.discount_percent}%</td>
-                    <td className="py-2 px-3">${l.historical_low_price.toFixed(2)}</td>
+                    <td className="py-2 px-3">{formatPrice(l.historical_low_price)}</td>
                     <td className="py-2 px-3 text-zinc-400">{l.drm_type}</td>
                   </tr>
                 ))}

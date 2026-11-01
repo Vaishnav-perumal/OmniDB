@@ -212,7 +212,7 @@ export const RechartsPriceHistoryChart: React.FC<RechartsPriceHistoryChartProps>
                   <span className="text-zinc-200 font-semibold">{conf?.name || pid}:</span>
                 </div>
                 <div className="flex items-center gap-1.5">
-                  <span className="font-bold text-white">${Number(item.value).toFixed(2)}</span>
+                  <span className="font-bold text-white">{formatPrice(Number(item.value))}</span>
                   {discount > 0 && (
                     <span className="px-1.5 py-0.2 rounded text-[10px] bg-emerald-500/20 text-emerald-300 font-bold">
                       -{discount}%
@@ -388,7 +388,7 @@ export const RechartsPriceHistoryChart: React.FC<RechartsPriceHistoryChartProps>
                 <YAxis
                   stroke="#475569"
                   tick={{ fill: '#64748b', fontSize: 11, fontFamily: 'monospace' }}
-                  tickFormatter={val => `$${val}`}
+                  tickFormatter={val => `₹${Math.round(val).toLocaleString('en-IN')}`}
                   domain={['auto', 'auto']}
                   tickLine={false}
                   axisLine={false}
@@ -403,7 +403,7 @@ export const RechartsPriceHistoryChart: React.FC<RechartsPriceHistoryChartProps>
                     strokeDasharray="4 4"
                     strokeWidth={1.5}
                     label={{
-                      value: `Record Low ($${stats.histLow.toFixed(2)})`,
+                      value: `Record Low (${formatPrice(stats.histLow)})`,
                       fill: '#10b981',
                       fontSize: 10,
                       position: 'insideBottomRight',
@@ -420,7 +420,7 @@ export const RechartsPriceHistoryChart: React.FC<RechartsPriceHistoryChartProps>
                     strokeDasharray="3 3"
                     strokeWidth={1.5}
                     label={{
-                      value: `Target Alert ($${targetPrice.toFixed(2)})`,
+                      value: `Target Alert (${formatPrice(targetPrice)})`,
                       fill: '#f59e0b',
                       fontSize: 10,
                       position: 'insideTopRight',

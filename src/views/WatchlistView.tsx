@@ -176,7 +176,7 @@ export const WatchlistView: React.FC<WatchlistViewProps> = ({
                     Your Target Price
                   </span>
                   <span className="text-base font-bold text-[#66c0f4]">
-                    ${item.target_price.toFixed(2)}
+                    {formatPrice(item.target_price)}
                   </span>
                 </div>
 
